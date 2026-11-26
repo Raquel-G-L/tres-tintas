@@ -40,9 +40,10 @@ window.POLY_DATA = (function () {
               [
                 ["Caracteres, pinyin y tonos", "El chino se escribe con caracteres (汉字, hànzì). El pinyin es la transcripción al alfabeto latino que te ayuda a pronunciar. Cada sílaba tiene uno de cuatro tonos: ¯ (alto), ˊ (ascendente), ˇ (cayente-ascendente) y ˋ (descendente).", [["你", "nǐ", "tú (3.º tono)"], ["好", "hǎo", "bueno (3.º tono)"], ["妈", "mā", "mamá (1.º tono)"]]],
                 ["Ser y llamarse", "El verbo 是 (shì) significa «ser», mientras que 叫 (jiào) se usa para «llamarse». El orden de las palabras es similar al español: sujeto + verbo + complemento.", [["我是学生。", "Wǒ shì xuésheng.", "Soy estudiante."], ["我叫安娜。", "Wǒ jiào Ānnà.", "Me llamo Ana."]]],
+                ["Tú y usted", "你 (nǐ) es «tú», para personas cercanas o de la misma edad. 您 (nín) es el tratamiento de respeto. El saludo cambia con el registro: 你好 (nǐ hǎo) es «hola» entre iguales y 您好 (nín hǎo) es «hola» con respeto.", [["你", "nǐ", "tú"], ["您", "nín", "usted"], ["您好", "nín hǎo", "hola (respetuoso)"]]],
               ],
-              [["你", "nǐ", "tú"], ["好", "hǎo", "bueno"], ["您好", "nín hǎo", "hola (formal)"], ["我", "wǒ", "yo"], ["是", "shì", "ser"], ["名字", "míngzi", "nombre"], ["叫", "jiào", "llamarse"], ["再见", "zàijiàn", "adiós"], ["朋友", "péngyou", "amigo"], ["谢谢", "xièxie", "gracias"]],
-              [["你好！", "Nǐ hǎo!", "¡Hola!"], ["我叫安娜。", "Wǒ jiào Ānnà.", "Me llamo Ana."], ["你叫什么名字？", "Nǐ jiào shénme míngzi?", "¿Cómo te llamas?"], ["很高兴认识你。", "Hěn gāoxìng rènshi nǐ.", "Mucho gusto en conocerte."]],
+              [["你", "nǐ", "tú"], ["好", "hǎo", "bueno"], ["您", "nín", "usted"], ["我", "wǒ", "yo"], ["是", "shì", "ser"], ["名字", "míngzi", "nombre"], ["叫", "jiào", "llamarse"], ["再见", "zàijiàn", "adiós"], ["朋友", "péngyou", "amigo"], ["谢谢", "xièxie", "gracias"]],
+              [["你好！", "Nǐ hǎo!", "¡Hola! (entre iguales)"], ["您好！", "Nín hǎo!", "¡Hola! (con respeto)"], ["我叫安娜。", "Wǒ jiào Ānnà.", "Me llamo Ana."], ["你叫什么名字？", "Nǐ jiào shénme míngzi?", "¿Cómo te llamas?"], ["很高兴认识你。", "Hěn gāoxìng rènshi nǐ.", "Mucho gusto en conocerte."]],
               [["¿Cómo se dice «gracias» en chino?", ["再见", "谢谢", "你好"], 1, "谢谢 (xièxie) significa «gracias»."], ["Completa: 我 ___ 安娜。", ["是", "叫", "好"], 1, "Se usa 叫 (jiào) para decir el nombre: 我叫安娜。"], ["¿Cómo preguntas «¿Cómo te llamas?»", ["你好吗？", "你叫什么名字？", "你是谁？"], 1, "你叫什么名字？ literally «¿tú te llamas qué nombre?»."]]
             ),
             lesson(

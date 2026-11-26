@@ -14,7 +14,7 @@
   {
     "id": "zh-a1-v2",
     "lang": "zh-CN",
-    "text": "您好",
+    "text": "您",
     "file": "clips/zh/zh-a1/v2.mp3"
   },
   {
@@ -68,20 +68,26 @@
   {
     "id": "zh-a1-p1",
     "lang": "zh-CN",
-    "text": "我叫安娜。",
+    "text": "您好！",
     "file": "clips/zh/zh-a1/p1.mp3"
   },
   {
     "id": "zh-a1-p2",
     "lang": "zh-CN",
-    "text": "你叫什么名字？",
+    "text": "我叫安娜。",
     "file": "clips/zh/zh-a1/p2.mp3"
   },
   {
     "id": "zh-a1-p3",
     "lang": "zh-CN",
-    "text": "很高兴认识你。",
+    "text": "你叫什么名字？",
     "file": "clips/zh/zh-a1/p3.mp3"
+  },
+  {
+    "id": "zh-a1-p4",
+    "lang": "zh-CN",
+    "text": "很高兴认识你。",
+    "file": "clips/zh/zh-a1/p4.mp3"
   },
   {
     "id": "zh-a2-v0",

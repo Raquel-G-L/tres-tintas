@@ -355,7 +355,7 @@ a { color: inherit; text-decoration: none; }
 }
 .vocab-table td { padding: 11px 14px; border-top: 1px solid var(--border); font-size: 14px; vertical-align: middle; }
 .vocab-table tr:hover td { background: color-mix(in srgb, var(--surface-2) 60%, transparent); }
-.vocab-term { font-size: 17px; font-weight: 700; }
+.vocab-table .vocab-term { font-size: 19px; font-weight: 500; font-family: "Segoe UI", "Microsoft YaHei", "PingFang SC", "Hiragino Sans GB", "Yu Gothic", "Malgun Gothic", sans-serif; }
 .vocab-reading { color: var(--lang-color); font-weight: 600; font-size: 13px; }
 .vocab-meaning { color: var(--muted); }
 .speak-btn {
@@ -476,6 +476,12 @@ a { color: inherit; text-decoration: none; }
 .switch-link { background: none; border: 0; color: var(--primary); font-weight: 700; font-size: 13px; }
 .switch-link:hover { text-decoration: underline; }
 .auth-switch { text-align: center; font-size: 13px; color: var(--muted); margin-top: 16px; }
+.auth-choice { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+.auth-choice-btn { display: flex; flex-direction: column; align-items: flex-start; gap: 4px; padding: 18px 16px; border: 1px solid var(--border); border-radius: 14px; background: var(--surface); color: var(--text); text-align: left; transition: 0.18s; }
+.auth-choice-btn:hover { border-color: var(--primary); background: var(--primary-soft); transform: translateY(-2px); }
+.auth-choice-icon { font-size: 24px; margin-bottom: 4px; }
+.auth-choice-btn strong { font-size: 14px; }
+@media (max-width: 480px) { .auth-choice { grid-template-columns: 1fr; } }
 
 .menu-dropdown {
   position: absolute; right: 0; top: calc(100% + 8px); width: 210px;
@@ -514,7 +520,7 @@ a { color: inherit; text-decoration: none; }
   display: flex; flex-direction: column; align-items: center; justify-content: center;
   gap: 8px; padding: 24px; box-shadow: var(--shadow-sm);
 }
-.exam-character { font-size: 96px; line-height: 1.1; font-weight: 600; }
+.exam-character { font-size: 96px; line-height: 1.1; font-weight: 500; }
 .exam-character.small-char { font-size: 44px; text-align: center; margin: 8px 0; }
 .exam-pinyin { font-size: 20px; color: var(--lang-color, var(--primary)); font-weight: 700; }
 .exam-meaning { font-size: 22px; font-weight: 700; margin-top: 12px; text-align: center; }

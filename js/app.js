@@ -110,8 +110,7 @@
                 <button class="menu-item danger" data-action="logout">🚪 Cerrar sesión</button>
               </div>` : ""}
             </div>` : `
-            <button class="btn btn-ghost btn-small" data-action="open-auth" data-mode="login">Entrar</button>
-            <button class="btn btn-primary btn-small" data-action="open-auth" data-mode="register">Crear cuenta</button>`}
+            <button class="btn btn-primary btn-small" data-action="open-auth">Entrar</button>`}
         </div>
       </div>
     </header>`;
@@ -136,13 +135,11 @@
           <p class="hero-sub">Temario organizado por los exámenes oficiales (HSK, JLPT y TOPIK), con pronunciación real, caligrafía y recursos descargables.</p>
           <div class="hero-actions">
             <a class="btn btn-hero" href="#/lang/zh">🚀 Empezar a aprender</a>
-            <a class="btn btn-outline" href="#/resources">⬇️ Ver recursos</a>
           </div>
           <div class="hero-stats">
             <div><div class="stat-value">50</div><div class="stat-label">lecciones</div></div>
             <div><div class="stat-value">17</div><div class="stat-label">niveles oficiales</div></div>
-            <div><div class="stat-value">PDF · TXT · MP3</div><div class="stat-label">descargas incluidas</div></div>
-            <div><div class="stat-value">${stats.percent}%</div><div class="stat-label">tu progreso</div></div>
+            <div><div class="stat-value">25.025</div><div class="stat-label">palabras de examen</div></div>
           </div>
         </div>
       </section>
@@ -883,6 +880,33 @@
       modalRoot.innerHTML = "";
       return;
     }
+    if (state.authMode === "choose") {
+      modalRoot.innerHTML = `<div class="modal-overlay" data-action="overlay">
+        <div class="modal" role="dialog" aria-modal="true" aria-label="Acceder a Tres Tintas">
+          <div class="modal-head">
+            <div><h2 class="modal-title">Acceder a Tres Tintas</h2>
+            <p class="modal-sub">Elige una opción para continuar.</p></div>
+            <button class="modal-close" data-action="close-auth" aria-label="Cerrar">✕</button>
+          </div>
+          <div class="modal-body">
+            <div class="auth-choice">
+              <button class="auth-choice-btn" data-action="auth-choose" data-mode="login">
+                <span class="auth-choice-icon">👤</span>
+                <strong>Ya tengo cuenta</strong>
+                <span class="small muted">Iniciar sesión</span>
+              </button>
+              <button class="auth-choice-btn" data-action="auth-choose" data-mode="register">
+                <span class="auth-choice-icon">✨</span>
+                <strong>No tengo cuenta</strong>
+                <span class="small muted">Crear una cuenta gratis</span>
+              </button>
+            </div>
+            <p class="modal-note">Tu progreso se guarda solo en este navegador (modo demostración).</p>
+          </div>
+        </div>
+      </div>`;
+      return;
+    }
     const register = state.authMode === "register";
     modalRoot.innerHTML = `<div class="modal-overlay" data-action="overlay">
       <div class="modal" role="dialog" aria-modal="true" aria-label="${register ? "Crear cuenta" : "Iniciar sesión"}">
@@ -902,9 +926,7 @@
           </div>
         </form>
         <div class="modal-foot">
-          <div class="auth-switch">${register ? "¿Ya tienes cuenta?" : "¿Aún no tienes cuenta?"}
-            <button class="switch-link" data-action="switch-auth" data-mode="${register ? "login" : "register"}">${register ? "Inicia sesión" : "Regístrate gratis"}</button>
-          </div>
+          <div class="auth-switch"><button class="switch-link" data-action="auth-back">← Cambiar de opción</button></div>
         </div>
       </div>
     </div>`;
@@ -981,20 +1003,25 @@
         render();
         break;
       case "open-auth":
-        state.authMode = target.dataset.mode || "login";
+        state.authMode = "choose";
         state.authError = "";
         state.menuOpen = false;
+        renderModal();
+        break;
+      case "auth-choose":
+        state.authMode = target.dataset.mode;
+        state.authError = "";
+        renderModal();
+        break;
+      case "auth-back":
+        state.authMode = "choose";
+        state.authError = "";
         renderModal();
         break;
       case "close-auth":
       case "overlay":
         if (action === "overlay" && ev.target !== target) return;
         state.authMode = null;
-        state.authError = "";
-        renderModal();
-        break;
-      case "switch-auth":
-        state.authMode = target.dataset.mode;
         state.authError = "";
         renderModal();
         break;
