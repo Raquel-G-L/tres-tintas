@@ -53,6 +53,15 @@ async def generate(item, semaphore, stats):
 
 async def main():
     items = json.loads(CLIPS.read_text(encoding="utf-8"))
+    manifest = json.loads((AUDIO_DIR / "manifest.json").read_text(encoding="utf-8"))
+    dirs = {"zh-CN": "zh", "ja-JP": "ja", "ko-KR": "ko"}
+    for lesson_id, entry in manifest.items():
+        items.append({
+            "id": lesson_id,
+            "lang": entry["lang"],
+            "text": entry["text"],
+            "file": f"assets/audio/{dirs.get(entry['lang'], 'zh')}/{lesson_id}.mp3",
+        })
     pending = [i for i in items if not (AUDIO_DIR / i["file"]).exists()]
     if LIMIT:
         pending = pending[:LIMIT]

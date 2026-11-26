@@ -62,13 +62,9 @@ if (fs.existsSync(generatedFile)) {
     const dir = meta ? meta.dir : "zh";
     const words = lesson.vocab.map((w) => w.t).join(", ");
     const phrases = lesson.phrases.map((p) => p.t).join(". ");
+    // Los botones de palabra/frase de estas lecciones reutilizan los MP3
+    // de las listas de examen, así que solo se genera el audio de la lección.
     manifest[lesson.id] = { lang: voice, title: lesson.title, text: `${words}. ${phrases}.` };
-    lesson.vocab.forEach((w, i) => clips.push({
-      id: `${lesson.id}-v${i}`, lang: voice, text: w.t, file: `clips/${dir}/${lesson.id}/v${i}.mp3`,
-    }));
-    lesson.phrases.forEach((p, i) => clips.push({
-      id: `${lesson.id}-p${i}`, lang: voice, text: p.t, file: `clips/${dir}/${lesson.id}/p${i}.mp3`,
-    }));
   });
 }
 

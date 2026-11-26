@@ -1,19 +1,21 @@
 #!/usr/bin/env python3
-"""Genera lecciones de bloque para los niveles con pocas lecciones.
+"""Genera lecciones hasta cubrir TODO el vocabulario oficial de cada nivel.
 
-Objetivo: 6 lecciones por nivel, a partir de las listas oficiales de examen.
+Una lección = 20 palabras nuevas. Las palabras ya usadas en las lecciones
+escritas a mano se omiten. Los botones de audio apuntan a los MP3 de las
+listas de examen que ya existen; solo se genera un MP3 por lección nueva.
 
 Escribe:
-  js/generated-lessons.js    (parchea POLY_DATA al cargar)
+  js/generated-lessons.js     (parchea POLY_DATA al cargar)
   data/generated-lessons.json (para el manifest de audio)
 """
 import json
+import math
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "data"
-TARGET = 6
-PER_LESSON = 10
+PER_LESSON = 20
 
 
 def clean(text):
@@ -23,22 +25,28 @@ def clean(text):
 def make_lesson(level_id, level_name, words, number, lang, lang_dir):
     start = (number - 1) * PER_LESSON + 1
     sample = words[:PER_LESSON]
-    vocab = [{
-        "t": w["char"],
-        "r": w.get("reading") or w.get("romaji") or w.get("pinyin") or "",
-        "m": clean(w["es"]),
-    } for w in sample]
+    vocab = []
+    for w in sample:
+        reading = w.get("reading") or w.get("romaji") or w.get("pinyin") or ""
+        vocab.append({
+            "t": w["char"],
+            "r": reading,
+            "m": clean(w["es"]),
+            "audio": f"assets/audio/clips/{lang_dir}/{level_id}/w{w['id']}.mp3",
+        })
     examples = [[v["t"], v["r"], v["m"]] for v in vocab[:3]]
     phrases = []
     for w in sample[:4]:
-        if w.get("example"):
-            phrases.append([w["example"], w.get("exampleEn", ""), clean(w["es"])])
-        else:
-            reading = w.get("reading") or w.get("romaji") or w.get("pinyin") or ""
-            phrases.append([w["char"], reading, clean(w["es"])])
+        reading = w.get("reading") or w.get("romaji") or w.get("pinyin") or ""
+        phrases.append({
+            "t": w["example"] if w.get("example") else w["char"],
+            "r": w.get("exampleEn", "") if w.get("example") else reading,
+            "m": clean(w["es"]),
+            "audio": f"assets/audio/clips/{lang_dir}/{level_id}/w{w['id']}.mp3",
+        })
     options_pool = [v["m"] for v in vocab]
     quiz = []
-    for i in range(3):
+    for i in range(min(3, len(vocab))):
         correct = vocab[i]["m"]
         distractors = [o for o in options_pool if o != correct][:3]
         answer = i % 4
@@ -54,6 +62,7 @@ def make_lesson(level_id, level_name, words, number, lang, lang_dir):
         "title": f"{level_name} · Bloque {number}",
         "desc": f"Palabras {start}-{start + len(vocab) - 1} del vocabulario oficial de {level_name}.",
         "char": vocab[0]["t"],
+        "generated": True,
         "theory": [{
             "title": "Vocabulario del nivel",
             "text": f"Este bloque reúne {len(vocab)} palabras del nivel {level_name} tomadas de su lista oficial. Estúdialas con el audio y las tarjetas; usa los tests para comprobarlas.",
@@ -70,18 +79,18 @@ def make_lesson(level_id, level_name, words, number, lang, lang_dir):
 
 def main():
     registry = json.loads((DATA / "exam-levels.json").read_text(encoding="utf-8"))
+    used = json.loads((DATA / "used-words.json").read_text(encoding="utf-8"))
     all_generated = []
     by_level = {}
 
     for meta in registry:
         level_id = meta["id"]
-        current = 10 if level_id in ("hsk1", "hsk2") else 2
-        need = TARGET - current
-        if need <= 0:
-            continue
         payload = json.loads((DATA / f"{level_id}.json").read_text(encoding="utf-8"))
-        used = {w["char"] for w in payload["words"][:PER_LESSON * 4]}
-        available = [w for w in payload["words"] if w["char"] not in used]
+        used_chars = set(used.get(level_id, []))
+        available = [w for w in payload["words"] if w["char"] not in used_chars]
+        total_lessons = math.ceil(len(payload["words"]) / PER_LESSON)
+        existing = len([x for x in used_chars])
+        need = max(0, total_lessons - (existing // PER_LESSON))
         lessons = []
         for n in range(1, need + 1):
             chunk = available[(n - 1) * PER_LESSON:n * PER_LESSON]
@@ -90,7 +99,7 @@ def main():
             lessons.append(make_lesson(level_id, meta["name"], chunk, n, meta["lang"], meta["dir"]))
         by_level[level_id] = lessons
         all_generated.extend(lessons)
-        print(f"{meta['name']}: +{len(lessons)} lecciones", flush=True)
+        print(f"{meta['name']}: {len(payload['words'])} palabras -> +{len(lessons)} lecciones", flush=True)
 
     (DATA / "generated-lessons.json").write_text(
         json.dumps(all_generated, ensure_ascii=False, indent=2), encoding="utf-8"

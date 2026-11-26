@@ -43,6 +43,7 @@
     examReadingChecked: false,
     examSearch: "",
     writingFilterCompleted: false,
+    lessonPage: 0,
   };
 
   let writingController = null;
@@ -189,6 +190,10 @@
     const lang = D.findLanguage(langId);
     if (!lang) return notFoundHtml();
     const level = lang.levels.find((l) => l.key === levelKey) || lang.levels[0];
+    const pageSize = 24;
+    const pages = Math.max(1, Math.ceil(level.lessons.length / pageSize));
+    const page = Math.min(state.lessonPage, pages - 1);
+    const shown = level.lessons.slice(page * pageSize, (page + 1) * pageSize);
     const stats = P.stats(uid());
     return `<main class="page"><div class="container" style="--lang-color:${lang.color}">
       <div class="breadcrumb"><a href="#/">Inicio</a><span class="breadcrumb-sep">/</span><span>${E(lang.name)}</span></div>
@@ -215,10 +220,10 @@
         return `<div style="margin:-6px 0 20px"><a class="btn btn-primary" href="#/exam/${lang.id}/${examId}">🎓 Preparación ${E(meta.name)} completa: ${PolyExam.words(examId).length} palabras + tarjetas + simulacro →</a></div>`;
       })()}
       <div class="lesson-grid">
-        ${level.lessons.map((les, i) => {
+        ${shown.map((les, i) => {
           const done = P.isCompleted(uid(), les.id);
           return `<article class="lesson-card ${done ? "completed" : ""}">
-            <div class="lesson-top"><span class="lesson-num">Lección ${i + 1}</span>${done ? '<span class="badge-done">✓ Completada</span>' : ""}</div>
+            <div class="lesson-top"><span class="lesson-num">Lección ${page * pageSize + i + 1}</span>${done ? '<span class="badge-done">✓ Completada</span>' : ""}</div>
             <h3 class="lesson-title">${E(les.title)}</h3>
             <p class="lesson-desc">${E(les.desc)}</p>
             <div class="lesson-meta"><span>📝 ${les.vocab.length} palabras</span><span>💬 ${les.phrases.length} frases</span><span>❓ ${les.quiz.length} preguntas</span></div>
@@ -226,6 +231,11 @@
           </article>`;
         }).join("")}
       </div>
+      ${pages > 1 ? `<div class="writing-controls" style="margin-top:22px">
+        <button class="btn btn-ghost btn-small" data-action="lesson-page" data-page="${page - 1}" ${page === 0 ? "disabled" : ""}>← Anterior</button>
+        <span class="small muted">Página ${page + 1} de ${pages} · ${level.lessons.length} lecciones</span>
+        <button class="btn btn-ghost btn-small" data-action="lesson-page" data-page="${page + 1}" ${page === pages - 1 ? "disabled" : ""}>Siguiente →</button>
+      </div>` : ""}
       <section class="section">
         <div class="tip-box"><strong>Material para imprimir:</strong> la guía PDF/TXT de ${level.name.toLowerCase()} y el vocabulario CSV están en <a href="#/resources">Recursos</a>.</div>
       </section>
@@ -285,7 +295,7 @@
                 <thead><tr><th>Término</th><th>Lectura</th><th>Significado</th><th></th></tr></thead>
                 <tbody>${lesson.vocab.map((w, i) => `<tr>
                   <td class="vocab-term">${E(w.t)}</td><td class="vocab-reading">${E(w.r)}</td><td class="vocab-meaning">${E(w.m)}</td>
-                  <td><button class="speak-btn" data-action="speak" data-src="assets/audio/clips/${lang.id}/${lesson.id}/v${i}.mp3" data-text="${E(w.t)}" data-lang="${lang.voice}" title="Escuchar palabra">🔊</button></td>
+                  <td><button class="speak-btn" data-action="speak" data-src="${w.audio || `assets/audio/clips/${lang.id}/${lesson.id}/v${i}.mp3`}" data-text="${E(w.t)}" data-lang="${lang.voice}" title="Escuchar palabra">🔊</button></td>
                 </tr>`).join("")}</tbody>
               </table>
             </div>
@@ -296,7 +306,7 @@
             <div class="phrase-list">${lesson.phrases.map((p, i) => `<div class="phrase-item">
               <span class="phrase-index">${i + 1}</span>
               <div class="phrase-body"><div class="phrase-text">${E(p.t)}</div><div class="phrase-reading">${E(p.r)}</div><div class="phrase-meaning">${E(p.m)}</div></div>
-              <button class="speak-btn" data-action="speak" data-src="assets/audio/clips/${lang.id}/${lesson.id}/p${i}.mp3" data-text="${E(p.t)}" data-lang="${lang.voice}" title="Escuchar frase">🔊</button>
+              <button class="speak-btn" data-action="speak" data-src="${p.audio || `assets/audio/clips/${lang.id}/${lesson.id}/p${i}.mp3`}" data-text="${E(p.t)}" data-lang="${lang.voice}" title="Escuchar frase">🔊</button>
             </div>`).join("")}</div>
           </section>
 
@@ -1165,6 +1175,10 @@
         break;
       case "writing-practice":
         if (writingController) writingController.practice();
+        break;
+      case "lesson-page":
+        state.lessonPage = Math.max(0, Number(target.dataset.page));
+        render();
         break;
       case "writing-filter":
         state.writingFilterCompleted = !state.writingFilterCompleted;
