@@ -42,6 +42,7 @@
     examReadingAnswers: {},
     examReadingChecked: false,
     examSearch: "",
+    writingFilterCompleted: false,
   };
 
   let writingController = null;
@@ -716,11 +717,63 @@
     return `#/writing/${langId}/${encodeURIComponent(char)}`;
   }
 
+  function writingSources(langId) {
+    const lang = D.findLanguage(langId);
+    if (!lang) return {};
+    const map = {};
+    PolyWriting.get(langId).forEach((entry) => {
+      let found = null;
+      for (const lesson of D.allLessons) {
+        if (lesson.langId !== langId) continue;
+        const texts = [];
+        lesson.vocab.forEach((w) => texts.push(w.t));
+        lesson.phrases.forEach((p) => texts.push(p.t));
+        lesson.theory.forEach((b) => b.examples.forEach((ex) => texts.push(ex.t)));
+        if (texts.includes(entry.char) || texts.some((t) => t.includes(entry.char))) {
+          found = lesson;
+          break;
+        }
+      }
+      if (found) {
+        const lvl = lang.levels.find((l) => l.key === found.levelKey);
+        map[entry.char] = {
+          lessonId: found.id,
+          lessonTitle: found.title,
+          levelName: lvl ? lvl.name : "",
+          order: D.allLessons.indexOf(found),
+        };
+      }
+    });
+    return map;
+  }
+
+  function writingGroups(langId) {
+    const sources = writingSources(langId);
+    const groups = new Map();
+    PolyWriting.get(langId).forEach((entry) => {
+      const src = sources[entry.char];
+      const key = src ? `${src.levelName} · ${src.lessonTitle}` : (langId === "ko" ? "Hangul básico" : "Radicales base");
+      if (!groups.has(key)) {
+        groups.set(key, {
+          title: key,
+          order: src ? src.order : 9999,
+          lessonId: src ? src.lessonId : null,
+          entries: [],
+        });
+      }
+      groups.get(key).entries.push({ entry, src });
+    });
+    return Array.from(groups.values()).sort((a, b) => a.order - b.order);
+  }
+
   function writingHtml(langId, charParam) {
     if (!langId) {
       return `<main class="page"><div class="container">
         <div class="breadcrumb"><a href="#/">Inicio</a><span class="breadcrumb-sep">/</span><span>Caligrafía</span></div>
         <div class="section-head"><div><span class="eyebrow">Libreta de escritura</span><h1 class="h1">Aprende a escribir los caracteres</h1><p class="lead">Orden de trazos animado, práctica dibujando con el dedo o el ratón y caracteres derivados del mismo radical.</p></div></div>
+        <div class="writing-tabs" style="margin-bottom:22px">
+          ${D.languages.map((lang) => `<a class="writing-tab" href="#/writing/${lang.id}">${lang.emoji} ${E(lang.name)}</a>`).join("")}
+        </div>
         <div class="quick-grid">
           ${D.languages.map((lang) => `<a class="quick-card" href="#/writing/${lang.id}" style="--lang-color:${lang.color}">
             <span class="quick-icon" style="background:color-mix(in srgb, ${lang.color} 15%, transparent);color:${lang.color}">${lang.emoji}</span>
