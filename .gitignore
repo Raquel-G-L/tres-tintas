@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores
+.vscode/
+.idea/
+*.swp
+
+# Audio: se sube en commits posteriores (por lotes o Git LFS)
+*.mp3

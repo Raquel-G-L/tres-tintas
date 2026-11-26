@@ -1,0 +1,172 @@
+[
+  {
+    "id": "hsk1",
+    "name": "HSK 1",
+    "lang": "zh",
+    "voice": "zh-CN",
+    "dir": "zh",
+    "levelKey": "hsk1",
+    "count": 150,
+    "source": "https://github.com/drkameleon/complete-hsk-vocabulary (MIT)"
+  },
+  {
+    "id": "hsk2",
+    "name": "HSK 2",
+    "lang": "zh",
+    "voice": "zh-CN",
+    "dir": "zh",
+    "levelKey": "hsk2",
+    "count": 297,
+    "source": "https://github.com/drkameleon/complete-hsk-vocabulary (MIT)"
+  },
+  {
+    "id": "hsk3",
+    "name": "HSK 3",
+    "lang": "zh",
+    "voice": "zh-CN",
+    "dir": "zh",
+    "levelKey": "hsk3",
+    "count": 595,
+    "source": "https://github.com/drkameleon/complete-hsk-vocabulary (MIT)"
+  },
+  {
+    "id": "hsk4",
+    "name": "HSK 4",
+    "lang": "zh",
+    "voice": "zh-CN",
+    "dir": "zh",
+    "levelKey": "hsk4",
+    "count": 1193,
+    "source": "https://github.com/drkameleon/complete-hsk-vocabulary (MIT)"
+  },
+  {
+    "id": "hsk5",
+    "name": "HSK 5",
+    "lang": "zh",
+    "voice": "zh-CN",
+    "dir": "zh",
+    "levelKey": "hsk5",
+    "count": 2491,
+    "source": "https://github.com/drkameleon/complete-hsk-vocabulary (MIT)"
+  },
+  {
+    "id": "hsk6",
+    "name": "HSK 6",
+    "lang": "zh",
+    "voice": "zh-CN",
+    "dir": "zh",
+    "levelKey": "hsk6",
+    "count": 4991,
+    "source": "https://github.com/drkameleon/complete-hsk-vocabulary (MIT)"
+  },
+  {
+    "id": "jlpt-n5",
+    "name": "JLPT N5",
+    "lang": "ja",
+    "voice": "ja-JP",
+    "dir": "ja",
+    "levelKey": "n5",
+    "count": 674,
+    "source": "https://github.com/evanclan/OpenJLPT (CC BY-SA 4.0)"
+  },
+  {
+    "id": "jlpt-n4",
+    "name": "JLPT N4",
+    "lang": "ja",
+    "voice": "ja-JP",
+    "dir": "ja",
+    "levelKey": "n4",
+    "count": 630,
+    "source": "https://github.com/evanclan/OpenJLPT (CC BY-SA 4.0)"
+  },
+  {
+    "id": "jlpt-n3",
+    "name": "JLPT N3",
+    "lang": "ja",
+    "voice": "ja-JP",
+    "dir": "ja",
+    "levelKey": "n3",
+    "count": 1659,
+    "source": "https://github.com/evanclan/OpenJLPT (CC BY-SA 4.0)"
+  },
+  {
+    "id": "jlpt-n2",
+    "name": "JLPT N2",
+    "lang": "ja",
+    "voice": "ja-JP",
+    "dir": "ja",
+    "levelKey": "n2",
+    "count": 1778,
+    "source": "https://github.com/evanclan/OpenJLPT (CC BY-SA 4.0)"
+  },
+  {
+    "id": "jlpt-n1",
+    "name": "JLPT N1",
+    "lang": "ja",
+    "voice": "ja-JP",
+    "dir": "ja",
+    "levelKey": "n1",
+    "count": 3070,
+    "source": "https://github.com/evanclan/OpenJLPT (CC BY-SA 4.0)"
+  },
+  {
+    "id": "topik-1",
+    "name": "TOPIK 1",
+    "lang": "ko",
+    "voice": "ko-KR",
+    "dir": "ko",
+    "levelKey": "topik1",
+    "count": 300,
+    "source": "https://github.com/julienshim/combined_korean_vocabulary_list (MIT)"
+  },
+  {
+    "id": "topik-2",
+    "name": "TOPIK 2",
+    "lang": "ko",
+    "voice": "ko-KR",
+    "dir": "ko",
+    "levelKey": "topik2",
+    "count": 1663,
+    "source": "https://github.com/julienshim/combined_korean_vocabulary_list (MIT)"
+  },
+  {
+    "id": "topik-3",
+    "name": "TOPIK 3",
+    "lang": "ko",
+    "voice": "ko-KR",
+    "dir": "ko",
+    "levelKey": "topik3",
+    "count": 2014,
+    "source": "https://github.com/julienshim/combined_korean_vocabulary_list (MIT)"
+  },
+  {
+    "id": "topik-4",
+    "name": "TOPIK 4",
+    "lang": "ko",
+    "voice": "ko-KR",
+    "dir": "ko",
+    "levelKey": "topik4",
+    "count": 2015,
+    "source": "https://github.com/julienshim/combined_korean_vocabulary_list (MIT)"
+  },
+  {
+    "id": "topik-5",
+    "name": "TOPIK 5",
+    "lang": "ko",
+    "voice": "ko-KR",
+    "dir": "ko",
+    "levelKey": "topik5",
+    "count": 752,
+    "source": "https://github.com/julienshim/combined_korean_vocabulary_list (MIT)"
+  },
+  {
+    "id": "topik-6",
+    "name": "TOPIK 6",
+    "lang": "ko",
+    "voice": "ko-KR",
+    "dir": "ko",
+    "levelKey": "topik6",
+    "count": 753,
+    "source": "https://github.com/julienshim/combined_korean_vocabulary_list (MIT)"
+  }
+]

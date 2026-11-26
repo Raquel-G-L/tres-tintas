@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="es" data-theme="light">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Tres Tintas — aprende chino, japonés y coreano con lecciones, pronunciación y recursos descargables." />
+  <title>Tres Tintas · Aprende chino, japonés y coreano</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🖋️</text></svg>" />
+  <link rel="stylesheet" href="css/styles.css" />
+  <!-- Opcionales: se usan para generar los PDF en el navegador. Si no hay internet, las descargas TXT siguen funcionando. -->
+  <script defer src="https://cdn.jsdelivr.net/npm/html2canvas@1.4.1/dist/html2canvas.min.js"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/jspdf@2.5.2/dist/jspdf.umd.min.js"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/hanzi-writer@3.7.3/dist/hanzi-writer.min.js"></script>
+</head>
+<body>
+  <div id="app">
+    <div class="boot-screen">
+      <div class="boot-logo">墨</div>
+      <p>Cargando Tres Tintas…</p>
+    </div>
+  </div>
+  <div id="modal-root"></div>
+  <div id="toast-root" aria-live="polite"></div>
+
+  <script src="js/data.js"></script>
+  <script src="js/auth.js"></script>
+  <script src="js/progress.js"></script>
+  <script src="js/speech.js"></script>
+  <script src="js/resources.js"></script>
+  <script src="js/writing.js"></script>
+  <script src="js/hsk1-data.js"></script>
+  <script src="js/hsk2-data.js"></script>
+  <script src="js/jlpt-n5-data.js"></script>
+  <script src="js/topik-1-data.js"></script>
+  <script src="js/exam-data-all.js"></script>
+  <script src="js/exam.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
