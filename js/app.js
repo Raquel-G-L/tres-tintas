@@ -44,6 +44,7 @@
     examSearch: "",
     writingFilterCompleted: false,
     lessonPage: 0,
+    langPickerOpen: false,
   };
 
   let writingController = null;
@@ -112,7 +113,7 @@
                 <button class="menu-item danger" data-action="logout">🚪 Cerrar sesión</button>
               </div>` : ""}
             </div>` : `
-            <button class="btn btn-primary btn-small" data-action="open-auth">Entrar</button>`}
+            <button class="btn btn-ghost btn-small" data-action="open-auth">Entrar</button>`}
         </div>
       </div>
     </header>`;
@@ -136,7 +137,7 @@
           <h1 class="hero-title">Habla <span>chino, japonés y coreano</span> desde cero.</h1>
           <p class="hero-sub">Temario organizado por los exámenes oficiales (HSK, JLPT y TOPIK), con pronunciación real, caligrafía y recursos descargables.</p>
           <div class="hero-actions">
-            <a class="btn btn-hero" href="#/lang/zh">🚀 Empezar a aprender</a>
+            <button class="btn btn-hero" data-action="choose-language">🚀 Empezar a aprender</button>
           </div>
           <div class="hero-stats">
             <div><div class="stat-value">${D.allLessons.length}</div><div class="stat-label">lecciones</div></div>
@@ -957,35 +958,29 @@
 
   /* ---------------- Auth modal ---------------- */
   function renderModal() {
-    if (state.authMode === null) {
-      modalRoot.innerHTML = "";
-      return;
-    }
-    if (state.authMode === "choose") {
+    if (state.langPickerOpen) {
       modalRoot.innerHTML = `<div class="modal-overlay" data-action="overlay">
-        <div class="modal" role="dialog" aria-modal="true" aria-label="Acceder a Tres Tintas">
+        <div class="modal" role="dialog" aria-modal="true" aria-label="Elige un idioma">
           <div class="modal-head">
-            <div><h2 class="modal-title">Acceder a Tres Tintas</h2>
-            <p class="modal-sub">Elige una opción para continuar.</p></div>
+            <div><h2 class="modal-title">¿Con qué idioma empiezas?</h2>
+            <p class="modal-sub">Elige uno para ir a sus lecciones y niveles.</p></div>
             <button class="modal-close" data-action="close-auth" aria-label="Cerrar">✕</button>
           </div>
           <div class="modal-body">
-            <div class="auth-choice">
-              <button class="auth-choice-btn" data-action="auth-choose" data-mode="login">
-                <span class="auth-choice-icon">👤</span>
-                <strong>Ya tengo cuenta</strong>
-                <span class="small muted">Iniciar sesión</span>
-              </button>
-              <button class="auth-choice-btn" data-action="auth-choose" data-mode="register">
-                <span class="auth-choice-icon">✨</span>
-                <strong>No tengo cuenta</strong>
-                <span class="small muted">Crear una cuenta gratis</span>
-              </button>
+            <div class="language-picker">
+              ${D.languages.map((lang) => `<button class="language-picker-btn" data-action="lang-choice" data-href="#/lang/${lang.id}" style="--lang-color:${lang.color}">
+                <span class="language-picker-icon">${lang.emoji}</span>
+                <span><strong>${E(lang.name)}</strong><small>${E(lang.native)} · ${lang.levels.length} niveles</small></span>
+                <span class="muted">→</span>
+              </button>`).join("")}
             </div>
-            <p class="modal-note">Tu progreso se guarda solo en este navegador (modo demostración).</p>
           </div>
         </div>
       </div>`;
+      return;
+    }
+    if (state.authMode === null) {
+      modalRoot.innerHTML = "";
       return;
     }
     const register = state.authMode === "register";
@@ -1007,7 +1002,9 @@
           </div>
         </form>
         <div class="modal-foot">
-          <div class="auth-switch"><button class="switch-link" data-action="auth-back">← Cambiar de opción</button></div>
+          <div class="auth-switch">${register ? "¿Ya tienes cuenta?" : "¿Aún no tienes cuenta?"}
+            <button class="switch-link" data-action="auth-choose" data-mode="${register ? "login" : "register"}">${register ? "Inicia sesión" : "Regístrate gratis"}</button>
+          </div>
         </div>
       </div>
     </div>`;
@@ -1049,7 +1046,6 @@
       if (entry && previewEl) R.renderWorksheetPreview(entry, D.findLanguage(langId), previewEl);
     }
     renderModal();
-    window.scrollTo({ top: 0, behavior: "instant" in document.documentElement.style ? "instant" : "auto" });
   }
 
   /* ---------------- Events ---------------- */
@@ -1072,6 +1068,17 @@
     switch (action) {
       case "nav":
         state.menuOpen = false;
+        state.langPickerOpen = false;
+        renderModal();
+        go(target.dataset.href.replace(/^#/, ""));
+        break;
+      case "choose-language":
+        state.langPickerOpen = true;
+        renderModal();
+        break;
+      case "lang-choice":
+        state.langPickerOpen = false;
+        renderModal();
         go(target.dataset.href.replace(/^#/, ""));
         break;
       case "theme":
@@ -1084,7 +1091,7 @@
         render();
         break;
       case "open-auth":
-        state.authMode = "choose";
+        state.authMode = "login";
         state.authError = "";
         state.menuOpen = false;
         renderModal();
@@ -1094,16 +1101,12 @@
         state.authError = "";
         renderModal();
         break;
-      case "auth-back":
-        state.authMode = "choose";
-        state.authError = "";
-        renderModal();
-        break;
       case "close-auth":
       case "overlay":
         if (action === "overlay" && ev.target !== target) return;
         state.authMode = null;
         state.authError = "";
+        state.langPickerOpen = false;
         renderModal();
         break;
       case "logout":
@@ -1386,6 +1389,7 @@
       }
     }
     render();
+    window.scrollTo({ top: 0, behavior: "instant" });
   });
 
   /* ---------------- Init ---------------- */

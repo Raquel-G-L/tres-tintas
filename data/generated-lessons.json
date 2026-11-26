@@ -13,7 +13,7 @@
           [
             "爱",
             "ài",
-            "amor"
+            "amar"
           ],
           [
             "本",
@@ -32,7 +32,7 @@
       {
         "t": "爱",
         "r": "ài",
-        "m": "amor",
+        "m": "amar",
         "audio": "assets/audio/clips/zh/hsk1/w1.mp3"
       },
       {
@@ -110,7 +110,7 @@
       {
         "t": "开",
         "r": "kāi",
-        "m": "-ar abierto ( transitivo oro intransitivo )",
+        "m": "abrir",
         "audio": "assets/audio/clips/zh/hsk1/w49.mp3"
       },
       {
@@ -154,7 +154,7 @@
       {
         "t": "爱",
         "r": "ài",
-        "m": "amor",
+        "m": "amar",
         "audio": "assets/audio/clips/zh/hsk1/w1.mp3"
       },
       {
@@ -180,18 +180,18 @@
       {
         "question": "¿Qué significa «爱»?",
         "options": [
-          "amor",
+          "amar",
           "raíz",
           "no",
           "de"
         ],
         "answer": 0,
-        "explain": "爱 (ài) = amor."
+        "explain": "爱 (ài) = amar."
       },
       {
         "question": "¿Qué significa «本»?",
         "options": [
-          "amor",
+          "amar",
           "raíz",
           "no",
           "de"
@@ -202,7 +202,7 @@
       {
         "question": "¿Qué significa «不»?",
         "options": [
-          "amor",
+          "amar",
           "raíz",
           "no",
           "de"
@@ -338,7 +338,7 @@
       {
         "t": "有",
         "r": "yǒu",
-        "m": "haber",
+        "m": "tener",
         "audio": "assets/audio/clips/zh/hsk1/w136.mp3"
       },
       {
@@ -350,7 +350,7 @@
       {
         "t": "这",
         "r": "zhè",
-        "m": "( pronombre ) este",
+        "m": "este",
         "audio": "assets/audio/clips/zh/hsk1/w142.mp3"
       },
       {
@@ -494,7 +494,7 @@
           [
             "爱",
             "ài",
-            "amor"
+            "amar"
           ],
           [
             "八",
@@ -504,7 +504,7 @@
           [
             "爸爸",
             "bà ba",
-            "( coll .) padre"
+            "papá"
           ]
         ]
       }
@@ -513,7 +513,7 @@
       {
         "t": "爱",
         "r": "ài",
-        "m": "amor",
+        "m": "amar",
         "audio": "assets/audio/clips/zh/hsk2/w1.mp3"
       },
       {
@@ -525,7 +525,7 @@
       {
         "t": "爸爸",
         "r": "bà ba",
-        "m": "( coll .) padre",
+        "m": "papá",
         "audio": "assets/audio/clips/zh/hsk2/w3.mp3"
       },
       {
@@ -635,7 +635,7 @@
       {
         "t": "爱",
         "r": "ài",
-        "m": "amor",
+        "m": "amar",
         "audio": "assets/audio/clips/zh/hsk2/w1.mp3"
       },
       {
@@ -647,7 +647,7 @@
       {
         "t": "爸爸",
         "r": "bà ba",
-        "m": "( coll .) padre",
+        "m": "papá",
         "audio": "assets/audio/clips/zh/hsk2/w3.mp3"
       },
       {
@@ -661,20 +661,20 @@
       {
         "question": "¿Qué significa «爱»?",
         "options": [
-          "amor",
+          "amar",
           "ocho",
-          "( coll .) padre",
+          "papá",
           "barra ( préstamo ) ( serving drinks , oro providing Internet acceso etc )"
         ],
         "answer": 0,
-        "explain": "爱 (ài) = amor."
+        "explain": "爱 (ài) = amar."
       },
       {
         "question": "¿Qué significa «八»?",
         "options": [
-          "amor",
+          "amar",
           "ocho",
-          "( coll .) padre",
+          "papá",
           "barra ( préstamo ) ( serving drinks , oro providing Internet acceso etc )"
         ],
         "answer": 1,
@@ -683,13 +683,13 @@
       {
         "question": "¿Qué significa «爸爸»?",
         "options": [
-          "amor",
+          "amar",
           "ocho",
-          "( coll .) padre",
+          "papá",
           "barra ( préstamo ) ( serving drinks , oro providing Internet acceso etc )"
         ],
         "answer": 2,
-        "explain": "爸爸 (bà ba) = ( coll .) padre."
+        "explain": "爸爸 (bà ba) = papá."
       }
     ],
     "langId": "zh",
@@ -715,7 +715,7 @@
           [
             "到",
             "dào",
-            "alcance"
+            "alcanzar"
           ],
           [
             "的",
@@ -735,7 +735,7 @@
       {
         "t": "到",
         "r": "dào",
-        "m": "alcance",
+        "m": "alcanzar",
         "audio": "assets/audio/clips/zh/hsk2/w33.mp3"
       },
       {
@@ -857,7 +857,7 @@
       {
         "t": "到",
         "r": "dào",
-        "m": "alcance",
+        "m": "alcanzar",
         "audio": "assets/audio/clips/zh/hsk2/w33.mp3"
       },
       {
@@ -878,7 +878,7 @@
         "question": "¿Qué significa «大家»?",
         "options": [
           "todos",
-          "alcance",
+          "alcanzar",
           "de",
           "primero"
         ],
@@ -889,18 +889,18 @@
         "question": "¿Qué significa «到»?",
         "options": [
           "todos",
-          "alcance",
+          "alcanzar",
           "de",
           "primero"
         ],
         "answer": 1,
-        "explain": "到 (dào) = alcance."
+        "explain": "到 (dào) = alcanzar."
       },
       {
         "question": "¿Qué significa «的»?",
         "options": [
           "todos",
-          "alcance",
+          "alcanzar",
           "de",
           "primero"
         ],
@@ -1029,7 +1029,7 @@
       {
         "t": "会",
         "r": "huì",
-        "m": "regadera",
+        "m": "poder",
         "audio": "assets/audio/clips/zh/hsk2/w84.mp3"
       },
       {
@@ -1152,7 +1152,7 @@
           [
             "开",
             "kāi",
-            "-ar abierto ( transitivo oro intransitivo )"
+            "abrir"
           ]
         ]
       }
@@ -1173,7 +1173,7 @@
       {
         "t": "开",
         "r": "kāi",
-        "m": "-ar abierto ( transitivo oro intransitivo )",
+        "m": "abrir",
         "audio": "assets/audio/clips/zh/hsk2/w102.mp3"
       },
       {
@@ -1295,7 +1295,7 @@
       {
         "t": "开",
         "r": "kāi",
-        "m": "-ar abierto ( transitivo oro intransitivo )",
+        "m": "abrir",
         "audio": "assets/audio/clips/zh/hsk2/w102.mp3"
       },
       {
@@ -1311,7 +1311,7 @@
         "options": [
           "-ar intento adelante",
           "nueve",
-          "-ar abierto ( transitivo oro intransitivo )",
+          "abrir",
           "cuidar de"
         ],
         "answer": 0,
@@ -1322,7 +1322,7 @@
         "options": [
           "-ar intento adelante",
           "nueve",
-          "-ar abierto ( transitivo oro intransitivo )",
+          "abrir",
           "cuidar de"
         ],
         "answer": 1,
@@ -1333,11 +1333,11 @@
         "options": [
           "-ar intento adelante",
           "nueve",
-          "-ar abierto ( transitivo oro intransitivo )",
+          "abrir",
           "cuidar de"
         ],
         "answer": 2,
-        "explain": "开 (kāi) = -ar abierto ( transitivo oro intransitivo )."
+        "explain": "开 (kāi) = abrir."
       }
     ],
     "langId": "zh",
@@ -1437,7 +1437,7 @@
       {
         "t": "呢",
         "r": "ne",
-        "m": "partícula que indica que una pregunta hecha previamente se debe aplicar a la palabra anterior (\"¿Y...?\", \"¿Y...?\")",
+        "m": "partícula de pregunta («¿y…?»)",
         "audio": "assets/audio/clips/zh/hsk2/w143.mp3"
       },
       {
@@ -1653,7 +1653,7 @@
       {
         "t": "商店",
         "r": "shāng diàn",
-        "m": "depósito",
+        "m": "almacenar",
         "audio": "assets/audio/clips/zh/hsk2/w173.mp3"
       },
       {
@@ -1707,7 +1707,7 @@
       {
         "t": "是",
         "r": "shì",
-        "m": "-ar estar ( followed por substantives único )",
+        "m": "ser",
         "audio": "assets/audio/clips/zh/hsk2/w186.mp3"
       }
     ],
@@ -2043,13 +2043,13 @@
       {
         "t": "洗",
         "r": "xǐ",
-        "m": "enjuague",
+        "m": "lavar",
         "audio": "assets/audio/clips/zh/hsk2/w221.mp3"
       },
       {
         "t": "喜欢",
         "r": "xǐ huan",
-        "m": "semejante",
+        "m": "gustar",
         "audio": "assets/audio/clips/zh/hsk2/w222.mp3"
       },
       {
@@ -2165,7 +2165,7 @@
       {
         "t": "洗",
         "r": "xǐ",
-        "m": "enjuague",
+        "m": "lavar",
         "audio": "assets/audio/clips/zh/hsk2/w221.mp3"
       }
     ],
@@ -2176,7 +2176,7 @@
           "yo",
           "nosotros",
           "cinco",
-          "enjuague"
+          "lavar"
         ],
         "answer": 0,
         "explain": "我 (wǒ) = yo."
@@ -2187,7 +2187,7 @@
           "yo",
           "nosotros",
           "cinco",
-          "enjuague"
+          "lavar"
         ],
         "answer": 1,
         "explain": "我们 (wǒ men) = nosotros."
@@ -2198,7 +2198,7 @@
           "yo",
           "nosotros",
           "cinco",
-          "enjuague"
+          "lavar"
         ],
         "answer": 2,
         "explain": "五 (wǔ) = cinco."
@@ -2232,7 +2232,7 @@
           [
             "颜色",
             "yán sè",
-            "color"
+            "colorear"
           ]
         ]
       }
@@ -2253,7 +2253,7 @@
       {
         "t": "颜色",
         "r": "yán sè",
-        "m": "color",
+        "m": "colorear",
         "audio": "assets/audio/clips/zh/hsk2/w246.mp3"
       },
       {
@@ -2265,7 +2265,7 @@
       {
         "t": "要",
         "r": "yāo",
-        "m": "( acotado formulario ) -ar demanda",
+        "m": "exigir",
         "audio": "assets/audio/clips/zh/hsk2/w250.mp3"
       },
       {
@@ -2301,7 +2301,7 @@
       {
         "t": "有",
         "r": "yǒu",
-        "m": "haber",
+        "m": "tener",
         "audio": "assets/audio/clips/zh/hsk2/w263.mp3"
       },
       {
@@ -2375,7 +2375,7 @@
       {
         "t": "颜色",
         "r": "yán sè",
-        "m": "color",
+        "m": "colorear",
         "audio": "assets/audio/clips/zh/hsk2/w246.mp3"
       },
       {
@@ -2391,7 +2391,7 @@
         "options": [
           "estudiante",
           "escuela",
-          "color",
+          "colorear",
           "hoja del iris"
         ],
         "answer": 0,
@@ -2402,7 +2402,7 @@
         "options": [
           "estudiante",
           "escuela",
-          "color",
+          "colorear",
           "hoja del iris"
         ],
         "answer": 1,
@@ -2413,11 +2413,11 @@
         "options": [
           "estudiante",
           "escuela",
-          "color",
+          "colorear",
           "hoja del iris"
         ],
         "answer": 2,
-        "explain": "颜色 (yán sè) = color."
+        "explain": "颜色 (yán sè) = colorear."
       }
     ],
     "langId": "zh",
@@ -2443,7 +2443,7 @@
           [
             "这",
             "zhè",
-            "( pronombre ) este"
+            "este"
           ],
           [
             "着",
@@ -2463,7 +2463,7 @@
       {
         "t": "这",
         "r": "zhè",
-        "m": "( pronombre ) este",
+        "m": "este",
         "audio": "assets/audio/clips/zh/hsk2/w280.mp3"
       },
       {
@@ -2549,7 +2549,7 @@
       {
         "t": "这",
         "r": "zhè",
-        "m": "( pronombre ) este",
+        "m": "este",
         "audio": "assets/audio/clips/zh/hsk2/w280.mp3"
       },
       {
@@ -2570,7 +2570,7 @@
         "question": "¿Qué significa «找»?",
         "options": [
           "-ar prueba -ar hallazgo",
-          "( pronombre ) este",
+          "este",
           "( ajedrez ) mudanza",
           "verdaderamente"
         ],
@@ -2581,18 +2581,18 @@
         "question": "¿Qué significa «这»?",
         "options": [
           "-ar prueba -ar hallazgo",
-          "( pronombre ) este",
+          "este",
           "( ajedrez ) mudanza",
           "verdaderamente"
         ],
         "answer": 1,
-        "explain": "这 (zhè) = ( pronombre ) este."
+        "explain": "这 (zhè) = este."
       },
       {
         "question": "¿Qué significa «着»?",
         "options": [
           "-ar prueba -ar hallazgo",
-          "( pronombre ) este",
+          "este",
           "( ajedrez ) mudanza",
           "verdaderamente"
         ],
@@ -2655,13 +2655,13 @@
       {
         "t": "爱",
         "r": "ài",
-        "m": "amor",
+        "m": "amar",
         "audio": "assets/audio/clips/zh/hsk3/w4.mp3"
       },
       {
         "t": "爱好",
         "r": "ài hào",
-        "m": "semejante",
+        "m": "gustar",
         "audio": "assets/audio/clips/zh/hsk3/w5.mp3"
       },
       {
@@ -2685,7 +2685,7 @@
       {
         "t": "爸爸",
         "r": "bà ba",
-        "m": "( coll .) padre",
+        "m": "papá",
         "audio": "assets/audio/clips/zh/hsk3/w9.mp3"
       },
       {
@@ -2777,7 +2777,7 @@
       {
         "t": "爱",
         "r": "ài",
-        "m": "amor",
+        "m": "amar",
         "audio": "assets/audio/clips/zh/hsk3/w4.mp3"
       }
     ],
@@ -2788,7 +2788,7 @@
           "tía",
           "interjección de sorpresa",
           "bajo",
-          "amor"
+          "amar"
         ],
         "answer": 0,
         "explain": "阿姨 (ā yí) = tía."
@@ -2799,7 +2799,7 @@
           "tía",
           "interjección de sorpresa",
           "bajo",
-          "amor"
+          "amar"
         ],
         "answer": 1,
         "explain": "啊 (ā) = interjección de sorpresa."
@@ -2810,7 +2810,7 @@
           "tía",
           "interjección de sorpresa",
           "bajo",
-          "amor"
+          "amar"
         ],
         "answer": 2,
         "explain": "矮 (ǎi) = bajo."
@@ -2925,7 +2925,7 @@
       {
         "t": "变化",
         "r": "biàn huà",
-        "m": "( intransitivo ) -ar cambio",
+        "m": "cambiar",
         "audio": "assets/audio/clips/zh/hsk3/w33.mp3"
       },
       {
@@ -3177,7 +3177,7 @@
       {
         "t": "出租车",
         "r": "chū zū chē",
-        "m": "taxi",
+        "m": "carretear",
         "audio": "assets/audio/clips/zh/hsk3/w60.mp3"
       },
       {
@@ -3309,7 +3309,7 @@
       {
         "t": "词语",
         "r": "cí yǔ",
-        "m": "palabra (término general que incluye monosílabos hasta frases cortas)",
+        "m": "redactar",
         "audio": "assets/audio/clips/zh/hsk3/w66.mp3"
       },
       {
@@ -3393,7 +3393,7 @@
       {
         "t": "蛋糕",
         "r": "dàn gāo",
-        "m": "[birthday or wedding cake] bizcocho [Dominican Republic",
+        "m": "bizcocho  [Dominican Republic",
         "audio": "assets/audio/clips/zh/hsk3/w80.mp3"
       },
       {
@@ -3482,7 +3482,7 @@
           [
             "到",
             "dào",
-            "alcance"
+            "alcanzar"
           ],
           [
             "地",
@@ -3501,7 +3501,7 @@
       {
         "t": "到",
         "r": "dào",
-        "m": "alcance",
+        "m": "alcanzar",
         "audio": "assets/audio/clips/zh/hsk3/w82.mp3"
       },
       {
@@ -3623,7 +3623,7 @@
       {
         "t": "到",
         "r": "dào",
-        "m": "alcance",
+        "m": "alcanzar",
         "audio": "assets/audio/clips/zh/hsk3/w82.mp3"
       },
       {
@@ -3649,18 +3649,18 @@
       {
         "question": "¿Qué significa «到»?",
         "options": [
-          "alcance",
+          "alcanzar",
           "-mente",
           "región",
           "plano"
         ],
         "answer": 0,
-        "explain": "到 (dào) = alcance."
+        "explain": "到 (dào) = alcanzar."
       },
       {
         "question": "¿Qué significa «地»?",
         "options": [
-          "alcance",
+          "alcanzar",
           "-mente",
           "región",
           "plano"
@@ -3671,7 +3671,7 @@
       {
         "question": "¿Qué significa «地方»?",
         "options": [
-          "alcance",
+          "alcanzar",
           "-mente",
           "región",
           "plano"
@@ -3813,7 +3813,7 @@
       {
         "t": "发现",
         "r": "fā xiàn",
-        "m": "para notar",
+        "m": "reparar en",
         "audio": "assets/audio/clips/zh/hsk3/w119.mp3"
       },
       {
@@ -4455,7 +4455,7 @@
       {
         "t": "画",
         "r": "huà",
-        "m": "proyecto",
+        "m": "dibujar",
         "audio": "assets/audio/clips/zh/hsk3/w180.mp3"
       },
       {
@@ -4572,7 +4572,7 @@
           [
             "回答",
             "huí dá",
-            "respuesta"
+            "responder"
           ]
         ]
       }
@@ -4593,13 +4593,13 @@
       {
         "t": "回答",
         "r": "huí dá",
-        "m": "respuesta",
+        "m": "responder",
         "audio": "assets/audio/clips/zh/hsk3/w187.mp3"
       },
       {
         "t": "会",
         "r": "huì",
-        "m": "regadera",
+        "m": "poder",
         "audio": "assets/audio/clips/zh/hsk3/w188.mp3"
       },
       {
@@ -4715,13 +4715,13 @@
       {
         "t": "回答",
         "r": "huí dá",
-        "m": "respuesta",
+        "m": "responder",
         "audio": "assets/audio/clips/zh/hsk3/w187.mp3"
       },
       {
         "t": "会",
         "r": "huì",
-        "m": "regadera",
+        "m": "poder",
         "audio": "assets/audio/clips/zh/hsk3/w188.mp3"
       }
     ],
@@ -4731,8 +4731,8 @@
         "options": [
           "apellido Huang o Hwang",
           "curva",
-          "respuesta",
-          "regadera"
+          "responder",
+          "poder"
         ],
         "answer": 0,
         "explain": "黄 (Huáng) = apellido Huang o Hwang."
@@ -4742,8 +4742,8 @@
         "options": [
           "apellido Huang o Hwang",
           "curva",
-          "respuesta",
-          "regadera"
+          "responder",
+          "poder"
         ],
         "answer": 1,
         "explain": "回 (huí) = curva."
@@ -4753,11 +4753,11 @@
         "options": [
           "apellido Huang o Hwang",
           "curva",
-          "respuesta",
-          "regadera"
+          "responder",
+          "poder"
         ],
         "answer": 2,
-        "explain": "回答 (huí dá) = respuesta."
+        "explain": "回答 (huí dá) = responder."
       }
     ],
     "langId": "zh",
@@ -5037,7 +5037,7 @@
       {
         "t": "旧",
         "r": "jiù",
-        "m": "viejo [used before the noun]",
+        "m": "viejo",
         "audio": "assets/audio/clips/zh/hsk3/w230.mp3"
       },
       {
@@ -5259,7 +5259,7 @@
       {
         "t": "哭",
         "r": "kū",
-        "m": "llanto",
+        "m": "llorar",
         "audio": "assets/audio/clips/zh/hsk3/w251.mp3"
       },
       {
@@ -5426,12 +5426,12 @@
           [
             "离开",
             "lí kāi",
-            "irse"
+            "morir"
           ],
           [
             "礼物",
             "lǐ wù",
-            "don"
+            "regalar"
           ],
           [
             "里",
@@ -5445,13 +5445,13 @@
       {
         "t": "离开",
         "r": "lí kāi",
-        "m": "irse",
+        "m": "morir",
         "audio": "assets/audio/clips/zh/hsk3/w266.mp3"
       },
       {
         "t": "礼物",
         "r": "lǐ wù",
-        "m": "don",
+        "m": "regalar",
         "audio": "assets/audio/clips/zh/hsk3/w267.mp3"
       },
       {
@@ -5567,13 +5567,13 @@
       {
         "t": "离开",
         "r": "lí kāi",
-        "m": "irse",
+        "m": "morir",
         "audio": "assets/audio/clips/zh/hsk3/w266.mp3"
       },
       {
         "t": "礼物",
         "r": "lǐ wù",
-        "m": "don",
+        "m": "regalar",
         "audio": "assets/audio/clips/zh/hsk3/w267.mp3"
       },
       {
@@ -5593,30 +5593,30 @@
       {
         "question": "¿Qué significa «离开»?",
         "options": [
-          "irse",
-          "don",
+          "morir",
+          "regalar",
           "variante de 里",
           "historia"
         ],
         "answer": 0,
-        "explain": "离开 (lí kāi) = irse."
+        "explain": "离开 (lí kāi) = morir."
       },
       {
         "question": "¿Qué significa «礼物»?",
         "options": [
-          "irse",
-          "don",
+          "morir",
+          "regalar",
           "variante de 里",
           "historia"
         ],
         "answer": 1,
-        "explain": "礼物 (lǐ wù) = don."
+        "explain": "礼物 (lǐ wù) = regalar."
       },
       {
         "question": "¿Qué significa «里»?",
         "options": [
-          "irse",
-          "don",
+          "morir",
+          "regalar",
           "variante de 里",
           "historia"
         ],
@@ -5895,7 +5895,7 @@
       {
         "t": "呢",
         "r": "ne",
-        "m": "particle indicating that a previously asked question is to be applied to the preceding word (\"What about ...?\", \"And ...?\")",
+        "m": "partícula de pregunta («¿y…?»)",
         "audio": "assets/audio/clips/zh/hsk3/w312.mp3"
       },
       {
@@ -6017,7 +6017,7 @@
       {
         "t": "呢",
         "r": "ne",
-        "m": "particle indicating that a previously asked question is to be applied to the preceding word (\"What about ...?\", \"And ...?\")",
+        "m": "partícula de pregunta («¿y…?»)",
         "audio": "assets/audio/clips/zh/hsk3/w312.mp3"
       }
     ],
@@ -6028,7 +6028,7 @@
           "apellido Nan",
           "difícil ( -ar ...)",
           "-ar caricia triste",
-          "particle indicating that a previously asked question is to be applied to the preceding word (\"What about ...?\", \"And ...?\")"
+          "partícula de pregunta («¿y…?»)"
         ],
         "answer": 0,
         "explain": "南 (Nán) = apellido Nan."
@@ -6039,7 +6039,7 @@
           "apellido Nan",
           "difícil ( -ar ...)",
           "-ar caricia triste",
-          "particle indicating that a previously asked question is to be applied to the preceding word (\"What about ...?\", \"And ...?\")"
+          "partícula de pregunta («¿y…?»)"
         ],
         "answer": 1,
         "explain": "难 (nán) = difícil ( -ar ...)."
@@ -6050,7 +6050,7 @@
           "apellido Nan",
           "difícil ( -ar ...)",
           "-ar caricia triste",
-          "particle indicating that a previously asked question is to be applied to the preceding word (\"What about ...?\", \"And ...?\")"
+          "partícula de pregunta («¿y…?»)"
         ],
         "answer": 2,
         "explain": "难过 (nán guò) = -ar caricia triste."
@@ -6405,7 +6405,7 @@
       {
         "t": "商店",
         "r": "shāng diàn",
-        "m": "depósito",
+        "m": "almacenar",
         "audio": "assets/audio/clips/zh/hsk3/w367.mp3"
       },
       {
@@ -6609,7 +6609,7 @@
       {
         "t": "是",
         "r": "shì",
-        "m": "-ar estar ( followed por substantives único )",
+        "m": "ser",
         "audio": "assets/audio/clips/zh/hsk3/w385.mp3"
       },
       {
@@ -7191,7 +7191,7 @@
       {
         "t": "完成",
         "r": "wán chéng",
-        "m": "completo",
+        "m": "terminar",
         "audio": "assets/audio/clips/zh/hsk3/w434.mp3"
       },
       {
@@ -7313,7 +7313,7 @@
       {
         "t": "完成",
         "r": "wán chéng",
-        "m": "completo",
+        "m": "terminar",
         "audio": "assets/audio/clips/zh/hsk3/w434.mp3"
       }
     ],
@@ -7324,7 +7324,7 @@
           "pierna",
           "afuera",
           "meta",
-          "completo"
+          "terminar"
         ],
         "answer": 0,
         "explain": "腿 (tuǐ) = pierna."
@@ -7335,7 +7335,7 @@
           "pierna",
           "afuera",
           "meta",
-          "completo"
+          "terminar"
         ],
         "answer": 1,
         "explain": "外 (wài) = afuera."
@@ -7346,7 +7346,7 @@
           "pierna",
           "afuera",
           "meta",
-          "completo"
+          "terminar"
         ],
         "answer": 2,
         "explain": "完 (wán) = meta."
@@ -7380,7 +7380,7 @@
           [
             "洗",
             "xǐ",
-            "enjuague"
+            "lavar"
           ]
         ]
       }
@@ -7401,7 +7401,7 @@
       {
         "t": "洗",
         "r": "xǐ",
-        "m": "enjuague",
+        "m": "lavar",
         "audio": "assets/audio/clips/zh/hsk3/w453.mp3"
       },
       {
@@ -7419,7 +7419,7 @@
       {
         "t": "喜欢",
         "r": "xǐ huan",
-        "m": "semejante",
+        "m": "gustar",
         "audio": "assets/audio/clips/zh/hsk3/w456.mp3"
       },
       {
@@ -7523,7 +7523,7 @@
       {
         "t": "洗",
         "r": "xǐ",
-        "m": "enjuague",
+        "m": "lavar",
         "audio": "assets/audio/clips/zh/hsk3/w453.mp3"
       },
       {
@@ -7539,7 +7539,7 @@
         "options": [
           "esperanza",
           "hábito",
-          "enjuague",
+          "lavar",
           "baño"
         ],
         "answer": 0,
@@ -7550,7 +7550,7 @@
         "options": [
           "esperanza",
           "hábito",
-          "enjuague",
+          "lavar",
           "baño"
         ],
         "answer": 1,
@@ -7561,11 +7561,11 @@
         "options": [
           "esperanza",
           "hábito",
-          "enjuague",
+          "lavar",
           "baño"
         ],
         "answer": 2,
-        "explain": "洗 (xǐ) = enjuague."
+        "explain": "洗 (xǐ) = lavar."
       }
     ],
     "langId": "zh",
@@ -7807,7 +7807,7 @@
           [
             "需要",
             "xū yào",
-            "necesidad"
+            "necesitar"
           ],
           [
             "选择",
@@ -7827,7 +7827,7 @@
       {
         "t": "需要",
         "r": "xū yào",
-        "m": "necesidad",
+        "m": "necesitar",
         "audio": "assets/audio/clips/zh/hsk3/w492.mp3"
       },
       {
@@ -7863,7 +7863,7 @@
       {
         "t": "颜色",
         "r": "yán sè",
-        "m": "color",
+        "m": "colorear",
         "audio": "assets/audio/clips/zh/hsk3/w498.mp3"
       },
       {
@@ -7893,7 +7893,7 @@
       {
         "t": "要",
         "r": "yāo",
-        "m": "( acotado formulario ) -ar demanda",
+        "m": "exigir",
         "audio": "assets/audio/clips/zh/hsk3/w503.mp3"
       },
       {
@@ -7949,7 +7949,7 @@
       {
         "t": "需要",
         "r": "xū yào",
-        "m": "necesidad",
+        "m": "necesitar",
         "audio": "assets/audio/clips/zh/hsk3/w492.mp3"
       },
       {
@@ -7970,7 +7970,7 @@
         "question": "¿Qué significa «休息»?",
         "options": [
           "descanso",
-          "necesidad",
+          "necesitar",
           "seleccionar",
           "estudiante"
         ],
@@ -7981,18 +7981,18 @@
         "question": "¿Qué significa «需要»?",
         "options": [
           "descanso",
-          "necesidad",
+          "necesitar",
           "seleccionar",
           "estudiante"
         ],
         "answer": 1,
-        "explain": "需要 (xū yào) = necesidad."
+        "explain": "需要 (xū yào) = necesitar."
       },
       {
         "question": "¿Qué significa «选择»?",
         "options": [
           "descanso",
-          "necesidad",
+          "necesitar",
           "seleccionar",
           "estudiante"
         ],
@@ -8097,7 +8097,7 @@
       {
         "t": "以为",
         "r": "yǐ wéi",
-        "m": "pensar (es decir, tomar como cierto que...) (Por lo general, existe una implicación de que la noción es errónea, excepto cuando se expresa la propia opinión actual.)",
+        "m": "pensar",
         "audio": "assets/audio/clips/zh/hsk3/w522.mp3"
       },
       {
@@ -8244,7 +8244,7 @@
           [
             "有",
             "yǒu",
-            "haber"
+            "tener"
           ]
         ]
       }
@@ -8265,7 +8265,7 @@
       {
         "t": "有",
         "r": "yǒu",
-        "m": "haber",
+        "m": "tener",
         "audio": "assets/audio/clips/zh/hsk3/w534.mp3"
       },
       {
@@ -8387,7 +8387,7 @@
       {
         "t": "有",
         "r": "yǒu",
-        "m": "haber",
+        "m": "tener",
         "audio": "assets/audio/clips/zh/hsk3/w534.mp3"
       },
       {
@@ -8403,7 +8403,7 @@
         "options": [
           "juego",
           "nadando",
-          "haber",
+          "tener",
           "famoso"
         ],
         "answer": 0,
@@ -8414,7 +8414,7 @@
         "options": [
           "juego",
           "nadando",
-          "haber",
+          "tener",
           "famoso"
         ],
         "answer": 1,
@@ -8425,11 +8425,11 @@
         "options": [
           "juego",
           "nadando",
-          "haber",
+          "tener",
           "famoso"
         ],
         "answer": 2,
-        "explain": "有 (yǒu) = haber."
+        "explain": "有 (yǒu) = tener."
       }
     ],
     "langId": "zh",
@@ -8511,7 +8511,7 @@
       {
         "t": "这",
         "r": "zhè",
-        "m": "( pronombre ) este",
+        "m": "este",
         "audio": "assets/audio/clips/zh/hsk3/w562.mp3"
       },
       {
@@ -8523,7 +8523,7 @@
       {
         "t": "着急",
         "r": "zháo jí",
-        "m": "preocupación",
+        "m": "estar preocupado",
         "audio": "assets/audio/clips/zh/hsk3/w564.mp3"
       },
       {
@@ -8541,7 +8541,7 @@
       {
         "t": "知道",
         "r": "zhī dào",
-        "m": "conocer",
+        "m": "saber",
         "audio": "assets/audio/clips/zh/hsk3/w567.mp3"
       },
       {
@@ -8799,7 +8799,7 @@
       {
         "t": "做",
         "r": "zuò",
-        "m": "marca",
+        "m": "hacer",
         "audio": "assets/audio/clips/zh/hsk3/w595.mp3"
       }
     ],
@@ -8919,13 +8919,13 @@
       {
         "t": "爱",
         "r": "ài",
-        "m": "amor",
+        "m": "amar",
         "audio": "assets/audio/clips/zh/hsk4/w4.mp3"
       },
       {
         "t": "爱好",
         "r": "ài hào",
-        "m": "semejante",
+        "m": "gustar",
         "audio": "assets/audio/clips/zh/hsk4/w5.mp3"
       },
       {
@@ -8985,7 +8985,7 @@
       {
         "t": "爸爸",
         "r": "bà ba",
-        "m": "( coll .) padre",
+        "m": "papá",
         "audio": "assets/audio/clips/zh/hsk4/w15.mp3"
       },
       {
@@ -9041,7 +9041,7 @@
       {
         "t": "爱",
         "r": "ài",
-        "m": "amor",
+        "m": "amar",
         "audio": "assets/audio/clips/zh/hsk4/w4.mp3"
       }
     ],
@@ -9052,7 +9052,7 @@
           "tía",
           "interjección de sorpresa",
           "bajo",
-          "amor"
+          "amar"
         ],
         "answer": 0,
         "explain": "阿姨 (ā yí) = tía."
@@ -9063,7 +9063,7 @@
           "tía",
           "interjección de sorpresa",
           "bajo",
-          "amor"
+          "amar"
         ],
         "answer": 1,
         "explain": "啊 (ā) = interjección de sorpresa."
@@ -9074,7 +9074,7 @@
           "tía",
           "interjección de sorpresa",
           "bajo",
-          "amor"
+          "amar"
         ],
         "answer": 2,
         "explain": "矮 (ǎi) = bajo."
@@ -9393,7 +9393,7 @@
       {
         "t": "变化",
         "r": "biàn huà",
-        "m": "( intransitivo ) -ar cambio",
+        "m": "cambiar",
         "audio": "assets/audio/clips/zh/hsk4/w51.mp3"
       },
       {
@@ -9807,7 +9807,7 @@
       {
         "t": "尝",
         "r": "cháng",
-        "m": "al gusto",
+        "m": "gustar",
         "audio": "assets/audio/clips/zh/hsk4/w88.mp3"
       },
       {
@@ -9861,13 +9861,13 @@
       {
         "t": "成熟",
         "r": "chéng shú",
-        "m": "maduro",
+        "m": "madurar",
         "audio": "assets/audio/clips/zh/hsk4/w97.mp3"
       },
       {
         "t": "成为",
         "r": "chéng wéi",
-        "m": "volverse",
+        "m": "llegar a ser",
         "audio": "assets/audio/clips/zh/hsk4/w98.mp3"
       },
       {
@@ -10041,7 +10041,7 @@
       {
         "t": "出租车",
         "r": "chū zū chē",
-        "m": "taxi",
+        "m": "carretear",
         "audio": "assets/audio/clips/zh/hsk4/w111.mp3"
       },
       {
@@ -10095,7 +10095,7 @@
       {
         "t": "词语",
         "r": "cí yǔ",
-        "m": "palabra ( general término incluyendo monosyllables mediante -ar bajo phrases )",
+        "m": "redactar",
         "audio": "assets/audio/clips/zh/hsk4/w120.mp3"
       }
     ],
@@ -10467,7 +10467,7 @@
       {
         "t": "蛋糕",
         "r": "dàn gāo",
-        "m": "[birthday or wedding cake] bizcocho [Dominican Republic",
+        "m": "bizcocho  [Dominican Republic",
         "audio": "assets/audio/clips/zh/hsk4/w150.mp3"
       },
       {
@@ -10509,7 +10509,7 @@
       {
         "t": "到",
         "r": "dào",
-        "m": "alcance",
+        "m": "alcanzar",
         "audio": "assets/audio/clips/zh/hsk4/w157.mp3"
       },
       {
@@ -10941,7 +10941,7 @@
       {
         "t": "对",
         "r": "duì",
-        "m": "derecho",
+        "m": "perpendicular",
         "audio": "assets/audio/clips/zh/hsk4/w199.mp3"
       },
       {
@@ -11151,7 +11151,7 @@
       {
         "t": "发现",
         "r": "fā xiàn",
-        "m": "comunicación",
+        "m": "reparar en",
         "audio": "assets/audio/clips/zh/hsk4/w218.mp3"
       },
       {
@@ -12165,7 +12165,7 @@
       {
         "t": "光",
         "r": "guāng",
-        "m": "con leche",
+        "m": "iluminar",
         "audio": "assets/audio/clips/zh/hsk4/w308.mp3"
       },
       {
@@ -12399,7 +12399,7 @@
       {
         "t": "航班",
         "r": "háng bān",
-        "m": "( scheduled ) fuga",
+        "m": "fuga",
         "audio": "assets/audio/clips/zh/hsk4/w331.mp3"
       },
       {
@@ -12657,7 +12657,7 @@
       {
         "t": "画",
         "r": "huà",
-        "m": "proyecto",
+        "m": "dibujar",
         "audio": "assets/audio/clips/zh/hsk4/w359.mp3"
       },
       {
@@ -12780,7 +12780,7 @@
           [
             "回答",
             "huí dá",
-            "respuesta"
+            "responder"
           ]
         ]
       }
@@ -12801,7 +12801,7 @@
       {
         "t": "回答",
         "r": "huí dá",
-        "m": "respuesta",
+        "m": "responder",
         "audio": "assets/audio/clips/zh/hsk4/w367.mp3"
       },
       {
@@ -12879,7 +12879,7 @@
       {
         "t": "基础",
         "r": "jī chǔ",
-        "m": "bajo",
+        "m": "basar",
         "audio": "assets/audio/clips/zh/hsk4/w382.mp3"
       },
       {
@@ -12923,7 +12923,7 @@
       {
         "t": "回答",
         "r": "huí dá",
-        "m": "respuesta",
+        "m": "responder",
         "audio": "assets/audio/clips/zh/hsk4/w367.mp3"
       },
       {
@@ -12939,7 +12939,7 @@
         "options": [
           "apellido Huang o Hwang",
           "curva",
-          "respuesta",
+          "responder",
           "evocar"
         ],
         "answer": 0,
@@ -12950,7 +12950,7 @@
         "options": [
           "apellido Huang o Hwang",
           "curva",
-          "respuesta",
+          "responder",
           "evocar"
         ],
         "answer": 1,
@@ -12961,11 +12961,11 @@
         "options": [
           "apellido Huang o Hwang",
           "curva",
-          "respuesta",
+          "responder",
           "evocar"
         ],
         "answer": 2,
-        "explain": "回答 (huí dá) = respuesta."
+        "explain": "回答 (huí dá) = responder."
       }
     ],
     "langId": "zh",
@@ -13029,7 +13029,7 @@
       {
         "t": "计划",
         "r": "jì huà",
-        "m": "plan",
+        "m": "planear",
         "audio": "assets/audio/clips/zh/hsk4/w391.mp3"
       },
       {
@@ -13767,7 +13767,7 @@
       {
         "t": "旧",
         "r": "jiù",
-        "m": "viejo [used before the noun]",
+        "m": "viejo",
         "audio": "assets/audio/clips/zh/hsk4/w466.mp3"
       }
     ],
@@ -13893,7 +13893,7 @@
       {
         "t": "拒绝",
         "r": "jù jué",
-        "m": "basura",
+        "m": "rehusar",
         "audio": "assets/audio/clips/zh/hsk4/w471.mp3"
       },
       {
@@ -13923,7 +13923,7 @@
       {
         "t": "开",
         "r": "kāi",
-        "m": "-ar abierto ( transitivo oro intransitivo )",
+        "m": "abrir",
         "audio": "assets/audio/clips/zh/hsk4/w476.mp3"
       },
       {
@@ -14169,7 +14169,7 @@
       {
         "t": "哭",
         "r": "kū",
-        "m": "llanto",
+        "m": "llorar",
         "audio": "assets/audio/clips/zh/hsk4/w501.mp3"
       },
       {
@@ -14541,7 +14541,7 @@
       {
         "t": "离开",
         "r": "lí kāi",
-        "m": "irse",
+        "m": "morir",
         "audio": "assets/audio/clips/zh/hsk4/w531.mp3"
       },
       {
@@ -14553,7 +14553,7 @@
       {
         "t": "礼物",
         "r": "lǐ wù",
-        "m": "don",
+        "m": "regalar",
         "audio": "assets/audio/clips/zh/hsk4/w533.mp3"
       },
       {
@@ -14935,7 +14935,7 @@
           [
             "麻烦",
             "má fan",
-            "problema"
+            "molestar"
           ],
           [
             "马",
@@ -14955,7 +14955,7 @@
       {
         "t": "麻烦",
         "r": "má fan",
-        "m": "problema",
+        "m": "molestar",
         "audio": "assets/audio/clips/zh/hsk4/w568.mp3"
       },
       {
@@ -15077,7 +15077,7 @@
       {
         "t": "麻烦",
         "r": "má fan",
-        "m": "problema",
+        "m": "molestar",
         "audio": "assets/audio/clips/zh/hsk4/w568.mp3"
       },
       {
@@ -15098,7 +15098,7 @@
         "question": "¿Qué significa «妈妈»?",
         "options": [
           "mama",
-          "problema",
+          "molestar",
           "apellido Ma",
           "despreocupado"
         ],
@@ -15109,18 +15109,18 @@
         "question": "¿Qué significa «麻烦»?",
         "options": [
           "mama",
-          "problema",
+          "molestar",
           "apellido Ma",
           "despreocupado"
         ],
         "answer": 1,
-        "explain": "麻烦 (má fan) = problema."
+        "explain": "麻烦 (má fan) = molestar."
       },
       {
         "question": "¿Qué significa «马»?",
         "options": [
           "mama",
-          "problema",
+          "molestar",
           "apellido Ma",
           "despreocupado"
         ],
@@ -15219,7 +15219,7 @@
       {
         "t": "名字",
         "r": "míng zi",
-        "m": "nombre ( de a persona oro cosa )",
+        "m": "nombrar",
         "audio": "assets/audio/clips/zh/hsk4/w596.mp3"
       },
       {
@@ -15411,7 +15411,7 @@
       {
         "t": "呢",
         "r": "ne",
-        "m": "particle indicating that a previously asked question is to be applied to the preceding word (\"What about ...?\", \"And ...?\")",
+        "m": "partícula de pregunta («¿y…?»)",
         "audio": "assets/audio/clips/zh/hsk4/w612.mp3"
       },
       {
@@ -16658,7 +16658,7 @@
           [
             "商店",
             "shāng diàn",
-            "depósito"
+            "almacenar"
           ],
           [
             "商量",
@@ -16677,7 +16677,7 @@
       {
         "t": "商店",
         "r": "shāng diàn",
-        "m": "depósito",
+        "m": "almacenar",
         "audio": "assets/audio/clips/zh/hsk4/w728.mp3"
       },
       {
@@ -16799,7 +16799,7 @@
       {
         "t": "商店",
         "r": "shāng diàn",
-        "m": "depósito",
+        "m": "almacenar",
         "audio": "assets/audio/clips/zh/hsk4/w728.mp3"
       },
       {
@@ -16825,18 +16825,18 @@
       {
         "question": "¿Qué significa «商店»?",
         "options": [
-          "depósito",
+          "almacenar",
           "consultar",
           "used dentro 上声",
           "-ar intento -ar trabajo"
         ],
         "answer": 0,
-        "explain": "商店 (shāng diàn) = depósito."
+        "explain": "商店 (shāng diàn) = almacenar."
       },
       {
         "question": "¿Qué significa «商量»?",
         "options": [
-          "depósito",
+          "almacenar",
           "consultar",
           "used dentro 上声",
           "-ar intento -ar trabajo"
@@ -16847,7 +16847,7 @@
       {
         "question": "¿Qué significa «上»?",
         "options": [
-          "depósito",
+          "almacenar",
           "consultar",
           "used dentro 上声",
           "-ar intento -ar trabajo"
@@ -16874,7 +16874,7 @@
           [
             "省",
             "shěng",
-            "parada"
+            "ahorrar"
           ],
           [
             "剩",
@@ -16893,7 +16893,7 @@
       {
         "t": "省",
         "r": "shěng",
-        "m": "parada",
+        "m": "ahorrar",
         "audio": "assets/audio/clips/zh/hsk4/w748.mp3"
       },
       {
@@ -17015,7 +17015,7 @@
       {
         "t": "省",
         "r": "shěng",
-        "m": "parada",
+        "m": "ahorrar",
         "audio": "assets/audio/clips/zh/hsk4/w748.mp3"
       },
       {
@@ -17041,18 +17041,18 @@
       {
         "question": "¿Qué significa «省»?",
         "options": [
-          "parada",
+          "ahorrar",
           "restar",
           "-ar estar defeated",
           "decepcionado"
         ],
         "answer": 0,
-        "explain": "省 (shěng) = parada."
+        "explain": "省 (shěng) = ahorrar."
       },
       {
         "question": "¿Qué significa «剩»?",
         "options": [
-          "parada",
+          "ahorrar",
           "restar",
           "-ar estar defeated",
           "decepcionado"
@@ -17063,7 +17063,7 @@
       {
         "question": "¿Qué significa «失败»?",
         "options": [
-          "parada",
+          "ahorrar",
           "restar",
           "-ar estar defeated",
           "decepcionado"
@@ -17095,12 +17095,12 @@
           [
             "是",
             "shì",
-            "-ar estar ( followed por substantives único )"
+            "ser"
           ],
           [
             "适合",
             "shì hé",
-            "apropiado"
+            "hacer juego"
           ]
         ]
       }
@@ -17115,13 +17115,13 @@
       {
         "t": "是",
         "r": "shì",
-        "m": "-ar estar ( followed por substantives único )",
+        "m": "ser",
         "audio": "assets/audio/clips/zh/hsk4/w769.mp3"
       },
       {
         "t": "适合",
         "r": "shì hé",
-        "m": "apropiado",
+        "m": "hacer juego",
         "audio": "assets/audio/clips/zh/hsk4/w770.mp3"
       },
       {
@@ -17237,13 +17237,13 @@
       {
         "t": "是",
         "r": "shì",
-        "m": "-ar estar ( followed por substantives único )",
+        "m": "ser",
         "audio": "assets/audio/clips/zh/hsk4/w769.mp3"
       },
       {
         "t": "适合",
         "r": "shì hé",
-        "m": "apropiado",
+        "m": "hacer juego",
         "audio": "assets/audio/clips/zh/hsk4/w770.mp3"
       },
       {
@@ -17258,8 +17258,8 @@
         "question": "¿Qué significa «试»?",
         "options": [
           "examen",
-          "-ar estar ( followed por substantives único )",
-          "apropiado",
+          "ser",
+          "hacer juego",
           "adaptar"
         ],
         "answer": 0,
@@ -17269,23 +17269,23 @@
         "question": "¿Qué significa «是»?",
         "options": [
           "examen",
-          "-ar estar ( followed por substantives único )",
-          "apropiado",
+          "ser",
+          "hacer juego",
           "adaptar"
         ],
         "answer": 1,
-        "explain": "是 (shì) = -ar estar ( followed por substantives único )."
+        "explain": "是 (shì) = ser."
       },
       {
         "question": "¿Qué significa «适合»?",
         "options": [
           "examen",
-          "-ar estar ( followed por substantives único )",
-          "apropiado",
+          "ser",
+          "hacer juego",
           "adaptar"
         ],
         "answer": 2,
-        "explain": "适合 (shì hé) = apropiado."
+        "explain": "适合 (shì hé) = hacer juego."
       }
     ],
     "langId": "zh",
@@ -18003,7 +18003,7 @@
       {
         "t": "停止",
         "r": "tíng zhǐ",
-        "m": "parada",
+        "m": "parar",
         "audio": "assets/audio/clips/zh/hsk4/w853.mp3"
       },
       {
@@ -18207,13 +18207,13 @@
       {
         "t": "完成",
         "r": "wán chéng",
-        "m": "completo",
+        "m": "terminar",
         "audio": "assets/audio/clips/zh/hsk4/w871.mp3"
       },
       {
         "t": "完全",
         "r": "wán quán",
-        "m": "completo",
+        "m": "terminar",
         "audio": "assets/audio/clips/zh/hsk4/w872.mp3"
       },
       {
@@ -18329,7 +18329,7 @@
       {
         "t": "完成",
         "r": "wán chéng",
-        "m": "completo",
+        "m": "terminar",
         "audio": "assets/audio/clips/zh/hsk4/w871.mp3"
       }
     ],
@@ -18340,7 +18340,7 @@
           "socks",
           "afuera",
           "meta",
-          "completo"
+          "terminar"
         ],
         "answer": 0,
         "explain": "袜子 (wà zi) = socks."
@@ -18351,7 +18351,7 @@
           "socks",
           "afuera",
           "meta",
-          "completo"
+          "terminar"
         ],
         "answer": 1,
         "explain": "外 (wài) = afuera."
@@ -18362,7 +18362,7 @@
           "socks",
           "afuera",
           "meta",
-          "completo"
+          "terminar"
         ],
         "answer": 2,
         "explain": "完 (wán) = meta."
@@ -18513,7 +18513,7 @@
       {
         "t": "洗",
         "r": "xǐ",
-        "m": "enjuague",
+        "m": "lavar",
         "audio": "assets/audio/clips/zh/hsk4/w906.mp3"
       },
       {
@@ -18927,7 +18927,7 @@
       {
         "t": "笑话",
         "r": "xiào hua",
-        "m": "broma",
+        "m": "bromear",
         "audio": "assets/audio/clips/zh/hsk4/w944.mp3"
       },
       {
@@ -19255,7 +19255,7 @@
           [
             "需要",
             "xū yào",
-            "necesidad"
+            "necesitar"
           ],
           [
             "许多",
@@ -19275,7 +19275,7 @@
       {
         "t": "需要",
         "r": "xū yào",
-        "m": "necesidad",
+        "m": "necesitar",
         "audio": "assets/audio/clips/zh/hsk4/w971.mp3"
       },
       {
@@ -19371,7 +19371,7 @@
       {
         "t": "颜色",
         "r": "yán sè",
-        "m": "color",
+        "m": "colorear",
         "audio": "assets/audio/clips/zh/hsk4/w987.mp3"
       },
       {
@@ -19397,7 +19397,7 @@
       {
         "t": "需要",
         "r": "xū yào",
-        "m": "necesidad",
+        "m": "necesitar",
         "audio": "assets/audio/clips/zh/hsk4/w971.mp3"
       },
       {
@@ -19418,7 +19418,7 @@
         "question": "¿Qué significa «修»?",
         "options": [
           "apellido Xiu",
-          "necesidad",
+          "necesitar",
           "muchos",
           "seleccionar"
         ],
@@ -19429,18 +19429,18 @@
         "question": "¿Qué significa «需要»?",
         "options": [
           "apellido Xiu",
-          "necesidad",
+          "necesitar",
           "muchos",
           "seleccionar"
         ],
         "answer": 1,
-        "explain": "需要 (xū yào) = necesidad."
+        "explain": "需要 (xū yào) = necesitar."
       },
       {
         "question": "¿Qué significa «许多»?",
         "options": [
           "apellido Xiu",
-          "necesidad",
+          "necesitar",
           "muchos",
           "seleccionar"
         ],
@@ -19533,7 +19533,7 @@
       {
         "t": "要",
         "r": "yāo",
-        "m": "( acotado formulario ) -ar demanda",
+        "m": "exigir",
         "audio": "assets/audio/clips/zh/hsk4/w998.mp3"
       },
       {
@@ -19779,7 +19779,7 @@
       {
         "t": "以为",
         "r": "yǐ wéi",
-        "m": "to think (i.e. to take it to be true that ...) (Usually there is an implication that the notion is mistaken – except when expressing one's own current opinion.)",
+        "m": "pensar",
         "audio": "assets/audio/clips/zh/hsk4/w1023.mp3"
       },
       {
@@ -20119,7 +20119,7 @@
           [
             "有",
             "yǒu",
-            "haber"
+            "tener"
           ],
           [
             "有名",
@@ -20139,7 +20139,7 @@
       {
         "t": "有",
         "r": "yǒu",
-        "m": "haber",
+        "m": "tener",
         "audio": "assets/audio/clips/zh/hsk4/w1052.mp3"
       },
       {
@@ -20261,7 +20261,7 @@
       {
         "t": "有",
         "r": "yǒu",
-        "m": "haber",
+        "m": "tener",
         "audio": "assets/audio/clips/zh/hsk4/w1052.mp3"
       },
       {
@@ -20282,7 +20282,7 @@
         "question": "¿Qué significa «游泳»?",
         "options": [
           "natación",
-          "haber",
+          "tener",
           "famoso",
           "interesante"
         ],
@@ -20293,18 +20293,18 @@
         "question": "¿Qué significa «有»?",
         "options": [
           "natación",
-          "haber",
+          "tener",
           "famoso",
           "interesante"
         ],
         "answer": 1,
-        "explain": "有 (yǒu) = haber."
+        "explain": "有 (yǒu) = tener."
       },
       {
         "question": "¿Qué significa «有名»?",
         "options": [
           "natación",
-          "haber",
+          "tener",
           "famoso",
           "interesante"
         ],
@@ -20661,7 +20661,7 @@
       {
         "t": "这",
         "r": "zhè",
-        "m": "( pronombre ) este",
+        "m": "este",
         "audio": "assets/audio/clips/zh/hsk4/w1108.mp3"
       },
       {
@@ -20673,7 +20673,7 @@
       {
         "t": "着急",
         "r": "zháo jí",
-        "m": "preocupación",
+        "m": "estar preocupado",
         "audio": "assets/audio/clips/zh/hsk4/w1110.mp3"
       },
       {
@@ -20817,7 +20817,7 @@
       {
         "t": "正确",
         "r": "zhèng què",
-        "m": "correcto",
+        "m": "corregir",
         "audio": "assets/audio/clips/zh/hsk4/w1118.mp3"
       },
       {
@@ -20853,7 +20853,7 @@
       {
         "t": "知道",
         "r": "zhī dào",
-        "m": "conocer",
+        "m": "saber",
         "audio": "assets/audio/clips/zh/hsk4/w1124.mp3"
       },
       {
@@ -21199,7 +21199,7 @@
           [
             "主意",
             "zhǔ yi",
-            "plan"
+            "planear"
           ],
           [
             "住",
@@ -21219,7 +21219,7 @@
       {
         "t": "主意",
         "r": "zhǔ yi",
-        "m": "plan",
+        "m": "planear",
         "audio": "assets/audio/clips/zh/hsk4/w1153.mp3"
       },
       {
@@ -21341,7 +21341,7 @@
       {
         "t": "主意",
         "r": "zhǔ yi",
-        "m": "plan",
+        "m": "planear",
         "audio": "assets/audio/clips/zh/hsk4/w1153.mp3"
       },
       {
@@ -21362,7 +21362,7 @@
         "question": "¿Qué significa «主要»?",
         "options": [
           "principal",
-          "plan",
+          "planear",
           "en vivo",
           "-ar tomar nota de"
         ],
@@ -21373,18 +21373,18 @@
         "question": "¿Qué significa «主意»?",
         "options": [
           "principal",
-          "plan",
+          "planear",
           "en vivo",
           "-ar tomar nota de"
         ],
         "answer": 1,
-        "explain": "主意 (zhǔ yi) = plan."
+        "explain": "主意 (zhǔ yi) = planear."
       },
       {
         "question": "¿Qué significa «住»?",
         "options": [
           "principal",
-          "plan",
+          "planear",
           "en vivo",
           "-ar tomar nota de"
         ],
@@ -21525,7 +21525,7 @@
       {
         "t": "作者",
         "r": "zuò zhě",
-        "m": "autor",
+        "m": "escribir",
         "audio": "assets/audio/clips/zh/hsk4/w1188.mp3"
       },
       {
@@ -21669,13 +21669,13 @@
       {
         "t": "爱",
         "r": "ài",
-        "m": "amor",
+        "m": "amar",
         "audio": "assets/audio/clips/zh/hsk5/w5.mp3"
       },
       {
         "t": "爱好",
         "r": "ài hào",
-        "m": "semejante",
+        "m": "gustar",
         "audio": "assets/audio/clips/zh/hsk5/w6.mp3"
       },
       {
@@ -21852,7 +21852,7 @@
           [
             "爸爸",
             "bà ba",
-            "( coll .) padre"
+            "papá"
           ]
         ]
       }
@@ -21873,7 +21873,7 @@
       {
         "t": "爸爸",
         "r": "bà ba",
-        "m": "( coll .) padre",
+        "m": "papá",
         "audio": "assets/audio/clips/zh/hsk5/w23.mp3"
       },
       {
@@ -21933,7 +21933,7 @@
       {
         "t": "办理",
         "r": "bàn lǐ",
-        "m": "[of container] asa",
+        "m": "asa",
         "audio": "assets/audio/clips/zh/hsk5/w33.mp3"
       },
       {
@@ -21995,7 +21995,7 @@
       {
         "t": "爸爸",
         "r": "bà ba",
-        "m": "( coll .) padre",
+        "m": "papá",
         "audio": "assets/audio/clips/zh/hsk5/w23.mp3"
       },
       {
@@ -22011,7 +22011,7 @@
         "options": [
           "aguantar",
           "-ar asimiento ( también higo .)",
-          "( coll .) padre",
+          "papá",
           "barra ( préstamo ) ( serving drinks , oro providing Internet acceso etc )"
         ],
         "answer": 0,
@@ -22022,7 +22022,7 @@
         "options": [
           "aguantar",
           "-ar asimiento ( también higo .)",
-          "( coll .) padre",
+          "papá",
           "barra ( préstamo ) ( serving drinks , oro providing Internet acceso etc )"
         ],
         "answer": 1,
@@ -22033,11 +22033,11 @@
         "options": [
           "aguantar",
           "-ar asimiento ( también higo .)",
-          "( coll .) padre",
+          "papá",
           "barra ( préstamo ) ( serving drinks , oro providing Internet acceso etc )"
         ],
         "answer": 2,
-        "explain": "爸爸 (bà ba) = ( coll .) padre."
+        "explain": "爸爸 (bà ba) = papá."
       }
     ],
     "langId": "zh",
@@ -22575,7 +22575,7 @@
       {
         "t": "变化",
         "r": "biàn huà",
-        "m": "( intransitivo ) -ar cambio",
+        "m": "cambiar",
         "audio": "assets/audio/clips/zh/hsk5/w92.mp3"
       },
       {
@@ -22599,7 +22599,7 @@
       {
         "t": "辩论",
         "r": "biàn lùn",
-        "m": "debate",
+        "m": "debatir",
         "audio": "assets/audio/clips/zh/hsk5/w96.mp3"
       },
       {
@@ -23487,7 +23487,7 @@
       {
         "t": "尝",
         "r": "cháng",
-        "m": "al gusto",
+        "m": "gustar",
         "audio": "assets/audio/clips/zh/hsk5/w180.mp3"
       }
     ],
@@ -23691,7 +23691,7 @@
       {
         "t": "称呼",
         "r": "chēng hu",
-        "m": "convocatoria",
+        "m": "llamar",
         "audio": "assets/audio/clips/zh/hsk5/w198.mp3"
       },
       {
@@ -23835,13 +23835,13 @@
       {
         "t": "成熟",
         "r": "chéng shú",
-        "m": "maduro",
+        "m": "madurar",
         "audio": "assets/audio/clips/zh/hsk5/w206.mp3"
       },
       {
         "t": "成为",
         "r": "chéng wéi",
-        "m": "volverse",
+        "m": "llegar a ser",
         "audio": "assets/audio/clips/zh/hsk5/w207.mp3"
       },
       {
@@ -24267,7 +24267,7 @@
       {
         "t": "出租车",
         "r": "chū zū chē",
-        "m": "taxi",
+        "m": "carretear",
         "audio": "assets/audio/clips/zh/hsk5/w247.mp3"
       },
       {
@@ -24309,7 +24309,7 @@
       {
         "t": "处理",
         "r": "chǔ lǐ",
-        "m": "[of container] asa",
+        "m": "asa",
         "audio": "assets/audio/clips/zh/hsk5/w254.mp3"
       },
       {
@@ -24501,7 +24501,7 @@
       {
         "t": "词语",
         "r": "cí yǔ",
-        "m": "palabra (término general que incluye monosílabos hasta frases cortas)",
+        "m": "redactar",
         "audio": "assets/audio/clips/zh/hsk5/w270.mp3"
       },
       {
@@ -24693,7 +24693,7 @@
       {
         "t": "促进",
         "r": "cù jìn",
-        "m": "-ar promover ( un idea oro causa )",
+        "m": "promover",
         "audio": "assets/audio/clips/zh/hsk5/w286.mp3"
       },
       {
@@ -24747,7 +24747,7 @@
       {
         "t": "达到",
         "r": "dá dào",
-        "m": "alcance",
+        "m": "alcanzar",
         "audio": "assets/audio/clips/zh/hsk5/w295.mp3"
       },
       {
@@ -24759,7 +24759,7 @@
       {
         "t": "答应",
         "r": "dā ying",
-        "m": "respuesta",
+        "m": "responder",
         "audio": "assets/audio/clips/zh/hsk5/w297.mp3"
       },
       {
@@ -25209,7 +25209,7 @@
       {
         "t": "蛋糕",
         "r": "dàn gāo",
-        "m": "[birthday or wedding cake] bizcocho [Dominican Republic",
+        "m": "bizcocho  [Dominican Republic",
         "audio": "assets/audio/clips/zh/hsk5/w340.mp3"
       },
       {
@@ -25377,7 +25377,7 @@
       {
         "t": "到",
         "r": "dào",
-        "m": "alcance",
+        "m": "alcanzar",
         "audio": "assets/audio/clips/zh/hsk5/w352.mp3"
       },
       {
@@ -25389,7 +25389,7 @@
       {
         "t": "到达",
         "r": "dào dá",
-        "m": "alcance",
+        "m": "alcanzar",
         "audio": "assets/audio/clips/zh/hsk5/w354.mp3"
       },
       {
@@ -25401,7 +25401,7 @@
       {
         "t": "倒",
         "r": "dǎo",
-        "m": "caída",
+        "m": "caer",
         "audio": "assets/audio/clips/zh/hsk5/w356.mp3"
       },
       {
@@ -25647,7 +25647,7 @@
       {
         "t": "等待",
         "r": "děng dài",
-        "m": "espera",
+        "m": "esperar",
         "audio": "assets/audio/clips/zh/hsk5/w381.mp3"
       }
     ],
@@ -26073,7 +26073,7 @@
       {
         "t": "逗",
         "r": "dòu",
-        "m": "-ar embromar ( playfully )",
+        "m": "embromar",
         "audio": "assets/audio/clips/zh/hsk5/w420.mp3"
       },
       {
@@ -26247,7 +26247,7 @@
       {
         "t": "对",
         "r": "duì",
-        "m": "derecho",
+        "m": "perpendicular",
         "audio": "assets/audio/clips/zh/hsk5/w433.mp3"
       },
       {
@@ -26667,7 +26667,7 @@
       {
         "t": "发现",
         "r": "fā xiàn",
-        "m": "comunicación",
+        "m": "reparar en",
         "audio": "assets/audio/clips/zh/hsk5/w471.mp3"
       },
       {
@@ -26883,7 +26883,7 @@
       {
         "t": "方案",
         "r": "fāng àn",
-        "m": "plan",
+        "m": "planear",
         "audio": "assets/audio/clips/zh/hsk5/w491.mp3"
       },
       {
@@ -27123,7 +27123,7 @@
       {
         "t": "分别",
         "r": "fēn bié",
-        "m": "categoría",
+        "m": "hacer una raya",
         "audio": "assets/audio/clips/zh/hsk5/w515.mp3"
       },
       {
@@ -27303,7 +27303,7 @@
       {
         "t": "风险",
         "r": "fēng xiǎn",
-        "m": "riesgo",
+        "m": "arriesgar",
         "audio": "assets/audio/clips/zh/hsk5/w529.mp3"
       },
       {
@@ -27933,7 +27933,7 @@
       {
         "t": "告别",
         "r": "gào bié",
-        "m": "permiso",
+        "m": "dejar",
         "audio": "assets/audio/clips/zh/hsk5/w586.mp3"
       },
       {
@@ -28221,7 +28221,7 @@
       {
         "t": "公开",
         "r": "gōng kāi",
-        "m": "abierto",
+        "m": "abrir",
         "audio": "assets/audio/clips/zh/hsk5/w618.mp3"
       },
       {
@@ -28371,7 +28371,7 @@
       {
         "t": "功能",
         "r": "gōng néng",
-        "m": "función",
+        "m": "funcionar",
         "audio": "assets/audio/clips/zh/hsk5/w627.mp3"
       },
       {
@@ -28665,7 +28665,7 @@
       {
         "t": "关闭",
         "r": "guān bì",
-        "m": "cercano",
+        "m": "cerrar",
         "audio": "assets/audio/clips/zh/hsk5/w660.mp3"
       },
       {
@@ -28851,7 +28851,7 @@
       {
         "t": "光",
         "r": "guāng",
-        "m": "con leche",
+        "m": "iluminar",
         "audio": "assets/audio/clips/zh/hsk5/w675.mp3"
       },
       {
@@ -29407,7 +29407,7 @@
           [
             "航班",
             "háng bān",
-            "( scheduled ) fuga"
+            "fuga"
           ],
           [
             "豪华",
@@ -29427,7 +29427,7 @@
       {
         "t": "航班",
         "r": "háng bān",
-        "m": "( scheduled ) fuga",
+        "m": "fuga",
         "audio": "assets/audio/clips/zh/hsk5/w723.mp3"
       },
       {
@@ -29549,7 +29549,7 @@
       {
         "t": "航班",
         "r": "háng bān",
-        "m": "( scheduled ) fuga",
+        "m": "fuga",
         "audio": "assets/audio/clips/zh/hsk5/w723.mp3"
       },
       {
@@ -29570,7 +29570,7 @@
         "question": "¿Qué significa «汗»?",
         "options": [
           "sede 汗, 汗国",
-          "( scheduled ) fuga",
+          "fuga",
           "lujoso",
           "bueno"
         ],
@@ -29581,18 +29581,18 @@
         "question": "¿Qué significa «航班»?",
         "options": [
           "sede 汗, 汗国",
-          "( scheduled ) fuga",
+          "fuga",
           "lujoso",
           "bueno"
         ],
         "answer": 1,
-        "explain": "航班 (háng bān) = ( scheduled ) fuga."
+        "explain": "航班 (háng bān) = fuga."
       },
       {
         "question": "¿Qué significa «豪华»?",
         "options": [
           "sede 汗, 汗国",
-          "( scheduled ) fuga",
+          "fuga",
           "lujoso",
           "bueno"
         ],
@@ -29739,7 +29739,7 @@
       {
         "t": "忽视",
         "r": "hū shì",
-        "m": "negligencia",
+        "m": "descuidar",
         "audio": "assets/audio/clips/zh/hsk5/w761.mp3"
       },
       {
@@ -29937,13 +29937,13 @@
       {
         "t": "画",
         "r": "huà",
-        "m": "proyecto",
+        "m": "dibujar",
         "audio": "assets/audio/clips/zh/hsk5/w778.mp3"
       },
       {
         "t": "话题",
         "r": "huà tí",
-        "m": "sujeto ( de a conversación oro conversación )",
+        "m": "someter",
         "audio": "assets/audio/clips/zh/hsk5/w779.mp3"
       },
       {
@@ -30165,7 +30165,7 @@
       {
         "t": "回答",
         "r": "huí dá",
-        "m": "respuesta",
+        "m": "responder",
         "audio": "assets/audio/clips/zh/hsk5/w800.mp3"
       },
       {
@@ -30183,7 +30183,7 @@
       {
         "t": "会",
         "r": "huì",
-        "m": "regadera",
+        "m": "poder",
         "audio": "assets/audio/clips/zh/hsk5/w803.mp3"
       }
     ],
@@ -30487,7 +30487,7 @@
           [
             "基础",
             "jī chǔ",
-            "bajo"
+            "basar"
           ],
           [
             "激动",
@@ -30507,7 +30507,7 @@
       {
         "t": "基础",
         "r": "jī chǔ",
-        "m": "bajo",
+        "m": "basar",
         "audio": "assets/audio/clips/zh/hsk5/w825.mp3"
       },
       {
@@ -30519,7 +30519,7 @@
       {
         "t": "激烈",
         "r": "jī liè",
-        "m": "( de competencia oro fighting ) intenso",
+        "m": "intenso",
         "audio": "assets/audio/clips/zh/hsk5/w827.mp3"
       },
       {
@@ -30591,7 +30591,7 @@
       {
         "t": "计划",
         "r": "jì huà",
-        "m": "plan",
+        "m": "planear",
         "audio": "assets/audio/clips/zh/hsk5/w839.mp3"
       },
       {
@@ -30629,7 +30629,7 @@
       {
         "t": "基础",
         "r": "jī chǔ",
-        "m": "bajo",
+        "m": "basar",
         "audio": "assets/audio/clips/zh/hsk5/w825.mp3"
       },
       {
@@ -30641,7 +30641,7 @@
       {
         "t": "激烈",
         "r": "jī liè",
-        "m": "( de competencia oro fighting ) intenso",
+        "m": "intenso",
         "audio": "assets/audio/clips/zh/hsk5/w827.mp3"
       }
     ],
@@ -30650,9 +30650,9 @@
         "question": "¿Qué significa «基本»?",
         "options": [
           "básico",
-          "bajo",
+          "basar",
           "-ar mudanza emocionalmente",
-          "( de competencia oro fighting ) intenso"
+          "intenso"
         ],
         "answer": 0,
         "explain": "基本 (jī běn) = básico."
@@ -30661,20 +30661,20 @@
         "question": "¿Qué significa «基础»?",
         "options": [
           "básico",
-          "bajo",
+          "basar",
           "-ar mudanza emocionalmente",
-          "( de competencia oro fighting ) intenso"
+          "intenso"
         ],
         "answer": 1,
-        "explain": "基础 (jī chǔ) = bajo."
+        "explain": "基础 (jī chǔ) = basar."
       },
       {
         "question": "¿Qué significa «激动»?",
         "options": [
           "básico",
-          "bajo",
+          "basar",
           "-ar mudanza emocionalmente",
-          "( de competencia oro fighting ) intenso"
+          "intenso"
         ],
         "answer": 2,
         "explain": "激动 (jī dòng) = -ar mudanza emocionalmente."
@@ -32055,7 +32055,7 @@
       {
         "t": "进步",
         "r": "jìn bù",
-        "m": "progreso",
+        "m": "progresar",
         "audio": "assets/audio/clips/zh/hsk5/w971.mp3"
       },
       {
@@ -32307,7 +32307,7 @@
       {
         "t": "旧",
         "r": "jiù",
-        "m": "viejo [used before the noun]",
+        "m": "viejo",
         "audio": "assets/audio/clips/zh/hsk5/w997.mp3"
       },
       {
@@ -32475,7 +32475,7 @@
       {
         "t": "拒绝",
         "r": "jù jué",
-        "m": "basura",
+        "m": "rehusar",
         "audio": "assets/audio/clips/zh/hsk5/w1009.mp3"
       },
       {
@@ -32679,7 +32679,7 @@
       {
         "t": "开",
         "r": "kāi",
-        "m": "-ar abierto ( transitivo oro intransitivo )",
+        "m": "abrir",
         "audio": "assets/audio/clips/zh/hsk5/w1027.mp3"
       },
       {
@@ -32801,7 +32801,7 @@
       {
         "t": "开",
         "r": "kāi",
-        "m": "-ar abierto ( transitivo oro intransitivo )",
+        "m": "abrir",
         "audio": "assets/audio/clips/zh/hsk5/w1027.mp3"
       }
     ],
@@ -32812,7 +32812,7 @@
           "par",
           "café ( préstamo )",
           "camión",
-          "-ar abierto ( transitivo oro intransitivo )"
+          "abrir"
         ],
         "answer": 0,
         "explain": "均匀 (jūn yún) = par."
@@ -32823,7 +32823,7 @@
           "par",
           "café ( préstamo )",
           "camión",
-          "-ar abierto ( transitivo oro intransitivo )"
+          "abrir"
         ],
         "answer": 1,
         "explain": "咖啡 (kā fēi) = café ( préstamo )."
@@ -32834,7 +32834,7 @@
           "par",
           "café ( préstamo )",
           "camión",
-          "-ar abierto ( transitivo oro intransitivo )"
+          "abrir"
         ],
         "answer": 2,
         "explain": "卡车 (kǎ chē) = camión."
@@ -33165,7 +33165,7 @@
       {
         "t": "哭",
         "r": "kū",
-        "m": "llanto",
+        "m": "llorar",
         "audio": "assets/audio/clips/zh/hsk5/w1076.mp3"
       },
       {
@@ -33759,7 +33759,7 @@
       {
         "t": "离开",
         "r": "lí kāi",
-        "m": "irse",
+        "m": "morir",
         "audio": "assets/audio/clips/zh/hsk5/w1127.mp3"
       },
       {
@@ -33783,7 +33783,7 @@
       {
         "t": "礼物",
         "r": "lǐ wù",
-        "m": "don",
+        "m": "regalar",
         "audio": "assets/audio/clips/zh/hsk5/w1131.mp3"
       },
       {
@@ -33881,7 +33881,7 @@
       {
         "t": "离开",
         "r": "lí kāi",
-        "m": "irse",
+        "m": "morir",
         "audio": "assets/audio/clips/zh/hsk5/w1127.mp3"
       }
     ],
@@ -33892,7 +33892,7 @@
           "centimeter",
           "mítico bestia ( arcaico )",
           "divorcio",
-          "irse"
+          "morir"
         ],
         "answer": 0,
         "explain": "厘米 (lí mǐ) = centimeter."
@@ -33903,7 +33903,7 @@
           "centimeter",
           "mítico bestia ( arcaico )",
           "divorcio",
-          "irse"
+          "morir"
         ],
         "answer": 1,
         "explain": "离 (chī) = mítico bestia ( arcaico )."
@@ -33914,7 +33914,7 @@
           "centimeter",
           "mítico bestia ( arcaico )",
           "divorcio",
-          "irse"
+          "morir"
         ],
         "answer": 2,
         "explain": "离婚 (lí hūn) = divorcio."
@@ -34473,7 +34473,7 @@
       {
         "t": "轮流",
         "r": "lún liú",
-        "m": "alterno",
+        "m": "alternar",
         "audio": "assets/audio/clips/zh/hsk5/w1199.mp3"
       },
       {
@@ -34503,7 +34503,7 @@
       {
         "t": "麻烦",
         "r": "má fan",
-        "m": "problema",
+        "m": "molestar",
         "audio": "assets/audio/clips/zh/hsk5/w1204.mp3"
       }
     ],
@@ -35067,7 +35067,7 @@
       {
         "t": "面对",
         "r": "miàn duì",
-        "m": "gesto",
+        "m": "enfrentar",
         "audio": "assets/audio/clips/zh/hsk5/w1250.mp3"
       },
       {
@@ -35139,7 +35139,7 @@
       {
         "t": "名字",
         "r": "míng zi",
-        "m": "nombre ( de a persona oro cosa )",
+        "m": "nombrar",
         "audio": "assets/audio/clips/zh/hsk5/w1262.mp3"
       },
       {
@@ -35271,7 +35271,7 @@
       {
         "t": "明星",
         "r": "míng xīng",
-        "m": "estrella",
+        "m": "estelarizar",
         "audio": "assets/audio/clips/zh/hsk5/w1268.mp3"
       },
       {
@@ -35283,7 +35283,7 @@
       {
         "t": "命运",
         "r": "mìng yùn",
-        "m": "destino",
+        "m": "azar",
         "audio": "assets/audio/clips/zh/hsk5/w1270.mp3"
       },
       {
@@ -35393,7 +35393,7 @@
       {
         "t": "明星",
         "r": "míng xīng",
-        "m": "estrella",
+        "m": "estelarizar",
         "audio": "assets/audio/clips/zh/hsk5/w1268.mp3"
       }
     ],
@@ -35404,7 +35404,7 @@
           "mañana",
           "claro",
           "tarjeta postal",
-          "estrella"
+          "estelarizar"
         ],
         "answer": 0,
         "explain": "明天 (míng tiān) = mañana."
@@ -35415,7 +35415,7 @@
           "mañana",
           "claro",
           "tarjeta postal",
-          "estrella"
+          "estelarizar"
         ],
         "answer": 1,
         "explain": "明显 (míng xiǎn) = claro."
@@ -35426,7 +35426,7 @@
           "mañana",
           "claro",
           "tarjeta postal",
-          "estrella"
+          "estelarizar"
         ],
         "answer": 2,
         "explain": "明信片 (míng xìn piàn) = tarjeta postal."
@@ -35547,7 +35547,7 @@
       {
         "t": "呢",
         "r": "ne",
-        "m": "particle indicating that a previously asked question is to be applied to the preceding word (\"What about ...?\", \"And ...?\")",
+        "m": "partícula de pregunta («¿y…?»)",
         "audio": "assets/audio/clips/zh/hsk5/w1298.mp3"
       },
       {
@@ -35973,7 +35973,7 @@
       {
         "t": "派",
         "r": "pài",
-        "m": "clique",
+        "m": "clica",
         "audio": "assets/audio/clips/zh/hsk5/w1337.mp3"
       },
       {
@@ -36393,7 +36393,7 @@
       {
         "t": "平方",
         "r": "píng fāng",
-        "m": "perpendicular ( tan dentro perpendicular pie , perpendicular milla , perpendicular raíz )",
+        "m": "perpendicular",
         "audio": "assets/audio/clips/zh/hsk5/w1375.mp3"
       },
       {
@@ -37011,7 +37011,7 @@
       {
         "t": "悄悄",
         "r": "qiāo qiāo",
-        "m": "tranquilo",
+        "m": "callar",
         "audio": "assets/audio/clips/zh/hsk5/w1430.mp3"
       },
       {
@@ -37047,7 +37047,7 @@
       {
         "t": "切",
         "r": "qiē",
-        "m": "circuncidado",
+        "m": "faltar",
         "audio": "assets/audio/clips/zh/hsk5/w1436.mp3"
       },
       {
@@ -37233,7 +37233,7 @@
       {
         "t": "清淡",
         "r": "qīng dàn",
-        "m": "con leche ( de alimento , no grasiento oro fuertemente flavored )",
+        "m": "iluminar",
         "audio": "assets/audio/clips/zh/hsk5/w1451.mp3"
       },
       {
@@ -37281,7 +37281,7 @@
       {
         "t": "请求",
         "r": "qǐng qiú",
-        "m": "solicitud",
+        "m": "demandar",
         "audio": "assets/audio/clips/zh/hsk5/w1459.mp3"
       },
       {
@@ -37394,7 +37394,7 @@
           [
             "趋势",
             "qū shì",
-            "moda"
+            "tender"
           ],
           [
             "取",
@@ -37413,7 +37413,7 @@
       {
         "t": "趋势",
         "r": "qū shì",
-        "m": "moda",
+        "m": "tender",
         "audio": "assets/audio/clips/zh/hsk5/w1465.mp3"
       },
       {
@@ -37497,7 +37497,7 @@
       {
         "t": "缺乏",
         "r": "quē fá",
-        "m": "falta",
+        "m": "faltar",
         "audio": "assets/audio/clips/zh/hsk5/w1479.mp3"
       },
       {
@@ -37535,7 +37535,7 @@
       {
         "t": "趋势",
         "r": "qū shì",
-        "m": "moda",
+        "m": "tender",
         "audio": "assets/audio/clips/zh/hsk5/w1465.mp3"
       },
       {
@@ -37561,18 +37561,18 @@
       {
         "question": "¿Qué significa «趋势»?",
         "options": [
-          "moda",
+          "tender",
           "tomar",
           "cancelar",
           "-ar tomar a esposa"
         ],
         "answer": 0,
-        "explain": "趋势 (qū shì) = moda."
+        "explain": "趋势 (qū shì) = tender."
       },
       {
         "question": "¿Qué significa «取»?",
         "options": [
-          "moda",
+          "tender",
           "tomar",
           "cancelar",
           "-ar tomar a esposa"
@@ -37583,7 +37583,7 @@
       {
         "question": "¿Qué significa «取消»?",
         "options": [
-          "moda",
+          "tender",
           "tomar",
           "cancelar",
           "-ar tomar a esposa"
@@ -38295,7 +38295,7 @@
       {
         "t": "扇子",
         "r": "shàn zi",
-        "m": "fan",
+        "m": "abanicar (with a manual fan)",
         "audio": "assets/audio/clips/zh/hsk5/w1548.mp3"
       },
       {
@@ -38319,7 +38319,7 @@
       {
         "t": "商店",
         "r": "shāng diàn",
-        "m": "depósito",
+        "m": "almacenar",
         "audio": "assets/audio/clips/zh/hsk5/w1552.mp3"
       },
       {
@@ -38417,7 +38417,7 @@
       {
         "t": "扇子",
         "r": "shàn zi",
-        "m": "fan",
+        "m": "abanicar (with a manual fan)",
         "audio": "assets/audio/clips/zh/hsk5/w1548.mp3"
       }
     ],
@@ -38428,7 +38428,7 @@
           "variante de 晒",
           "borrar",
           "rayo",
-          "fan"
+          "abanicar (with a manual fan)"
         ],
         "answer": 0,
         "explain": "晒 (shài) = variante de 晒."
@@ -38439,7 +38439,7 @@
           "variante de 晒",
           "borrar",
           "rayo",
-          "fan"
+          "abanicar (with a manual fan)"
         ],
         "answer": 1,
         "explain": "删除 (shān chú) = borrar."
@@ -38450,7 +38450,7 @@
           "variante de 晒",
           "borrar",
           "rayo",
-          "fan"
+          "abanicar (with a manual fan)"
         ],
         "answer": 2,
         "explain": "闪电 (shǎn diàn) = rayo."
@@ -38511,7 +38511,7 @@
       {
         "t": "设计",
         "r": "shè jì",
-        "m": "diseño",
+        "m": "diseñar",
         "audio": "assets/audio/clips/zh/hsk5/w1568.mp3"
       },
       {
@@ -38633,7 +38633,7 @@
       {
         "t": "设计",
         "r": "shè jì",
-        "m": "diseño",
+        "m": "diseñar",
         "audio": "assets/audio/clips/zh/hsk5/w1568.mp3"
       }
     ],
@@ -38644,7 +38644,7 @@
           "variante de 蛇",
           "-ar odiar -ar do sth",
           "equipamiento",
-          "diseño"
+          "diseñar"
         ],
         "answer": 0,
         "explain": "蛇 (shé) = variante de 蛇."
@@ -38655,7 +38655,7 @@
           "variante de 蛇",
           "-ar odiar -ar do sth",
           "equipamiento",
-          "diseño"
+          "diseñar"
         ],
         "answer": 1,
         "explain": "舍不得 (shě bu de) = -ar odiar -ar do sth."
@@ -38666,7 +38666,7 @@
           "variante de 蛇",
           "-ar odiar -ar do sth",
           "equipamiento",
-          "diseño"
+          "diseñar"
         ],
         "answer": 2,
         "explain": "设备 (shè bèi) = equipamiento."
@@ -38700,7 +38700,7 @@
           [
             "生产",
             "shēng chǎn",
-            "producto"
+            "producir"
           ]
         ]
       }
@@ -38721,7 +38721,7 @@
       {
         "t": "生产",
         "r": "shēng chǎn",
-        "m": "producto",
+        "m": "producir",
         "audio": "assets/audio/clips/zh/hsk5/w1587.mp3"
       },
       {
@@ -38775,7 +38775,7 @@
       {
         "t": "省",
         "r": "shěng",
-        "m": "parada",
+        "m": "ahorrar",
         "audio": "assets/audio/clips/zh/hsk5/w1596.mp3"
       },
       {
@@ -38843,7 +38843,7 @@
       {
         "t": "生产",
         "r": "shēng chǎn",
-        "m": "producto",
+        "m": "producir",
         "audio": "assets/audio/clips/zh/hsk5/w1587.mp3"
       },
       {
@@ -38859,7 +38859,7 @@
         "options": [
           "subir",
           "-ar caída mal",
-          "producto",
+          "producir",
           "vivid"
         ],
         "answer": 0,
@@ -38870,7 +38870,7 @@
         "options": [
           "subir",
           "-ar caída mal",
-          "producto",
+          "producir",
           "vivid"
         ],
         "answer": 1,
@@ -38881,11 +38881,11 @@
         "options": [
           "subir",
           "-ar caída mal",
-          "producto",
+          "producir",
           "vivid"
         ],
         "answer": 2,
-        "explain": "生产 (shēng chǎn) = producto."
+        "explain": "生产 (shēng chǎn) = producir."
       }
     ],
     "langId": "zh",
@@ -39338,17 +39338,17 @@
           [
             "是",
             "shì",
-            "-ar estar ( followed por substantives único )"
+            "ser"
           ],
           [
             "是否",
             "shì fǒu",
-            "si ... o ( oro no )"
+            "si ... o"
           ],
           [
             "适合",
             "shì hé",
-            "apropiado"
+            "hacer juego"
           ]
         ]
       }
@@ -39357,19 +39357,19 @@
       {
         "t": "是",
         "r": "shì",
-        "m": "-ar estar ( followed por substantives único )",
+        "m": "ser",
         "audio": "assets/audio/clips/zh/hsk5/w1646.mp3"
       },
       {
         "t": "是否",
         "r": "shì fǒu",
-        "m": "si ... o ( oro no )",
+        "m": "si ... o",
         "audio": "assets/audio/clips/zh/hsk5/w1647.mp3"
       },
       {
         "t": "适合",
         "r": "shì hé",
-        "m": "apropiado",
+        "m": "hacer juego",
         "audio": "assets/audio/clips/zh/hsk5/w1648.mp3"
       },
       {
@@ -39479,19 +39479,19 @@
       {
         "t": "是",
         "r": "shì",
-        "m": "-ar estar ( followed por substantives único )",
+        "m": "ser",
         "audio": "assets/audio/clips/zh/hsk5/w1646.mp3"
       },
       {
         "t": "是否",
         "r": "shì fǒu",
-        "m": "si ... o ( oro no )",
+        "m": "si ... o",
         "audio": "assets/audio/clips/zh/hsk5/w1647.mp3"
       },
       {
         "t": "适合",
         "r": "shì hé",
-        "m": "apropiado",
+        "m": "hacer juego",
         "audio": "assets/audio/clips/zh/hsk5/w1648.mp3"
       },
       {
@@ -39505,35 +39505,35 @@
       {
         "question": "¿Qué significa «是»?",
         "options": [
-          "-ar estar ( followed por substantives único )",
-          "si ... o ( oro no )",
-          "apropiado",
+          "ser",
+          "si ... o",
+          "hacer juego",
           "adaptar"
         ],
         "answer": 0,
-        "explain": "是 (shì) = -ar estar ( followed por substantives único )."
+        "explain": "是 (shì) = ser."
       },
       {
         "question": "¿Qué significa «是否»?",
         "options": [
-          "-ar estar ( followed por substantives único )",
-          "si ... o ( oro no )",
-          "apropiado",
+          "ser",
+          "si ... o",
+          "hacer juego",
           "adaptar"
         ],
         "answer": 1,
-        "explain": "是否 (shì fǒu) = si ... o ( oro no )."
+        "explain": "是否 (shì fǒu) = si ... o."
       },
       {
         "question": "¿Qué significa «适合»?",
         "options": [
-          "-ar estar ( followed por substantives único )",
-          "si ... o ( oro no )",
-          "apropiado",
+          "ser",
+          "si ... o",
+          "hacer juego",
           "adaptar"
         ],
         "answer": 2,
-        "explain": "适合 (shì hé) = apropiado."
+        "explain": "适合 (shì hé) = hacer juego."
       }
     ],
     "langId": "zh",
@@ -40299,7 +40299,7 @@
       {
         "t": "锁",
         "r": "suǒ",
-        "m": "llave",
+        "m": "cerrar con llave",
         "audio": "assets/audio/clips/zh/hsk5/w1739.mp3"
       },
       {
@@ -40731,7 +40731,7 @@
       {
         "t": "提问",
         "r": "tí wèn",
-        "m": "duda",
+        "m": "preguntar",
         "audio": "assets/audio/clips/zh/hsk5/w1780.mp3"
       },
       {
@@ -40953,7 +40953,7 @@
       {
         "t": "停止",
         "r": "tíng zhǐ",
-        "m": "parada",
+        "m": "parar",
         "audio": "assets/audio/clips/zh/hsk5/w1801.mp3"
       },
       {
@@ -41121,7 +41121,7 @@
       {
         "t": "统一",
         "r": "tǒng yī",
-        "m": "unificar [pronominal]",
+        "m": "unificar",
         "audio": "assets/audio/clips/zh/hsk5/w1813.mp3"
       },
       {
@@ -41397,7 +41397,7 @@
       {
         "t": "完成",
         "r": "wán chéng",
-        "m": "completo",
+        "m": "terminar",
         "audio": "assets/audio/clips/zh/hsk5/w1844.mp3"
       },
       {
@@ -41409,7 +41409,7 @@
       {
         "t": "完全",
         "r": "wán quán",
-        "m": "completo",
+        "m": "terminar",
         "audio": "assets/audio/clips/zh/hsk5/w1846.mp3"
       },
       {
@@ -42039,7 +42039,7 @@
       {
         "t": "卧室",
         "r": "wò shì",
-        "m": "alcoba [now especially formal or literary usage",
+        "m": "alcoba  [now especially formal or literary usage",
         "audio": "assets/audio/clips/zh/hsk5/w1903.mp3"
       },
       {
@@ -42255,7 +42255,7 @@
       {
         "t": "洗",
         "r": "xǐ",
-        "m": "enjuague",
+        "m": "lavar",
         "audio": "assets/audio/clips/zh/hsk5/w1923.mp3"
       },
       {
@@ -42279,7 +42279,7 @@
       {
         "t": "喜欢",
         "r": "xǐ huan",
-        "m": "semejante",
+        "m": "gustar",
         "audio": "assets/audio/clips/zh/hsk5/w1927.mp3"
       }
     ],
@@ -43119,7 +43119,7 @@
       {
         "t": "笑话",
         "r": "xiào hua",
-        "m": "broma",
+        "m": "bromear",
         "audio": "assets/audio/clips/zh/hsk5/w2003.mp3"
       },
       {
@@ -43485,7 +43485,7 @@
       {
         "t": "行业",
         "r": "háng yè",
-        "m": "comercio",
+        "m": "comerciar",
         "audio": "assets/audio/clips/zh/hsk5/w2032.mp3"
       },
       {
@@ -43521,7 +43521,7 @@
       {
         "t": "形状",
         "r": "xíng zhuàng",
-        "m": "formulario",
+        "m": "formar",
         "audio": "assets/audio/clips/zh/hsk5/w2038.mp3"
       },
       {
@@ -43737,7 +43737,7 @@
       {
         "t": "需要",
         "r": "xū yào",
-        "m": "necesidad",
+        "m": "necesitar",
         "audio": "assets/audio/clips/zh/hsk5/w2058.mp3"
       },
       {
@@ -44007,7 +44007,7 @@
       {
         "t": "颜色",
         "r": "yán sè",
-        "m": "color",
+        "m": "colorear",
         "audio": "assets/audio/clips/zh/hsk5/w2087.mp3"
       }
     ],
@@ -44211,7 +44211,7 @@
       {
         "t": "要",
         "r": "yāo",
-        "m": "( acotado formulario ) -ar demanda",
+        "m": "exigir",
         "audio": "assets/audio/clips/zh/hsk5/w2105.mp3"
       },
       {
@@ -44306,7 +44306,7 @@
           [
             "要是",
             "yào shi",
-            "( coll .) si bien"
+            "si bien"
           ],
           [
             "钥匙",
@@ -44325,7 +44325,7 @@
       {
         "t": "要是",
         "r": "yào shi",
-        "m": "( coll .) si bien",
+        "m": "si bien",
         "audio": "assets/audio/clips/zh/hsk5/w2108.mp3"
       },
       {
@@ -44447,7 +44447,7 @@
       {
         "t": "要是",
         "r": "yào shi",
-        "m": "( coll .) si bien",
+        "m": "si bien",
         "audio": "assets/audio/clips/zh/hsk5/w2108.mp3"
       },
       {
@@ -44473,18 +44473,18 @@
       {
         "question": "¿Qué significa «要是»?",
         "options": [
-          "( coll .) si bien",
+          "si bien",
           "clave",
           "apellido Ye",
           "quizá"
         ],
         "answer": 0,
-        "explain": "要是 (yào shi) = ( coll .) si bien."
+        "explain": "要是 (yào shi) = si bien."
       },
       {
         "question": "¿Qué significa «钥匙»?",
         "options": [
-          "( coll .) si bien",
+          "si bien",
           "clave",
           "apellido Ye",
           "quizá"
@@ -44495,7 +44495,7 @@
       {
         "question": "¿Qué significa «也»?",
         "options": [
-          "( coll .) si bien",
+          "si bien",
           "clave",
           "apellido Ye",
           "quizá"
@@ -44738,7 +44738,7 @@
           [
             "以为",
             "yǐ wéi",
-            "to think (i.e. to take it to be true that ...) (Usually there is an implication that the notion is mistaken – except when expressing one's own current opinion.)"
+            "pensar"
           ],
           [
             "椅子",
@@ -44757,7 +44757,7 @@
       {
         "t": "以为",
         "r": "yǐ wéi",
-        "m": "to think (i.e. to take it to be true that ...) (Usually there is an implication that the notion is mistaken – except when expressing one's own current opinion.)",
+        "m": "pensar",
         "audio": "assets/audio/clips/zh/hsk5/w2148.mp3"
       },
       {
@@ -44879,7 +44879,7 @@
       {
         "t": "以为",
         "r": "yǐ wéi",
-        "m": "to think (i.e. to take it to be true that ...) (Usually there is an implication that the notion is mistaken – except when expressing one's own current opinion.)",
+        "m": "pensar",
         "audio": "assets/audio/clips/zh/hsk5/w2148.mp3"
       },
       {
@@ -44905,18 +44905,18 @@
       {
         "question": "¿Qué significa «以为»?",
         "options": [
-          "to think (i.e. to take it to be true that ...) (Usually there is an implication that the notion is mistaken – except when expressing one's own current opinion.)",
+          "pensar",
           "asiento",
           "deber",
           "100 un millón"
         ],
         "answer": 0,
-        "explain": "以为 (yǐ wéi) = to think (i.e. to take it to be true that ...) (Usually there is an implication that the notion is mistaken – except when expressing one's own current opinion.)."
+        "explain": "以为 (yǐ wéi) = pensar."
       },
       {
         "question": "¿Qué significa «椅子»?",
         "options": [
-          "to think (i.e. to take it to be true that ...) (Usually there is an implication that the notion is mistaken – except when expressing one's own current opinion.)",
+          "pensar",
           "asiento",
           "deber",
           "100 un millón"
@@ -44927,7 +44927,7 @@
       {
         "question": "¿Qué significa «义务»?",
         "options": [
-          "to think (i.e. to take it to be true that ...) (Usually there is an implication that the notion is mistaken – except when expressing one's own current opinion.)",
+          "pensar",
           "asiento",
           "deber",
           "100 un millón"
@@ -45015,7 +45015,7 @@
       {
         "t": "迎接",
         "r": "yíng jiē",
-        "m": "bienvenido",
+        "m": "dar la bienvenida (a)",
         "audio": "assets/audio/clips/zh/hsk5/w2175.mp3"
       },
       {
@@ -45180,7 +45180,7 @@
           [
             "用途",
             "yòng tú",
-            "función"
+            "usar"
           ]
         ]
       }
@@ -45201,7 +45201,7 @@
       {
         "t": "用途",
         "r": "yòng tú",
-        "m": "función",
+        "m": "usar",
         "audio": "assets/audio/clips/zh/hsk5/w2190.mp3"
       },
       {
@@ -45303,7 +45303,7 @@
       {
         "t": "有",
         "r": "yǒu",
-        "m": "haber",
+        "m": "tener",
         "audio": "assets/audio/clips/zh/hsk5/w2207.mp3"
       }
     ],
@@ -45323,7 +45323,7 @@
       {
         "t": "用途",
         "r": "yòng tú",
-        "m": "función",
+        "m": "usar",
         "audio": "assets/audio/clips/zh/hsk5/w2190.mp3"
       },
       {
@@ -45339,7 +45339,7 @@
         "options": [
           "valor",
           "función",
-          "función",
+          "usar",
           "mérito"
         ],
         "answer": 0,
@@ -45350,8 +45350,8 @@
         "options": [
           "valor",
           "función",
-          "mérito",
-          "privilegio"
+          "usar",
+          "mérito"
         ],
         "answer": 1,
         "explain": "用 (yòng) = función."
@@ -45360,12 +45360,12 @@
         "question": "¿Qué significa «用途»?",
         "options": [
           "valor",
-          "mérito",
           "función",
-          "privilegio"
+          "usar",
+          "mérito"
         ],
         "answer": 2,
-        "explain": "用途 (yòng tú) = función."
+        "explain": "用途 (yòng tú) = usar."
       }
     ],
     "langId": "zh",
@@ -45873,7 +45873,7 @@
       {
         "t": "运气",
         "r": "yùn qi",
-        "m": "suerte ( bueno oro malo )",
+        "m": "suerte",
         "audio": "assets/audio/clips/zh/hsk5/w2254.mp3"
       },
       {
@@ -46071,7 +46071,7 @@
       {
         "t": "则",
         "r": "zé",
-        "m": "( literario ) ( conjunción used -ar expresar contraste con a previo cláusula ) aunque",
+        "m": "aunque",
         "audio": "assets/audio/clips/zh/hsk5/w2271.mp3"
       },
       {
@@ -46193,7 +46193,7 @@
       {
         "t": "则",
         "r": "zé",
-        "m": "( literario ) ( conjunción used -ar expresar contraste con a previo cláusula ) aunque",
+        "m": "aunque",
         "audio": "assets/audio/clips/zh/hsk5/w2271.mp3"
       }
     ],
@@ -46204,7 +46204,7 @@
           "que lástima",
           "prematuro mañana",
           "-ar traer alrededor",
-          "( literario ) ( conjunción used -ar expresar contraste con a previo cláusula ) aunque"
+          "aunque"
         ],
         "answer": 0,
         "explain": "糟糕 (zāo gāo) = que lástima."
@@ -46215,7 +46215,7 @@
           "que lástima",
           "prematuro mañana",
           "-ar traer alrededor",
-          "( literario ) ( conjunción used -ar expresar contraste con a previo cláusula ) aunque"
+          "aunque"
         ],
         "answer": 1,
         "explain": "早上 (zǎo shang) = prematuro mañana."
@@ -46226,7 +46226,7 @@
           "que lástima",
           "prematuro mañana",
           "-ar traer alrededor",
-          "( literario ) ( conjunción used -ar expresar contraste con a previo cláusula ) aunque"
+          "aunque"
         ],
         "answer": 2,
         "explain": "造成 (zào chéng) = -ar traer alrededor."
@@ -46365,7 +46365,7 @@
       {
         "t": "这",
         "r": "zhè",
-        "m": "( pronombre ) este",
+        "m": "este",
         "audio": "assets/audio/clips/zh/hsk5/w2304.mp3"
       },
       {
@@ -46377,7 +46377,7 @@
       {
         "t": "着急",
         "r": "zháo jí",
-        "m": "preocupación",
+        "m": "estar preocupado",
         "audio": "assets/audio/clips/zh/hsk5/w2306.mp3"
       },
       {
@@ -46719,7 +46719,7 @@
       {
         "t": "正确",
         "r": "zhèng què",
-        "m": "correcto",
+        "m": "corregir",
         "audio": "assets/audio/clips/zh/hsk5/w2331.mp3"
       },
       {
@@ -46797,7 +46797,7 @@
       {
         "t": "知道",
         "r": "zhī dào",
-        "m": "conocer",
+        "m": "saber",
         "audio": "assets/audio/clips/zh/hsk5/w2344.mp3"
       },
       {
@@ -46841,7 +46841,7 @@
       {
         "t": "正确",
         "r": "zhèng què",
-        "m": "correcto",
+        "m": "corregir",
         "audio": "assets/audio/clips/zh/hsk5/w2331.mp3"
       }
     ],
@@ -46852,7 +46852,7 @@
           "primero mes de el lunar año",
           "regular",
           "justo ( dentro era )",
-          "correcto"
+          "corregir"
         ],
         "answer": 0,
         "explain": "正 (zhēng) = primero mes de el lunar año."
@@ -46863,7 +46863,7 @@
           "primero mes de el lunar año",
           "regular",
           "justo ( dentro era )",
-          "correcto"
+          "corregir"
         ],
         "answer": 1,
         "explain": "正常 (zhèng cháng) = regular."
@@ -46874,7 +46874,7 @@
           "primero mes de el lunar año",
           "regular",
           "justo ( dentro era )",
-          "correcto"
+          "corregir"
         ],
         "answer": 2,
         "explain": "正好 (zhèng hǎo) = justo ( dentro era )."
@@ -47019,7 +47019,7 @@
       {
         "t": "制作",
         "r": "zhì zuò",
-        "m": "marca",
+        "m": "hacer",
         "audio": "assets/audio/clips/zh/hsk5/w2365.mp3"
       },
       {
@@ -47421,7 +47421,7 @@
       {
         "t": "主意",
         "r": "zhǔ yi",
-        "m": "plan",
+        "m": "planear",
         "audio": "assets/audio/clips/zh/hsk5/w2400.mp3"
       },
       {
@@ -48261,7 +48261,7 @@
       {
         "t": "尊敬",
         "r": "zūn jìng",
-        "m": "respeto",
+        "m": "respetar",
         "audio": "assets/audio/clips/zh/hsk5/w2476.mp3"
       },
       {
@@ -48321,7 +48321,7 @@
       {
         "t": "作者",
         "r": "zuò zhě",
-        "m": "autor",
+        "m": "escribir",
         "audio": "assets/audio/clips/zh/hsk5/w2486.mp3"
       },
       {
@@ -48477,7 +48477,7 @@
       {
         "t": "爱",
         "r": "ài",
-        "m": "amor",
+        "m": "amar",
         "audio": "assets/audio/clips/zh/hsk6/w9.mp3"
       },
       {
@@ -48495,7 +48495,7 @@
       {
         "t": "爱好",
         "r": "ài hào",
-        "m": "semejante",
+        "m": "gustar",
         "audio": "assets/audio/clips/zh/hsk6/w12.mp3"
       },
       {
@@ -48711,7 +48711,7 @@
       {
         "t": "案例",
         "r": "àn lì",
-        "m": "caja ( de fraude , hepatitis , internacional cooperación etc )",
+        "m": "empaquetar",
         "audio": "assets/audio/clips/zh/hsk6/w32.mp3"
       },
       {
@@ -48903,7 +48903,7 @@
       {
         "t": "爸爸",
         "r": "bà ba",
-        "m": "( coll .) padre",
+        "m": "papá",
         "audio": "assets/audio/clips/zh/hsk6/w48.mp3"
       },
       {
@@ -49149,7 +49149,7 @@
       {
         "t": "办理",
         "r": "bàn lǐ",
-        "m": "[of container] asa",
+        "m": "asa",
         "audio": "assets/audio/clips/zh/hsk6/w73.mp3"
       },
       {
@@ -50211,7 +50211,7 @@
       {
         "t": "崩溃",
         "r": "bēng kuì",
-        "m": "colapso",
+        "m": "colapsar",
         "audio": "assets/audio/clips/zh/hsk6/w170.mp3"
       },
       {
@@ -50613,7 +50613,7 @@
       {
         "t": "编织",
         "r": "biān zhī",
-        "m": "armadura",
+        "m": "tejer",
         "audio": "assets/audio/clips/zh/hsk6/w205.mp3"
       },
       {
@@ -50655,7 +50655,7 @@
       {
         "t": "变化",
         "r": "biàn huà",
-        "m": "( intransitivo ) -ar cambio",
+        "m": "cambiar",
         "audio": "assets/audio/clips/zh/hsk6/w212.mp3"
       },
       {
@@ -50740,7 +50740,7 @@
           "frontera",
           "ventaja",
           "editar",
-          "armadura"
+          "tejer"
         ],
         "answer": 0,
         "explain": "边界 (biān jiè) = frontera."
@@ -50751,7 +50751,7 @@
           "ventaja",
           "frontera",
           "editar",
-          "armadura"
+          "tejer"
         ],
         "answer": 1,
         "explain": "边境 (biān jìng) = frontera."
@@ -50829,7 +50829,7 @@
       {
         "t": "辩论",
         "r": "biàn lùn",
-        "m": "debate",
+        "m": "debatir",
         "audio": "assets/audio/clips/zh/hsk6/w225.mp3"
       },
       {
@@ -51531,7 +51531,7 @@
       {
         "t": "不顾",
         "r": "bù gù",
-        "m": "malgrado",
+        "m": "a pesar de",
         "audio": "assets/audio/clips/zh/hsk6/w294.mp3"
       },
       {
@@ -52821,13 +52821,13 @@
       {
         "t": "尝",
         "r": "cháng",
-        "m": "al gusto",
+        "m": "gustar",
         "audio": "assets/audio/clips/zh/hsk6/w413.mp3"
       },
       {
         "t": "尝试",
         "r": "cháng shì",
-        "m": "prueba",
+        "m": "tratar",
         "audio": "assets/audio/clips/zh/hsk6/w414.mp3"
       },
       {
@@ -53378,7 +53378,7 @@
           [
             "称呼",
             "chēng hu",
-            "convocatoria"
+            "llamar"
           ],
           [
             "称心如意",
@@ -53397,7 +53397,7 @@
       {
         "t": "称呼",
         "r": "chēng hu",
-        "m": "convocatoria",
+        "m": "llamar",
         "audio": "assets/audio/clips/zh/hsk6/w461.mp3"
       },
       {
@@ -53463,7 +53463,7 @@
       {
         "t": "成熟",
         "r": "chéng shú",
-        "m": "maduro",
+        "m": "madurar",
         "audio": "assets/audio/clips/zh/hsk6/w472.mp3"
       },
       {
@@ -53475,7 +53475,7 @@
       {
         "t": "成为",
         "r": "chéng wéi",
-        "m": "volverse",
+        "m": "llegar a ser",
         "audio": "assets/audio/clips/zh/hsk6/w474.mp3"
       },
       {
@@ -53519,7 +53519,7 @@
       {
         "t": "称呼",
         "r": "chēng hu",
-        "m": "convocatoria",
+        "m": "llamar",
         "audio": "assets/audio/clips/zh/hsk6/w461.mp3"
       },
       {
@@ -53545,18 +53545,18 @@
       {
         "question": "¿Qué significa «称呼»?",
         "options": [
-          "convocatoria",
+          "llamar",
           "( idiotismo ) después un ' s [used before the noun] propio corazón",
           "alabanza",
           "( fabricación , elaboración etc ) costs"
         ],
         "answer": 0,
-        "explain": "称呼 (chēng hu) = convocatoria."
+        "explain": "称呼 (chēng hu) = llamar."
       },
       {
         "question": "¿Qué significa «称心如意»?",
         "options": [
-          "convocatoria",
+          "llamar",
           "( idiotismo ) después un ' s [used before the noun] propio corazón",
           "alabanza",
           "( fabricación , elaboración etc ) costs"
@@ -53567,7 +53567,7 @@
       {
         "question": "¿Qué significa «称赞»?",
         "options": [
-          "convocatoria",
+          "llamar",
           "( idiotismo ) después un ' s [used before the noun] propio corazón",
           "alabanza",
           "( fabricación , elaboración etc ) costs"
@@ -53907,7 +53907,7 @@
       {
         "t": "赤道",
         "r": "chì dào",
-        "m": "ecuador ( de el tierra oro a celestial cuerpo )",
+        "m": "ecuador",
         "audio": "assets/audio/clips/zh/hsk6/w514.mp3"
       },
       {
@@ -54357,7 +54357,7 @@
       {
         "t": "出租车",
         "r": "chū zū chē",
-        "m": "taxi",
+        "m": "carretear",
         "audio": "assets/audio/clips/zh/hsk6/w557.mp3"
       },
       {
@@ -54531,13 +54531,13 @@
       {
         "t": "处理",
         "r": "chǔ lǐ",
-        "m": "[of container] asa",
+        "m": "asa",
         "audio": "assets/audio/clips/zh/hsk6/w570.mp3"
       },
       {
         "t": "处置",
         "r": "chǔ zhì",
-        "m": "[of container] asa",
+        "m": "asa",
         "audio": "assets/audio/clips/zh/hsk6/w571.mp3"
       },
       {
@@ -54969,7 +54969,7 @@
       {
         "t": "词语",
         "r": "cí yǔ",
-        "m": "palabra ( general término incluyendo monosyllables mediante -ar bajo phrases )",
+        "m": "redactar",
         "audio": "assets/audio/clips/zh/hsk6/w611.mp3"
       },
       {
@@ -55221,7 +55221,7 @@
       {
         "t": "促进",
         "r": "cù jìn",
-        "m": "-ar promover ( un idea oro causa )",
+        "m": "promover",
         "audio": "assets/audio/clips/zh/hsk6/w637.mp3"
       },
       {
@@ -55431,7 +55431,7 @@
       {
         "t": "达到",
         "r": "dá dào",
-        "m": "alcance",
+        "m": "alcanzar",
         "audio": "assets/audio/clips/zh/hsk6/w656.mp3"
       },
       {
@@ -55455,7 +55455,7 @@
       {
         "t": "答应",
         "r": "dā ying",
-        "m": "respuesta",
+        "m": "responder",
         "audio": "assets/audio/clips/zh/hsk6/w660.mp3"
       }
     ],
@@ -56271,7 +56271,7 @@
       {
         "t": "蛋糕",
         "r": "dàn gāo",
-        "m": "[birthday or wedding cake] bizcocho [Dominican Republic",
+        "m": "bizcocho  [Dominican Republic",
         "audio": "assets/audio/clips/zh/hsk6/w732.mp3"
       },
       {
@@ -56535,7 +56535,7 @@
       {
         "t": "到",
         "r": "dào",
-        "m": "alcance",
+        "m": "alcanzar",
         "audio": "assets/audio/clips/zh/hsk6/w760.mp3"
       }
     ],
@@ -56623,7 +56623,7 @@
           [
             "到达",
             "dào dá",
-            "alcance"
+            "alcanzar"
           ],
           [
             "到底",
@@ -56643,7 +56643,7 @@
       {
         "t": "到达",
         "r": "dào dá",
-        "m": "alcance",
+        "m": "alcanzar",
         "audio": "assets/audio/clips/zh/hsk6/w762.mp3"
       },
       {
@@ -56655,7 +56655,7 @@
       {
         "t": "倒",
         "r": "dǎo",
-        "m": "caída",
+        "m": "caer",
         "audio": "assets/audio/clips/zh/hsk6/w764.mp3"
       },
       {
@@ -56765,7 +56765,7 @@
       {
         "t": "到达",
         "r": "dào dá",
-        "m": "alcance",
+        "m": "alcanzar",
         "audio": "assets/audio/clips/zh/hsk6/w762.mp3"
       },
       {
@@ -56777,7 +56777,7 @@
       {
         "t": "倒",
         "r": "dǎo",
-        "m": "caída",
+        "m": "caer",
         "audio": "assets/audio/clips/zh/hsk6/w764.mp3"
       }
     ],
@@ -56786,9 +56786,9 @@
         "question": "¿Qué significa «到处»?",
         "options": [
           "por todas partes",
-          "alcance",
+          "alcanzar",
           "por fin",
-          "caída"
+          "caer"
         ],
         "answer": 0,
         "explain": "到处 (dào chù) = por todas partes."
@@ -56797,20 +56797,20 @@
         "question": "¿Qué significa «到达»?",
         "options": [
           "por todas partes",
-          "alcance",
+          "alcanzar",
           "por fin",
-          "caída"
+          "caer"
         ],
         "answer": 1,
-        "explain": "到达 (dào dá) = alcance."
+        "explain": "到达 (dào dá) = alcanzar."
       },
       {
         "question": "¿Qué significa «到底»?",
         "options": [
           "por todas partes",
-          "alcance",
+          "alcanzar",
           "por fin",
-          "caída"
+          "caer"
         ],
         "answer": 2,
         "explain": "到底 (dào dǐ) = por fin."
@@ -57060,7 +57060,7 @@
           [
             "等待",
             "děng dài",
-            "espera"
+            "esperar"
           ]
         ]
       }
@@ -57081,7 +57081,7 @@
       {
         "t": "等待",
         "r": "děng dài",
-        "m": "espera",
+        "m": "esperar",
         "audio": "assets/audio/clips/zh/hsk6/w803.mp3"
       },
       {
@@ -57203,7 +57203,7 @@
       {
         "t": "等待",
         "r": "děng dài",
-        "m": "espera",
+        "m": "esperar",
         "audio": "assets/audio/clips/zh/hsk6/w803.mp3"
       },
       {
@@ -57219,7 +57219,7 @@
         "options": [
           "-ar paso encendido",
           "clase",
-          "espera",
+          "esperar",
           "espera"
         ],
         "answer": 0,
@@ -57230,7 +57230,7 @@
         "options": [
           "-ar paso encendido",
           "clase",
-          "espera",
+          "esperar",
           "espera"
         ],
         "answer": 1,
@@ -57241,11 +57241,11 @@
         "options": [
           "-ar paso encendido",
           "clase",
-          "espera",
-          "desnivel"
+          "esperar",
+          "espera"
         ],
         "answer": 2,
-        "explain": "等待 (děng dài) = espera."
+        "explain": "等待 (děng dài) = esperar."
       }
     ],
     "langId": "zh",
@@ -58017,7 +58017,7 @@
       {
         "t": "逗",
         "r": "dòu",
-        "m": "-ar embromar ( playfully )",
+        "m": "embromar",
         "audio": "assets/audio/clips/zh/hsk6/w895.mp3"
       },
       {
@@ -58356,7 +58356,7 @@
           [
             "对",
             "duì",
-            "derecho"
+            "perpendicular"
           ]
         ]
       }
@@ -58377,7 +58377,7 @@
       {
         "t": "对",
         "r": "duì",
-        "m": "derecho",
+        "m": "perpendicular",
         "audio": "assets/audio/clips/zh/hsk6/w923.mp3"
       },
       {
@@ -58419,7 +58419,7 @@
       {
         "t": "对付",
         "r": "duì fu",
-        "m": "[of container] asa",
+        "m": "asa",
         "audio": "assets/audio/clips/zh/hsk6/w930.mp3"
       },
       {
@@ -58467,7 +58467,7 @@
       {
         "t": "对应",
         "r": "duì yìng",
-        "m": "-ar corresponder ( -ar )",
+        "m": "corresponder",
         "audio": "assets/audio/clips/zh/hsk6/w938.mp3"
       },
       {
@@ -58499,7 +58499,7 @@
       {
         "t": "对",
         "r": "duì",
-        "m": "derecho",
+        "m": "perpendicular",
         "audio": "assets/audio/clips/zh/hsk6/w923.mp3"
       },
       {
@@ -58515,7 +58515,7 @@
         "options": [
           "amontonarse",
           "ranks",
-          "derecho",
+          "perpendicular",
           "contraste"
         ],
         "answer": 0,
@@ -58526,7 +58526,7 @@
         "options": [
           "amontonarse",
           "ranks",
-          "derecho",
+          "perpendicular",
           "contraste"
         ],
         "answer": 1,
@@ -58537,11 +58537,11 @@
         "options": [
           "amontonarse",
           "ranks",
-          "derecho",
+          "perpendicular",
           "contraste"
         ],
         "answer": 2,
-        "explain": "对 (duì) = derecho."
+        "explain": "对 (duì) = perpendicular."
       }
     ],
     "langId": "zh",
@@ -59085,7 +59085,7 @@
       {
         "t": "发现",
         "r": "fā xiàn",
-        "m": "comunicación",
+        "m": "reparar en",
         "audio": "assets/audio/clips/zh/hsk6/w993.mp3"
       },
       {
@@ -59535,7 +59535,7 @@
       {
         "t": "方案",
         "r": "fāng àn",
-        "m": "plan",
+        "m": "planear",
         "audio": "assets/audio/clips/zh/hsk6/w1038.mp3"
       },
       {
@@ -60084,7 +60084,7 @@
           [
             "分别",
             "fēn bié",
-            "categoría"
+            "hacer una raya"
           ]
         ]
       }
@@ -60105,7 +60105,7 @@
       {
         "t": "分别",
         "r": "fēn bié",
-        "m": "categoría",
+        "m": "hacer una raya",
         "audio": "assets/audio/clips/zh/hsk6/w1085.mp3"
       },
       {
@@ -60227,7 +60227,7 @@
       {
         "t": "分别",
         "r": "fēn bié",
-        "m": "categoría",
+        "m": "hacer una raya",
         "audio": "assets/audio/clips/zh/hsk6/w1085.mp3"
       },
       {
@@ -60243,7 +60243,7 @@
         "options": [
           "dividir",
           "distinguir",
-          "categoría",
+          "hacer una raya",
           "esparcir"
         ],
         "answer": 0,
@@ -60254,7 +60254,7 @@
         "options": [
           "dividir",
           "distinguir",
-          "categoría",
+          "hacer una raya",
           "esparcir"
         ],
         "answer": 1,
@@ -60265,11 +60265,11 @@
         "options": [
           "dividir",
           "distinguir",
-          "categoría",
+          "hacer una raya",
           "esparcir"
         ],
         "answer": 2,
-        "explain": "分别 (fēn bié) = categoría."
+        "explain": "分别 (fēn bié) = hacer una raya."
       }
     ],
     "langId": "zh",
@@ -60511,12 +60511,12 @@
           [
             "风险",
             "fēng xiǎn",
-            "riesgo"
+            "arriesgar"
           ],
           [
             "封闭",
             "fēng bì",
-            "cercano"
+            "cerrar"
           ]
         ]
       }
@@ -60531,13 +60531,13 @@
       {
         "t": "风险",
         "r": "fēng xiǎn",
-        "m": "riesgo",
+        "m": "arriesgar",
         "audio": "assets/audio/clips/zh/hsk6/w1124.mp3"
       },
       {
         "t": "封闭",
         "r": "fēng bì",
-        "m": "cercano",
+        "m": "cerrar",
         "audio": "assets/audio/clips/zh/hsk6/w1125.mp3"
       },
       {
@@ -60653,13 +60653,13 @@
       {
         "t": "风险",
         "r": "fēng xiǎn",
-        "m": "riesgo",
+        "m": "arriesgar",
         "audio": "assets/audio/clips/zh/hsk6/w1124.mp3"
       },
       {
         "t": "封闭",
         "r": "fēng bì",
-        "m": "cercano",
+        "m": "cerrar",
         "audio": "assets/audio/clips/zh/hsk6/w1125.mp3"
       },
       {
@@ -60674,8 +60674,8 @@
         "question": "¿Qué significa «风味»?",
         "options": [
           "sabor distintivo",
-          "riesgo",
-          "cercano",
+          "arriesgar",
+          "cerrar",
           "sistema de enfeoffment"
         ],
         "answer": 0,
@@ -60685,23 +60685,23 @@
         "question": "¿Qué significa «风险»?",
         "options": [
           "sabor distintivo",
-          "riesgo",
-          "cercano",
+          "arriesgar",
+          "cerrar",
           "sistema de enfeoffment"
         ],
         "answer": 1,
-        "explain": "风险 (fēng xiǎn) = riesgo."
+        "explain": "风险 (fēng xiǎn) = arriesgar."
       },
       {
         "question": "¿Qué significa «封闭»?",
         "options": [
           "sabor distintivo",
-          "riesgo",
-          "cercano",
+          "arriesgar",
+          "cerrar",
           "sistema de enfeoffment"
         ],
         "answer": 2,
-        "explain": "封闭 (fēng bì) = cercano."
+        "explain": "封闭 (fēng bì) = cerrar."
       }
     ],
     "langId": "zh",
@@ -61713,7 +61713,7 @@
       {
         "t": "告别",
         "r": "gào bié",
-        "m": "permiso",
+        "m": "dejar",
         "audio": "assets/audio/clips/zh/hsk6/w1241.mp3"
       },
       {
@@ -62073,7 +62073,7 @@
       {
         "t": "给予",
         "r": "jǐ yǔ",
-        "m": "( literario ) -ar dar",
+        "m": "dar",
         "audio": "assets/audio/clips/zh/hsk6/w1269.mp3"
       },
       {
@@ -62355,7 +62355,7 @@
       {
         "t": "公开",
         "r": "gōng kāi",
-        "m": "abierto",
+        "m": "abrir",
         "audio": "assets/audio/clips/zh/hsk6/w1300.mp3"
       },
       {
@@ -62529,7 +62529,7 @@
       {
         "t": "公正",
         "r": "gōng zhèng",
-        "m": "justo",
+        "m": "acabar de",
         "audio": "assets/audio/clips/zh/hsk6/w1313.mp3"
       },
       {
@@ -62565,7 +62565,7 @@
       {
         "t": "功能",
         "r": "gōng néng",
-        "m": "función",
+        "m": "funcionar",
         "audio": "assets/audio/clips/zh/hsk6/w1319.mp3"
       },
       {
@@ -62991,7 +62991,7 @@
       {
         "t": "鼓动",
         "r": "gǔ dòng",
-        "m": "to urge (an activity that may be beneficial, harmful or neutral)",
+        "m": "impulsar",
         "audio": "assets/audio/clips/zh/hsk6/w1359.mp3"
       },
       {
@@ -63314,7 +63314,7 @@
           [
             "关闭",
             "guān bì",
-            "cercano"
+            "cerrar"
           ],
           [
             "关怀",
@@ -63333,7 +63333,7 @@
       {
         "t": "关闭",
         "r": "guān bì",
-        "m": "cercano",
+        "m": "cerrar",
         "audio": "assets/audio/clips/zh/hsk6/w1384.mp3"
       },
       {
@@ -63455,7 +63455,7 @@
       {
         "t": "关闭",
         "r": "guān bì",
-        "m": "cercano",
+        "m": "cerrar",
         "audio": "assets/audio/clips/zh/hsk6/w1384.mp3"
       },
       {
@@ -63481,18 +63481,18 @@
       {
         "question": "¿Qué significa «关闭»?",
         "options": [
-          "cercano",
+          "cerrar",
           "atención",
           "crucial punto",
           "relación"
         ],
         "answer": 0,
-        "explain": "关闭 (guān bì) = cercano."
+        "explain": "关闭 (guān bì) = cerrar."
       },
       {
         "question": "¿Qué significa «关怀»?",
         "options": [
-          "cercano",
+          "cerrar",
           "atención",
           "crucial punto",
           "relación"
@@ -63503,7 +63503,7 @@
       {
         "question": "¿Qué significa «关键»?",
         "options": [
-          "cercano",
+          "cerrar",
           "atención",
           "crucial punto",
           "relación"
@@ -63540,7 +63540,7 @@
           [
             "光",
             "guāng",
-            "con leche"
+            "iluminar"
           ]
         ]
       }
@@ -63561,7 +63561,7 @@
       {
         "t": "光",
         "r": "guāng",
-        "m": "con leche",
+        "m": "iluminar",
         "audio": "assets/audio/clips/zh/hsk6/w1407.mp3"
       },
       {
@@ -63683,7 +63683,7 @@
       {
         "t": "光",
         "r": "guāng",
-        "m": "con leche",
+        "m": "iluminar",
         "audio": "assets/audio/clips/zh/hsk6/w1407.mp3"
       },
       {
@@ -63699,7 +63699,7 @@
         "options": [
           "regadera",
           "lata",
-          "con leche",
+          "iluminar",
           "lustre"
         ],
         "answer": 0,
@@ -63710,7 +63710,7 @@
         "options": [
           "regadera",
           "lata",
-          "con leche",
+          "iluminar",
           "lustre"
         ],
         "answer": 1,
@@ -63721,11 +63721,11 @@
         "options": [
           "regadera",
           "lata",
-          "con leche",
+          "iluminar",
           "lustre"
         ],
         "answer": 2,
-        "explain": "光 (guāng) = con leche."
+        "explain": "光 (guāng) = iluminar."
       }
     ],
     "langId": "zh",
@@ -64443,7 +64443,7 @@
       {
         "t": "航班",
         "r": "háng bān",
-        "m": "( scheduled ) fuga",
+        "m": "fuga",
         "audio": "assets/audio/clips/zh/hsk6/w1490.mp3"
       },
       {
@@ -65258,7 +65258,7 @@
           [
             "呼啸",
             "hū xiào",
-            "silbato"
+            "chiflar"
           ],
           [
             "呼吁",
@@ -65268,7 +65268,7 @@
           [
             "忽略",
             "hū lu:è",
-            "negligencia"
+            "descuidar"
           ]
         ]
       }
@@ -65277,7 +65277,7 @@
       {
         "t": "呼啸",
         "r": "hū xiào",
-        "m": "silbato",
+        "m": "chiflar",
         "audio": "assets/audio/clips/zh/hsk6/w1565.mp3"
       },
       {
@@ -65289,7 +65289,7 @@
       {
         "t": "忽略",
         "r": "hū lu:è",
-        "m": "negligencia",
+        "m": "descuidar",
         "audio": "assets/audio/clips/zh/hsk6/w1567.mp3"
       },
       {
@@ -65301,7 +65301,7 @@
       {
         "t": "忽视",
         "r": "hū shì",
-        "m": "negligencia",
+        "m": "descuidar",
         "audio": "assets/audio/clips/zh/hsk6/w1569.mp3"
       },
       {
@@ -65399,7 +65399,7 @@
       {
         "t": "呼啸",
         "r": "hū xiào",
-        "m": "silbato",
+        "m": "chiflar",
         "audio": "assets/audio/clips/zh/hsk6/w1565.mp3"
       },
       {
@@ -65411,7 +65411,7 @@
       {
         "t": "忽略",
         "r": "hū lu:è",
-        "m": "negligencia",
+        "m": "descuidar",
         "audio": "assets/audio/clips/zh/hsk6/w1567.mp3"
       },
       {
@@ -65425,20 +65425,20 @@
       {
         "question": "¿Qué significa «呼啸»?",
         "options": [
-          "silbato",
+          "chiflar",
           "-ar convocatoria encendido ( sb -ar do sth )",
-          "negligencia",
+          "descuidar",
           "de repente"
         ],
         "answer": 0,
-        "explain": "呼啸 (hū xiào) = silbato."
+        "explain": "呼啸 (hū xiào) = chiflar."
       },
       {
         "question": "¿Qué significa «呼吁»?",
         "options": [
-          "silbato",
+          "chiflar",
           "-ar convocatoria encendido ( sb -ar do sth )",
-          "negligencia",
+          "descuidar",
           "de repente"
         ],
         "answer": 1,
@@ -65447,13 +65447,13 @@
       {
         "question": "¿Qué significa «忽略»?",
         "options": [
-          "silbato",
+          "chiflar",
           "-ar convocatoria encendido ( sb -ar do sth )",
-          "negligencia",
+          "descuidar",
           "de repente"
         ],
         "answer": 2,
-        "explain": "忽略 (hū lu:è) = negligencia."
+        "explain": "忽略 (hū lu:è) = descuidar."
       }
     ],
     "langId": "zh",
@@ -65565,7 +65565,7 @@
       {
         "t": "画",
         "r": "huà",
-        "m": "proyecto",
+        "m": "dibujar",
         "audio": "assets/audio/clips/zh/hsk6/w1597.mp3"
       },
       {
@@ -65577,7 +65577,7 @@
       {
         "t": "话题",
         "r": "huà tí",
-        "m": "sujeto ( de a conversación oro conversación )",
+        "m": "someter",
         "audio": "assets/audio/clips/zh/hsk6/w1599.mp3"
       },
       {
@@ -65690,7 +65690,7 @@
           [
             "环节",
             "huán jié",
-            "( zoología ) segmento ( de el cuerpo de a gusano , ciempiés etc )"
+            "segmentar"
           ],
           [
             "环境",
@@ -65709,7 +65709,7 @@
       {
         "t": "环节",
         "r": "huán jié",
-        "m": "( zoología ) segmento ( de el cuerpo de a gusano , ciempiés etc )",
+        "m": "segmentar",
         "audio": "assets/audio/clips/zh/hsk6/w1605.mp3"
       },
       {
@@ -65831,7 +65831,7 @@
       {
         "t": "环节",
         "r": "huán jié",
-        "m": "( zoología ) segmento ( de el cuerpo de a gusano , ciempiés etc )",
+        "m": "segmentar",
         "audio": "assets/audio/clips/zh/hsk6/w1605.mp3"
       },
       {
@@ -65857,18 +65857,18 @@
       {
         "question": "¿Qué significa «环节»?",
         "options": [
-          "( zoología ) segmento ( de el cuerpo de a gusano , ciempiés etc )",
+          "segmentar",
           "medio ambiente",
           "-ar ease ( tension )",
           "-ar traer ayuda humanitaria"
         ],
         "answer": 0,
-        "explain": "环节 (huán jié) = ( zoología ) segmento ( de el cuerpo de a gusano , ciempiés etc )."
+        "explain": "环节 (huán jié) = segmentar."
       },
       {
         "question": "¿Qué significa «环境»?",
         "options": [
-          "( zoología ) segmento ( de el cuerpo de a gusano , ciempiés etc )",
+          "segmentar",
           "medio ambiente",
           "-ar ease ( tension )",
           "-ar traer ayuda humanitaria"
@@ -65879,7 +65879,7 @@
       {
         "question": "¿Qué significa «缓和»?",
         "options": [
-          "( zoología ) segmento ( de el cuerpo de a gusano , ciempiés etc )",
+          "segmentar",
           "medio ambiente",
           "-ar ease ( tension )",
           "-ar traer ayuda humanitaria"
@@ -65991,7 +65991,7 @@
       {
         "t": "回答",
         "r": "huí dá",
-        "m": "respuesta",
+        "m": "responder",
         "audio": "assets/audio/clips/zh/hsk6/w1636.mp3"
       },
       {
@@ -66039,7 +66039,7 @@
       {
         "t": "会",
         "r": "huì",
-        "m": "regadera",
+        "m": "poder",
         "audio": "assets/audio/clips/zh/hsk6/w1644.mp3"
       }
     ],
@@ -66591,7 +66591,7 @@
       {
         "t": "迹象",
         "r": "jì xiàng",
-        "m": "símbolo",
+        "m": "hablar a señas",
         "audio": "assets/audio/clips/zh/hsk6/w1688.mp3"
       },
       {
@@ -66615,7 +66615,7 @@
       {
         "t": "基础",
         "r": "jī chǔ",
-        "m": "bajo",
+        "m": "basar",
         "audio": "assets/audio/clips/zh/hsk6/w1692.mp3"
       },
       {
@@ -66657,7 +66657,7 @@
       {
         "t": "激烈",
         "r": "jī liè",
-        "m": "( de competencia oro fighting ) intenso",
+        "m": "intenso",
         "audio": "assets/audio/clips/zh/hsk6/w1699.mp3"
       },
       {
@@ -66713,7 +66713,7 @@
       {
         "t": "迹象",
         "r": "jì xiàng",
-        "m": "símbolo",
+        "m": "hablar a señas",
         "audio": "assets/audio/clips/zh/hsk6/w1688.mp3"
       }
     ],
@@ -66724,7 +66724,7 @@
           "rápido - witted",
           "músculo",
           "( gallina ) huevo",
-          "símbolo"
+          "hablar a señas"
         ],
         "answer": 0,
         "explain": "机智 (jī zhì) = rápido - witted."
@@ -66735,7 +66735,7 @@
           "rápido - witted",
           "músculo",
           "( gallina ) huevo",
-          "símbolo"
+          "hablar a señas"
         ],
         "answer": 1,
         "explain": "肌肉 (jī ròu) = músculo."
@@ -66746,7 +66746,7 @@
           "rápido - witted",
           "músculo",
           "( gallina ) huevo",
-          "símbolo"
+          "hablar a señas"
         ],
         "answer": 2,
         "explain": "鸡蛋 (jī dàn) = ( gallina ) huevo."
@@ -67023,7 +67023,7 @@
       {
         "t": "计划",
         "r": "jì huà",
-        "m": "plan",
+        "m": "planear",
         "audio": "assets/audio/clips/zh/hsk6/w1728.mp3"
       },
       {
@@ -67145,7 +67145,7 @@
       {
         "t": "计划",
         "r": "jì huà",
-        "m": "plan",
+        "m": "planear",
         "audio": "assets/audio/clips/zh/hsk6/w1728.mp3"
       }
     ],
@@ -67156,7 +67156,7 @@
           "un ' s nativo [1",
           "mesita",
           "casi",
-          "plan"
+          "planear"
         ],
         "answer": 0,
         "explain": "籍贯 (jí guàn) = un ' s nativo [1."
@@ -67167,7 +67167,7 @@
           "un ' s nativo [1",
           "mesita",
           "casi",
-          "plan"
+          "planear"
         ],
         "answer": 1,
         "explain": "几 (jī) = mesita."
@@ -67178,7 +67178,7 @@
           "un ' s nativo [1",
           "mesita",
           "casi",
-          "plan"
+          "planear"
         ],
         "answer": 2,
         "explain": "几乎 (jī hū) = casi."
@@ -68331,7 +68331,7 @@
       {
         "t": "奖赏",
         "r": "jiǎng shǎng",
-        "m": "recompensa",
+        "m": "recompensar",
         "audio": "assets/audio/clips/zh/hsk6/w1850.mp3"
       },
       {
@@ -68498,7 +68498,7 @@
           [
             "交易",
             "jiāo yì",
-            "acuerdo"
+            "repartir"
           ],
           [
             "郊区",
@@ -68517,7 +68517,7 @@
       {
         "t": "交易",
         "r": "jiāo yì",
-        "m": "acuerdo",
+        "m": "repartir",
         "audio": "assets/audio/clips/zh/hsk6/w1865.mp3"
       },
       {
@@ -68639,7 +68639,7 @@
       {
         "t": "交易",
         "r": "jiāo yì",
-        "m": "acuerdo",
+        "m": "repartir",
         "audio": "assets/audio/clips/zh/hsk6/w1865.mp3"
       },
       {
@@ -68665,18 +68665,18 @@
       {
         "question": "¿Qué significa «交易»?",
         "options": [
-          "acuerdo",
+          "repartir",
           "suburban distrito",
           "delicado",
           "-ar verter líquido"
         ],
         "answer": 0,
-        "explain": "交易 (jiāo yì) = acuerdo."
+        "explain": "交易 (jiāo yì) = repartir."
       },
       {
         "question": "¿Qué significa «郊区»?",
         "options": [
-          "acuerdo",
+          "repartir",
           "suburban distrito",
           "delicado",
           "-ar verter líquido"
@@ -68687,7 +68687,7 @@
       {
         "question": "¿Qué significa «娇气»?",
         "options": [
-          "acuerdo",
+          "repartir",
           "suburban distrito",
           "delicado",
           "-ar verter líquido"
@@ -69578,7 +69578,7 @@
           [
             "进步",
             "jìn bù",
-            "progreso"
+            "progresar"
           ],
           [
             "进而",
@@ -69597,7 +69597,7 @@
       {
         "t": "进步",
         "r": "jìn bù",
-        "m": "progreso",
+        "m": "progresar",
         "audio": "assets/audio/clips/zh/hsk6/w1966.mp3"
       },
       {
@@ -69719,7 +69719,7 @@
       {
         "t": "进步",
         "r": "jìn bù",
-        "m": "progreso",
+        "m": "progresar",
         "audio": "assets/audio/clips/zh/hsk6/w1966.mp3"
       },
       {
@@ -69745,18 +69745,18 @@
       {
         "question": "¿Qué significa «进步»?",
         "options": [
-          "progreso",
+          "progresar",
           "y también ( qué follows próximo )",
           "ataque",
           "evolución"
         ],
         "answer": 0,
-        "explain": "进步 (jìn bù) = progreso."
+        "explain": "进步 (jìn bù) = progresar."
       },
       {
         "question": "¿Qué significa «进而»?",
         "options": [
-          "progreso",
+          "progresar",
           "y también ( qué follows próximo )",
           "ataque",
           "evolución"
@@ -69767,7 +69767,7 @@
       {
         "question": "¿Qué significa «进攻»?",
         "options": [
-          "progreso",
+          "progresar",
           "y también ( qué follows próximo )",
           "ataque",
           "evolución"
@@ -70527,7 +70527,7 @@
       {
         "t": "拒绝",
         "r": "jù jué",
-        "m": "basura",
+        "m": "rehusar",
         "audio": "assets/audio/clips/zh/hsk6/w2057.mp3"
       },
       {
@@ -70791,7 +70791,7 @@
       {
         "t": "开",
         "r": "kāi",
-        "m": "-ar abierto ( transitivo oro intransitivo )",
+        "m": "abrir",
         "audio": "assets/audio/clips/zh/hsk6/w2085.mp3"
       }
     ],
@@ -70874,7 +70874,7 @@
           [
             "开采",
             "kāi cǎi",
-            "-ar extracto ( mena oro otro recurso de a mina )"
+            "extraer"
           ],
           [
             "开除",
@@ -70893,7 +70893,7 @@
       {
         "t": "开采",
         "r": "kāi cǎi",
-        "m": "-ar extracto ( mena oro otro recurso de a mina )",
+        "m": "extraer",
         "audio": "assets/audio/clips/zh/hsk6/w2086.mp3"
       },
       {
@@ -71015,7 +71015,7 @@
       {
         "t": "开采",
         "r": "kāi cǎi",
-        "m": "-ar extracto ( mena oro otro recurso de a mina )",
+        "m": "extraer",
         "audio": "assets/audio/clips/zh/hsk6/w2086.mp3"
       },
       {
@@ -71041,18 +71041,18 @@
       {
         "question": "¿Qué significa «开采»?",
         "options": [
-          "-ar extracto ( mena oro otro recurso de a mina )",
+          "extraer",
           "-ar expulsar ( a miembro de un organización )",
           "-ar hazaña ( a recurso )",
           "-ar bloom"
         ],
         "answer": 0,
-        "explain": "开采 (kāi cǎi) = -ar extracto ( mena oro otro recurso de a mina )."
+        "explain": "开采 (kāi cǎi) = extraer."
       },
       {
         "question": "¿Qué significa «开除»?",
         "options": [
-          "-ar extracto ( mena oro otro recurso de a mina )",
+          "extraer",
           "-ar expulsar ( a miembro de un organización )",
           "-ar hazaña ( a recurso )",
           "-ar bloom"
@@ -71063,7 +71063,7 @@
       {
         "question": "¿Qué significa «开发»?",
         "options": [
-          "-ar extracto ( mena oro otro recurso de a mina )",
+          "extraer",
           "-ar expulsar ( a miembro de un organización )",
           "-ar hazaña ( a recurso )",
           "-ar bloom"
@@ -71631,7 +71631,7 @@
       {
         "t": "坑",
         "r": "kēng",
-        "m": "foso",
+        "m": "deshuesar",
         "audio": "assets/audio/clips/zh/hsk6/w2161.mp3"
       },
       {
@@ -71954,7 +71954,7 @@
           [
             "哭",
             "kū",
-            "llanto"
+            "llorar"
           ],
           [
             "苦",
@@ -71973,7 +71973,7 @@
       {
         "t": "哭",
         "r": "kū",
-        "m": "llanto",
+        "m": "llorar",
         "audio": "assets/audio/clips/zh/hsk6/w2186.mp3"
       },
       {
@@ -72003,7 +72003,7 @@
       {
         "t": "挎",
         "r": "kuà",
-        "m": "-ar llevar ( esp . slung terminado el brazo , hombro oro bando )",
+        "m": "llevar",
         "audio": "assets/audio/clips/zh/hsk6/w2191.mp3"
       },
       {
@@ -72095,7 +72095,7 @@
       {
         "t": "哭",
         "r": "kū",
-        "m": "llanto",
+        "m": "llorar",
         "audio": "assets/audio/clips/zh/hsk6/w2186.mp3"
       },
       {
@@ -72121,18 +72121,18 @@
       {
         "question": "¿Qué significa «哭»?",
         "options": [
-          "llanto",
+          "llorar",
           "amargo",
           "amargo finishes , dulzura begins ( idiotismo )",
           "variante de 裤子, trousers"
         ],
         "answer": 0,
-        "explain": "哭 (kū) = llanto."
+        "explain": "哭 (kū) = llorar."
       },
       {
         "question": "¿Qué significa «苦»?",
         "options": [
-          "llanto",
+          "llorar",
           "amargo",
           "amargo finishes , dulzura begins ( idiotismo )",
           "variante de 裤子, trousers"
@@ -72143,7 +72143,7 @@
       {
         "question": "¿Qué significa «苦尽甘来»?",
         "options": [
-          "llanto",
+          "llorar",
           "amargo",
           "amargo finishes , dulzura begins ( idiotismo )",
           "variante de 裤子, trousers"
@@ -72687,7 +72687,7 @@
       {
         "t": "乐趣",
         "r": "lè qù",
-        "m": "deleite",
+        "m": "placer",
         "audio": "assets/audio/clips/zh/hsk6/w2257.mp3"
       },
       {
@@ -72897,7 +72897,7 @@
       {
         "t": "离开",
         "r": "lí kāi",
-        "m": "irse",
+        "m": "morir",
         "audio": "assets/audio/clips/zh/hsk6/w2276.mp3"
       },
       {
@@ -72909,7 +72909,7 @@
       {
         "t": "黎明",
         "r": "lí míng",
-        "m": "alba",
+        "m": "amanecer",
         "audio": "assets/audio/clips/zh/hsk6/w2278.mp3"
       },
       {
@@ -72933,7 +72933,7 @@
       {
         "t": "礼物",
         "r": "lǐ wù",
-        "m": "don",
+        "m": "regalar",
         "audio": "assets/audio/clips/zh/hsk6/w2282.mp3"
       },
       {
@@ -74546,7 +74546,7 @@
           [
             "麻烦",
             "má fan",
-            "problema"
+            "molestar"
           ],
           [
             "麻木",
@@ -74565,7 +74565,7 @@
       {
         "t": "麻烦",
         "r": "má fan",
-        "m": "problema",
+        "m": "molestar",
         "audio": "assets/audio/clips/zh/hsk6/w2428.mp3"
       },
       {
@@ -74687,7 +74687,7 @@
       {
         "t": "麻烦",
         "r": "má fan",
-        "m": "problema",
+        "m": "molestar",
         "audio": "assets/audio/clips/zh/hsk6/w2428.mp3"
       },
       {
@@ -74713,18 +74713,18 @@
       {
         "question": "¿Qué significa «麻烦»?",
         "options": [
-          "problema",
+          "molestar",
           "entumecido",
           "anestesia",
           "apellido Ma"
         ],
         "answer": 0,
-        "explain": "麻烦 (má fan) = problema."
+        "explain": "麻烦 (má fan) = molestar."
       },
       {
         "question": "¿Qué significa «麻木»?",
         "options": [
-          "problema",
+          "molestar",
           "entumecido",
           "anestesia",
           "apellido Ma"
@@ -74735,7 +74735,7 @@
       {
         "question": "¿Qué significa «麻醉»?",
         "options": [
-          "problema",
+          "molestar",
           "entumecido",
           "anestesia",
           "apellido Ma"
@@ -75199,7 +75199,7 @@
           [
             "萌芽",
             "méng yá",
-            "-ar brote ( viajado . oro higo .)"
+            "brotar"
           ],
           [
             "蒙",
@@ -75219,7 +75219,7 @@
       {
         "t": "萌芽",
         "r": "méng yá",
-        "m": "-ar brote ( viajado . oro higo .)",
+        "m": "brotar",
         "audio": "assets/audio/clips/zh/hsk6/w2489.mp3"
       },
       {
@@ -75341,7 +75341,7 @@
       {
         "t": "萌芽",
         "r": "méng yá",
-        "m": "-ar brote ( viajado . oro higo .)",
+        "m": "brotar",
         "audio": "assets/audio/clips/zh/hsk6/w2489.mp3"
       },
       {
@@ -75362,7 +75362,7 @@
         "question": "¿Qué significa «门诊»?",
         "options": [
           "outpatient saque",
-          "-ar brote ( viajado . oro higo .)",
+          "brotar",
           "llovizna",
           "fiero"
         ],
@@ -75373,18 +75373,18 @@
         "question": "¿Qué significa «萌芽»?",
         "options": [
           "outpatient saque",
-          "-ar brote ( viajado . oro higo .)",
+          "brotar",
           "llovizna",
           "fiero"
         ],
         "answer": 1,
-        "explain": "萌芽 (méng yá) = -ar brote ( viajado . oro higo .)."
+        "explain": "萌芽 (méng yá) = brotar."
       },
       {
         "question": "¿Qué significa «蒙»?",
         "options": [
           "outpatient saque",
-          "-ar brote ( viajado . oro higo .)",
+          "brotar",
           "llovizna",
           "fiero"
         ],
@@ -75495,13 +75495,13 @@
       {
         "t": "面对",
         "r": "miàn duì",
-        "m": "gesto",
+        "m": "enfrentar",
         "audio": "assets/audio/clips/zh/hsk6/w2519.mp3"
       },
       {
         "t": "面积",
         "r": "miàn jī",
-        "m": "área ( de a [Latin America] piso , pieza de artillería de patria etc )",
+        "m": "área",
         "audio": "assets/audio/clips/zh/hsk6/w2520.mp3"
       },
       {
@@ -75753,7 +75753,7 @@
       {
         "t": "名字",
         "r": "míng zi",
-        "m": "nombre ( de a persona oro cosa )",
+        "m": "nombrar",
         "audio": "assets/audio/clips/zh/hsk6/w2546.mp3"
       },
       {
@@ -75891,7 +75891,7 @@
       {
         "t": "明星",
         "r": "míng xīng",
-        "m": "estrella",
+        "m": "estelarizar",
         "audio": "assets/audio/clips/zh/hsk6/w2553.mp3"
       },
       {
@@ -75909,7 +75909,7 @@
       {
         "t": "命运",
         "r": "mìng yùn",
-        "m": "destino",
+        "m": "azar",
         "audio": "assets/audio/clips/zh/hsk6/w2556.mp3"
       },
       {
@@ -76107,7 +76107,7 @@
       {
         "t": "莫名其妙",
         "r": "mò míng qí miào",
-        "m": "( idiotismo ) desconcertante",
+        "m": "desconcertante",
         "audio": "assets/audio/clips/zh/hsk6/w2573.mp3"
       },
       {
@@ -76533,7 +76533,7 @@
       {
         "t": "呢",
         "r": "ne",
-        "m": "particle indicating that a previously asked question is to be applied to the preceding word (\"What about ...?\", \"And ...?\")",
+        "m": "partícula de pregunta («¿y…?»)",
         "audio": "assets/audio/clips/zh/hsk6/w2612.mp3"
       },
       {
@@ -77229,19 +77229,19 @@
       {
         "t": "派",
         "r": "pài",
-        "m": "clique",
+        "m": "clica",
         "audio": "assets/audio/clips/zh/hsk6/w2680.mp3"
       },
       {
         "t": "派别",
         "r": "pài bié",
-        "m": "group",
+        "m": "agrupar",
         "audio": "assets/audio/clips/zh/hsk6/w2681.mp3"
       },
       {
         "t": "派遣",
         "r": "pài qiǎn",
-        "m": "-ar enviar ( encendido a misión )",
+        "m": "enviar",
         "audio": "assets/audio/clips/zh/hsk6/w2682.mp3"
       },
       {
@@ -77359,7 +77359,7 @@
           [
             "畔",
             "pàn",
-            "( acotado formulario ) bando"
+            "bando"
           ],
           [
             "庞大",
@@ -77379,7 +77379,7 @@
       {
         "t": "畔",
         "r": "pàn",
-        "m": "( acotado formulario ) bando",
+        "m": "bando",
         "audio": "assets/audio/clips/zh/hsk6/w2689.mp3"
       },
       {
@@ -77501,7 +77501,7 @@
       {
         "t": "畔",
         "r": "pàn",
-        "m": "( acotado formulario ) bando",
+        "m": "bando",
         "audio": "assets/audio/clips/zh/hsk6/w2689.mp3"
       },
       {
@@ -77522,7 +77522,7 @@
         "question": "¿Qué significa «盼望»?",
         "options": [
           "-ar esperanza porque",
-          "( acotado formulario ) bando",
+          "bando",
           "enorme",
           "bando"
         ],
@@ -77533,18 +77533,18 @@
         "question": "¿Qué significa «畔»?",
         "options": [
           "-ar esperanza porque",
-          "( acotado formulario ) bando",
+          "bando",
           "enorme",
-          "bando"
+          "saludable"
         ],
         "answer": 1,
-        "explain": "畔 (pàn) = ( acotado formulario ) bando."
+        "explain": "畔 (pàn) = bando."
       },
       {
         "question": "¿Qué significa «庞大»?",
         "options": [
           "-ar esperanza porque",
-          "( acotado formulario ) bando",
+          "bando",
           "enorme",
           "bando"
         ],
@@ -77835,7 +77835,7 @@
       {
         "t": "偏偏",
         "r": "piān piān",
-        "m": "(indicates that sth turns out just the opposite of what one would wish) unfortunately",
+        "m": "desafortunadamente",
         "audio": "assets/audio/clips/zh/hsk6/w2733.mp3"
       },
       {
@@ -78105,7 +78105,7 @@
       {
         "t": "平方",
         "r": "píng fāng",
-        "m": "cuadrado (como en pie cuadrado, milla cuadrada, raíz cuadrada)",
+        "m": "perpendicular",
         "audio": "assets/audio/clips/zh/hsk6/w2762.mp3"
       },
       {
@@ -78309,7 +78309,7 @@
       {
         "t": "迫不及待",
         "r": "pò bù jí dài",
-        "m": "impaciente ( idiotismo )",
+        "m": "impaciente",
         "audio": "assets/audio/clips/zh/hsk6/w2780.mp3"
       },
       {
@@ -78871,7 +78871,7 @@
           [
             "启事",
             "qǐ shì",
-            "anuncio ( escrito , encendido cartelera , letra , periódico oro website )"
+            "anuncio"
           ],
           [
             "起草",
@@ -78891,7 +78891,7 @@
       {
         "t": "启事",
         "r": "qǐ shì",
-        "m": "anuncio ( escrito , encendido cartelera , letra , periódico oro website )",
+        "m": "anuncio",
         "audio": "assets/audio/clips/zh/hsk6/w2829.mp3"
       },
       {
@@ -79013,7 +79013,7 @@
       {
         "t": "启事",
         "r": "qǐ shì",
-        "m": "anuncio ( escrito , encendido cartelera , letra , periódico oro website )",
+        "m": "anuncio",
         "audio": "assets/audio/clips/zh/hsk6/w2829.mp3"
       },
       {
@@ -79034,7 +79034,7 @@
         "question": "¿Qué significa «启示»?",
         "options": [
           "revelar",
-          "anuncio ( escrito , encendido cartelera , letra , periódico oro website )",
+          "anuncio",
           "-ar marca a de grifo",
           "originalmente"
         ],
@@ -79045,18 +79045,18 @@
         "question": "¿Qué significa «启事»?",
         "options": [
           "revelar",
-          "anuncio ( escrito , encendido cartelera , letra , periódico oro website )",
+          "anuncio",
           "-ar marca a de grifo",
           "originalmente"
         ],
         "answer": 1,
-        "explain": "启事 (qǐ shì) = anuncio ( escrito , encendido cartelera , letra , periódico oro website )."
+        "explain": "启事 (qǐ shì) = anuncio."
       },
       {
         "question": "¿Qué significa «起草»?",
         "options": [
           "revelar",
-          "anuncio ( escrito , encendido cartelera , letra , periódico oro website )",
+          "anuncio",
           "-ar marca a de grifo",
           "originalmente"
         ],
@@ -79131,7 +79131,7 @@
       {
         "t": "器官",
         "r": "qì guān",
-        "m": "( fisiología ) publicación oficial",
+        "m": "publicación oficial",
         "audio": "assets/audio/clips/zh/hsk6/w2853.mp3"
       },
       {
@@ -79519,7 +79519,7 @@
           [
             "强制",
             "qiáng zhì",
-            "fuerza"
+            "forzar"
           ],
           [
             "墙",
@@ -79539,7 +79539,7 @@
       {
         "t": "强制",
         "r": "qiáng zhì",
-        "m": "fuerza",
+        "m": "forzar",
         "audio": "assets/audio/clips/zh/hsk6/w2889.mp3"
       },
       {
@@ -79569,7 +79569,7 @@
       {
         "t": "悄悄",
         "r": "qiāo qiāo",
-        "m": "tranquilo",
+        "m": "callar",
         "audio": "assets/audio/clips/zh/hsk6/w2894.mp3"
       },
       {
@@ -79617,7 +79617,7 @@
       {
         "t": "切",
         "r": "qiē",
-        "m": "circuncidado",
+        "m": "faltar",
         "audio": "assets/audio/clips/zh/hsk6/w2902.mp3"
       },
       {
@@ -79661,7 +79661,7 @@
       {
         "t": "强制",
         "r": "qiáng zhì",
-        "m": "fuerza",
+        "m": "forzar",
         "audio": "assets/audio/clips/zh/hsk6/w2889.mp3"
       },
       {
@@ -79682,7 +79682,7 @@
         "question": "¿Qué significa «强迫»?",
         "options": [
           "obligar",
-          "fuerza",
+          "forzar",
           "variante de 墙, pared",
           "( literario ) -ar golpe contra ( esp . -ar golpe un ' s cabeza encendido el tierra dentro pesar oro rabia )"
         ],
@@ -79693,18 +79693,18 @@
         "question": "¿Qué significa «强制»?",
         "options": [
           "obligar",
-          "fuerza",
+          "forzar",
           "variante de 墙, pared",
           "( literario ) -ar golpe contra ( esp . -ar golpe un ' s cabeza encendido el tierra dentro pesar oro rabia )"
         ],
         "answer": 1,
-        "explain": "强制 (qiáng zhì) = fuerza."
+        "explain": "强制 (qiáng zhì) = forzar."
       },
       {
         "question": "¿Qué significa «墙»?",
         "options": [
           "obligar",
-          "fuerza",
+          "forzar",
           "variante de 墙, pared",
           "( literario ) -ar golpe contra ( esp . -ar golpe un ' s cabeza encendido el tierra dentro pesar oro rabia )"
         ],
@@ -79951,7 +79951,7 @@
           [
             "清澈",
             "qīng chè",
-            "claro"
+            "aclarar"
           ],
           [
             "清晨",
@@ -79971,7 +79971,7 @@
       {
         "t": "清澈",
         "r": "qīng chè",
-        "m": "claro",
+        "m": "aclarar",
         "audio": "assets/audio/clips/zh/hsk6/w2929.mp3"
       },
       {
@@ -79995,7 +79995,7 @@
       {
         "t": "清淡",
         "r": "qīng dàn",
-        "m": "con leche ( de alimento , no grasiento oro fuertemente flavored )",
+        "m": "iluminar",
         "audio": "assets/audio/clips/zh/hsk6/w2933.mp3"
       },
       {
@@ -80093,7 +80093,7 @@
       {
         "t": "清澈",
         "r": "qīng chè",
-        "m": "claro",
+        "m": "aclarar",
         "audio": "assets/audio/clips/zh/hsk6/w2929.mp3"
       },
       {
@@ -80114,7 +80114,7 @@
         "question": "¿Qué significa «倾斜»?",
         "options": [
           "-ar incline",
-          "claro",
+          "aclarar",
           "prematuro mañana",
           "-ar claro lejos"
         ],
@@ -80125,18 +80125,18 @@
         "question": "¿Qué significa «清澈»?",
         "options": [
           "-ar incline",
-          "claro",
+          "aclarar",
           "prematuro mañana",
           "-ar claro lejos"
         ],
         "answer": 1,
-        "explain": "清澈 (qīng chè) = claro."
+        "explain": "清澈 (qīng chè) = aclarar."
       },
       {
         "question": "¿Qué significa «清晨»?",
         "options": [
           "-ar incline",
-          "claro",
+          "aclarar",
           "prematuro mañana",
           "-ar claro lejos"
         ],
@@ -80211,7 +80211,7 @@
       {
         "t": "请求",
         "r": "qǐng qiú",
-        "m": "solicitud",
+        "m": "demandar",
         "audio": "assets/audio/clips/zh/hsk6/w2953.mp3"
       },
       {
@@ -80378,7 +80378,7 @@
           [
             "趋势",
             "qū shì",
-            "moda"
+            "tender"
           ],
           [
             "渠道",
@@ -80397,7 +80397,7 @@
       {
         "t": "趋势",
         "r": "qū shì",
-        "m": "moda",
+        "m": "tender",
         "audio": "assets/audio/clips/zh/hsk6/w2968.mp3"
       },
       {
@@ -80463,7 +80463,7 @@
       {
         "t": "圈套",
         "r": "quān tào",
-        "m": "sifón",
+        "m": "atrapar",
         "audio": "assets/audio/clips/zh/hsk6/w2979.mp3"
       },
       {
@@ -80519,7 +80519,7 @@
       {
         "t": "趋势",
         "r": "qū shì",
-        "m": "moda",
+        "m": "tender",
         "audio": "assets/audio/clips/zh/hsk6/w2968.mp3"
       },
       {
@@ -80545,18 +80545,18 @@
       {
         "question": "¿Qué significa «趋势»?",
         "options": [
-          "moda",
+          "tender",
           "riego zanja",
           "tomar",
           "suprimir"
         ],
         "answer": 0,
-        "explain": "趋势 (qū shì) = moda."
+        "explain": "趋势 (qū shì) = tender."
       },
       {
         "question": "¿Qué significa «渠道»?",
         "options": [
-          "moda",
+          "tender",
           "riego zanja",
           "tomar",
           "suprimir"
@@ -80567,7 +80567,7 @@
       {
         "question": "¿Qué significa «取»?",
         "options": [
-          "moda",
+          "tender",
           "riego zanja",
           "tomar",
           "suprimir"
@@ -80643,7 +80643,7 @@
       {
         "t": "缺乏",
         "r": "quē fá",
-        "m": "falta",
+        "m": "faltar",
         "audio": "assets/audio/clips/zh/hsk6/w2993.mp3"
       },
       {
@@ -80667,7 +80667,7 @@
       {
         "t": "缺陷",
         "r": "quē xiàn",
-        "m": "falla",
+        "m": "desertar",
         "audio": "assets/audio/clips/zh/hsk6/w2997.mp3"
       },
       {
@@ -81807,7 +81807,7 @@
       {
         "t": "色彩",
         "r": "sè cǎi",
-        "m": "tono",
+        "m": "teñir",
         "audio": "assets/audio/clips/zh/hsk6/w3108.mp3"
       }
     ],
@@ -81999,7 +81999,7 @@
       {
         "t": "扇子",
         "r": "shàn zi",
-        "m": "fan",
+        "m": "abanicar (with a manual fan)",
         "audio": "assets/audio/clips/zh/hsk6/w3124.mp3"
       },
       {
@@ -82143,7 +82143,7 @@
       {
         "t": "商店",
         "r": "shāng diàn",
-        "m": "depósito",
+        "m": "almacenar",
         "audio": "assets/audio/clips/zh/hsk6/w3132.mp3"
       },
       {
@@ -82265,7 +82265,7 @@
       {
         "t": "商店",
         "r": "shāng diàn",
-        "m": "depósito",
+        "m": "almacenar",
         "audio": "assets/audio/clips/zh/hsk6/w3132.mp3"
       }
     ],
@@ -82276,7 +82276,7 @@
           "-ar estar a real dolor de cabeza",
           "lamentarse",
           "marca registrada",
-          "depósito"
+          "almacenar"
         ],
         "answer": 0,
         "explain": "伤脑筋 (shāng nǎo jīn) = -ar estar a real dolor de cabeza."
@@ -82287,7 +82287,7 @@
           "-ar estar a real dolor de cabeza",
           "lamentarse",
           "marca registrada",
-          "depósito"
+          "almacenar"
         ],
         "answer": 1,
         "explain": "伤心 (shāng xīn) = lamentarse."
@@ -82298,7 +82298,7 @@
           "-ar estar a real dolor de cabeza",
           "lamentarse",
           "marca registrada",
-          "depósito"
+          "almacenar"
         ],
         "answer": 2,
         "explain": "商标 (shāng biāo) = marca registrada."
@@ -82389,7 +82389,7 @@
       {
         "t": "设计",
         "r": "shè jì",
-        "m": "diseño",
+        "m": "diseñar",
         "audio": "assets/audio/clips/zh/hsk6/w3157.mp3"
       },
       {
@@ -82754,7 +82754,7 @@
           [
             "神情",
             "shén qíng",
-            "vistazo"
+            "mirar"
           ],
           [
             "神色",
@@ -82773,7 +82773,7 @@
       {
         "t": "神情",
         "r": "shén qíng",
-        "m": "vistazo",
+        "m": "mirar",
         "audio": "assets/audio/clips/zh/hsk6/w3189.mp3"
       },
       {
@@ -82851,7 +82851,7 @@
       {
         "t": "生产",
         "r": "shēng chǎn",
-        "m": "producto",
+        "m": "producir",
         "audio": "assets/audio/clips/zh/hsk6/w3202.mp3"
       },
       {
@@ -82895,7 +82895,7 @@
       {
         "t": "神情",
         "r": "shén qíng",
-        "m": "vistazo",
+        "m": "mirar",
         "audio": "assets/audio/clips/zh/hsk6/w3189.mp3"
       },
       {
@@ -82921,18 +82921,18 @@
       {
         "question": "¿Qué significa «神情»?",
         "options": [
-          "vistazo",
+          "mirar",
           "expresión",
           "divino",
           "aparición"
         ],
         "answer": 0,
-        "explain": "神情 (shén qíng) = vistazo."
+        "explain": "神情 (shén qíng) = mirar."
       },
       {
         "question": "¿Qué significa «神色»?",
         "options": [
-          "vistazo",
+          "mirar",
           "expresión",
           "divino",
           "aparición"
@@ -82943,7 +82943,7 @@
       {
         "question": "¿Qué significa «神圣»?",
         "options": [
-          "vistazo",
+          "mirar",
           "expresión",
           "divino",
           "aparición"
@@ -83079,7 +83079,7 @@
       {
         "t": "省",
         "r": "shěng",
-        "m": "parada",
+        "m": "ahorrar",
         "audio": "assets/audio/clips/zh/hsk6/w3224.mp3"
       },
       {
@@ -83301,7 +83301,7 @@
       {
         "t": "施加",
         "r": "shī jiā",
-        "m": "-ar ejercer ( ahínco oro presión )",
+        "m": "ejercer",
         "audio": "assets/audio/clips/zh/hsk6/w3246.mp3"
       },
       {
@@ -84135,7 +84135,7 @@
       {
         "t": "是",
         "r": "shì",
-        "m": "-ar estar ( followed por substantives único )",
+        "m": "ser",
         "audio": "assets/audio/clips/zh/hsk6/w3321.mp3"
       },
       {
@@ -84147,13 +84147,13 @@
       {
         "t": "是否",
         "r": "shì fǒu",
-        "m": "si ... o ( oro no )",
+        "m": "si ... o",
         "audio": "assets/audio/clips/zh/hsk6/w3323.mp3"
       },
       {
         "t": "适合",
         "r": "shì hé",
-        "m": "apropiado",
+        "m": "hacer juego",
         "audio": "assets/audio/clips/zh/hsk6/w3324.mp3"
       },
       {
@@ -84276,7 +84276,7 @@
           [
             "收藏",
             "shōu cáng",
-            "-ar juntar ( works de arte , dolls , antiques etc )"
+            "juntar"
           ]
         ]
       }
@@ -84297,7 +84297,7 @@
       {
         "t": "收藏",
         "r": "shōu cáng",
-        "m": "-ar juntar ( works de arte , dolls , antiques etc )",
+        "m": "juntar",
         "audio": "assets/audio/clips/zh/hsk6/w3332.mp3"
       },
       {
@@ -84419,7 +84419,7 @@
       {
         "t": "收藏",
         "r": "shōu cáng",
-        "m": "-ar juntar ( works de arte , dolls , antiques etc )",
+        "m": "juntar",
         "audio": "assets/audio/clips/zh/hsk6/w3332.mp3"
       },
       {
@@ -84435,7 +84435,7 @@
         "options": [
           "-ar subir dentro con leche steps",
           "recibir",
-          "-ar juntar ( works de arte , dolls , antiques etc )",
+          "juntar",
           "variante de 收获"
         ],
         "answer": 0,
@@ -84446,7 +84446,7 @@
         "options": [
           "-ar subir dentro con leche steps",
           "recibir",
-          "-ar juntar ( works de arte , dolls , antiques etc )",
+          "juntar",
           "variante de 收获"
         ],
         "answer": 1,
@@ -84457,11 +84457,11 @@
         "options": [
           "-ar subir dentro con leche steps",
           "recibir",
-          "-ar juntar ( works de arte , dolls , antiques etc )",
+          "juntar",
           "variante de 收获"
         ],
         "answer": 2,
-        "explain": "收藏 (shōu cáng) = -ar juntar ( works de arte , dolls , antiques etc )."
+        "explain": "收藏 (shōu cáng) = juntar."
       }
     ],
     "langId": "zh",
@@ -84585,7 +84585,7 @@
       {
         "t": "书记",
         "r": "shū ji",
-        "m": "secretario ( jefe oficial de a rama de a socialista oro comunista partido )",
+        "m": "secretario",
         "audio": "assets/audio/clips/zh/hsk6/w3365.mp3"
       },
       {
@@ -85881,7 +85881,7 @@
       {
         "t": "锁",
         "r": "suǒ",
-        "m": "llave",
+        "m": "cerrar con llave",
         "audio": "assets/audio/clips/zh/hsk6/w3485.mp3"
       },
       {
@@ -86215,7 +86215,7 @@
           [
             "探测",
             "tàn cè",
-            "sondeo"
+            "sondar"
           ],
           [
             "探索",
@@ -86235,7 +86235,7 @@
       {
         "t": "探测",
         "r": "tàn cè",
-        "m": "sondeo",
+        "m": "sondar",
         "audio": "assets/audio/clips/zh/hsk6/w3512.mp3"
       },
       {
@@ -86357,7 +86357,7 @@
       {
         "t": "探测",
         "r": "tàn cè",
-        "m": "sondeo",
+        "m": "sondar",
         "audio": "assets/audio/clips/zh/hsk6/w3512.mp3"
       },
       {
@@ -86378,7 +86378,7 @@
         "question": "¿Qué significa «叹气»?",
         "options": [
           "suspiro",
-          "sondeo",
+          "sondar",
           "explorar",
           "examinar"
         ],
@@ -86389,18 +86389,18 @@
         "question": "¿Qué significa «探测»?",
         "options": [
           "suspiro",
-          "sondeo",
+          "sondar",
           "explorar",
           "examinar"
         ],
         "answer": 1,
-        "explain": "探测 (tàn cè) = sondeo."
+        "explain": "探测 (tàn cè) = sondar."
       },
       {
         "question": "¿Qué significa «探索»?",
         "options": [
           "suspiro",
-          "sondeo",
+          "sondar",
           "explorar",
           "examinar"
         ],
@@ -86679,7 +86679,7 @@
       {
         "t": "提问",
         "r": "tí wèn",
-        "m": "duda",
+        "m": "preguntar",
         "audio": "assets/audio/clips/zh/hsk6/w3555.mp3"
       },
       {
@@ -86801,7 +86801,7 @@
       {
         "t": "提问",
         "r": "tí wèn",
-        "m": "duda",
+        "m": "preguntar",
         "audio": "assets/audio/clips/zh/hsk6/w3555.mp3"
       }
     ],
@@ -86812,7 +86812,7 @@
           "-ar extracto ( mena , minerals etc )",
           "-ar cambio -ar un earlier compañero",
           "-ar punto lejos",
-          "duda"
+          "preguntar"
         ],
         "answer": 0,
         "explain": "提炼 (tí liàn) = -ar extracto ( mena , minerals etc )."
@@ -86823,7 +86823,7 @@
           "-ar extracto ( mena , minerals etc )",
           "-ar cambio -ar un earlier compañero",
           "-ar punto lejos",
-          "duda"
+          "preguntar"
         ],
         "answer": 1,
         "explain": "提前 (tí qián) = -ar cambio -ar un earlier compañero."
@@ -86834,7 +86834,7 @@
           "-ar extracto ( mena , minerals etc )",
           "-ar cambio -ar un earlier compañero",
           "-ar punto lejos",
-          "duda"
+          "preguntar"
         ],
         "answer": 2,
         "explain": "提示 (tí shì) = -ar punto lejos."
@@ -86985,7 +86985,7 @@
       {
         "t": "条款",
         "r": "tiáo kuǎn",
-        "m": "cláusula ( de contrato oro derecho )",
+        "m": "cláusula",
         "audio": "assets/audio/clips/zh/hsk6/w3590.mp3"
       },
       {
@@ -87135,7 +87135,7 @@
       {
         "t": "停止",
         "r": "tíng zhǐ",
-        "m": "parada",
+        "m": "parar",
         "audio": "assets/audio/clips/zh/hsk6/w3599.mp3"
       },
       {
@@ -87369,7 +87369,7 @@
       {
         "t": "统一",
         "r": "tǒng yī",
-        "m": "unificar [pronominal]",
+        "m": "unificar",
         "audio": "assets/audio/clips/zh/hsk6/w3623.mp3"
       },
       {
@@ -87555,7 +87555,7 @@
       {
         "t": "图案",
         "r": "tú àn",
-        "m": "diseño",
+        "m": "diseñar",
         "audio": "assets/audio/clips/zh/hsk6/w3638.mp3"
       },
       {
@@ -87855,7 +87855,7 @@
       {
         "t": "妥善",
         "r": "tuǒ shàn",
-        "m": "apropiado",
+        "m": "designar",
         "audio": "assets/audio/clips/zh/hsk6/w3672.mp3"
       }
     ],
@@ -87987,7 +87987,7 @@
       {
         "t": "瓦解",
         "r": "wǎ jiě",
-        "m": "colapso",
+        "m": "colapsar",
         "audio": "assets/audio/clips/zh/hsk6/w3678.mp3"
       },
       {
@@ -88159,7 +88159,7 @@
           [
             "完成",
             "wán chéng",
-            "completo"
+            "terminar"
           ],
           [
             "完美",
@@ -88179,7 +88179,7 @@
       {
         "t": "完成",
         "r": "wán chéng",
-        "m": "completo",
+        "m": "terminar",
         "audio": "assets/audio/clips/zh/hsk6/w3694.mp3"
       },
       {
@@ -88191,7 +88191,7 @@
       {
         "t": "完全",
         "r": "wán quán",
-        "m": "completo",
+        "m": "terminar",
         "audio": "assets/audio/clips/zh/hsk6/w3696.mp3"
       },
       {
@@ -88301,7 +88301,7 @@
       {
         "t": "完成",
         "r": "wán chéng",
-        "m": "completo",
+        "m": "terminar",
         "audio": "assets/audio/clips/zh/hsk6/w3694.mp3"
       },
       {
@@ -88313,7 +88313,7 @@
       {
         "t": "完全",
         "r": "wán quán",
-        "m": "completo",
+        "m": "terminar",
         "audio": "assets/audio/clips/zh/hsk6/w3696.mp3"
       }
     ],
@@ -88322,9 +88322,9 @@
         "question": "¿Qué significa «完毕»?",
         "options": [
           "meta",
-          "completo",
+          "terminar",
           "perfecto",
-          "completo"
+          "terminar"
         ],
         "answer": 0,
         "explain": "完毕 (wán bì) = meta."
@@ -88333,20 +88333,20 @@
         "question": "¿Qué significa «完成»?",
         "options": [
           "meta",
-          "completo",
+          "terminar",
           "perfecto",
           "( de systems , facilities etc ) completo"
         ],
         "answer": 1,
-        "explain": "完成 (wán chéng) = completo."
+        "explain": "完成 (wán chéng) = terminar."
       },
       {
         "question": "¿Qué significa «完美»?",
         "options": [
           "meta",
-          "completo",
+          "terminar",
           "perfecto",
-          "completo"
+          "terminar"
         ],
         "answer": 2,
         "explain": "完美 (wán měi) = perfecto."
@@ -88839,7 +88839,7 @@
       {
         "t": "为期",
         "r": "wéi qī",
-        "m": "( -ar estar listo",
+        "m": "por",
         "audio": "assets/audio/clips/zh/hsk6/w3756.mp3"
       },
       {
@@ -88961,7 +88961,7 @@
       {
         "t": "为期",
         "r": "wéi qī",
-        "m": "( -ar estar listo",
+        "m": "por",
         "audio": "assets/audio/clips/zh/hsk6/w3756.mp3"
       }
     ],
@@ -88972,7 +88972,7 @@
           "tan ( dentro el capacidad de )",
           "porque",
           "-ar caricia avergonzado oro embarazoso",
-          "( -ar estar listo"
+          "por"
         ],
         "answer": 0,
         "explain": "为 (wéi) = tan ( dentro el capacidad de )."
@@ -88983,7 +88983,7 @@
           "tan ( dentro el capacidad de )",
           "porque",
           "-ar caricia avergonzado oro embarazoso",
-          "( -ar estar listo"
+          "por"
         ],
         "answer": 1,
         "explain": "为了 (wèi le) = porque."
@@ -88994,7 +88994,7 @@
           "tan ( dentro el capacidad de )",
           "porque",
           "-ar caricia avergonzado oro embarazoso",
-          "( -ar estar listo"
+          "por"
         ],
         "answer": 2,
         "explain": "为难 (wéi nán) = -ar caricia avergonzado oro embarazoso."
@@ -89244,7 +89244,7 @@
           [
             "卧室",
             "wò shì",
-            "alcoba [now especially formal or literary usage"
+            "alcoba  [now especially formal or literary usage"
           ]
         ]
       }
@@ -89265,7 +89265,7 @@
       {
         "t": "卧室",
         "r": "wò shì",
-        "m": "alcoba [now especially formal or literary usage",
+        "m": "alcoba  [now especially formal or literary usage",
         "audio": "assets/audio/clips/zh/hsk6/w3797.mp3"
       },
       {
@@ -89319,7 +89319,7 @@
       {
         "t": "无偿",
         "r": "wú cháng",
-        "m": "libre",
+        "m": "librar",
         "audio": "assets/audio/clips/zh/hsk6/w3806.mp3"
       },
       {
@@ -89387,7 +89387,7 @@
       {
         "t": "卧室",
         "r": "wò shì",
-        "m": "alcoba [now especially formal or literary usage",
+        "m": "alcoba  [now especially formal or literary usage",
         "audio": "assets/audio/clips/zh/hsk6/w3797.mp3"
       },
       {
@@ -89403,7 +89403,7 @@
         "options": [
           "yo",
           "nosotros",
-          "alcoba [now especially formal or literary usage",
+          "alcoba  [now especially formal or literary usage",
           "-ar agitar hands"
         ],
         "answer": 0,
@@ -89414,7 +89414,7 @@
         "options": [
           "yo",
           "nosotros",
-          "alcoba [now especially formal or literary usage",
+          "alcoba  [now especially formal or literary usage",
           "-ar agitar hands"
         ],
         "answer": 1,
@@ -89425,11 +89425,11 @@
         "options": [
           "yo",
           "nosotros",
-          "alcoba [now especially formal or literary usage",
+          "alcoba  [now especially formal or literary usage",
           "-ar agitar hands"
         ],
         "answer": 2,
-        "explain": "卧室 (wò shì) = alcoba [now especially formal or literary usage."
+        "explain": "卧室 (wò shì) = alcoba  [now especially formal or literary usage."
       }
     ],
     "langId": "zh",
@@ -89892,7 +89892,7 @@
           [
             "洗",
             "xǐ",
-            "enjuague"
+            "lavar"
           ]
         ]
       }
@@ -89913,7 +89913,7 @@
       {
         "t": "洗",
         "r": "xǐ",
-        "m": "enjuague",
+        "m": "lavar",
         "audio": "assets/audio/clips/zh/hsk6/w3857.mp3"
       },
       {
@@ -89937,7 +89937,7 @@
       {
         "t": "喜欢",
         "r": "xǐ huan",
-        "m": "semejante",
+        "m": "gustar",
         "audio": "assets/audio/clips/zh/hsk6/w3861.mp3"
       },
       {
@@ -90035,7 +90035,7 @@
       {
         "t": "洗",
         "r": "xǐ",
-        "m": "enjuague",
+        "m": "lavar",
         "audio": "assets/audio/clips/zh/hsk6/w3857.mp3"
       },
       {
@@ -90051,7 +90051,7 @@
         "options": [
           "ataque ( esp . sorpresa ataque )",
           "nuera",
-          "enjuague",
+          "lavar",
           "baño"
         ],
         "answer": 0,
@@ -90062,7 +90062,7 @@
         "options": [
           "ataque ( esp . sorpresa ataque )",
           "nuera",
-          "enjuague",
+          "lavar",
           "baño"
         ],
         "answer": 1,
@@ -90073,11 +90073,11 @@
         "options": [
           "ataque ( esp . sorpresa ataque )",
           "nuera",
-          "enjuague",
+          "lavar",
           "baño"
         ],
         "answer": 2,
-        "explain": "洗 (xǐ) = enjuague."
+        "explain": "洗 (xǐ) = lavar."
       }
     ],
     "langId": "zh",
@@ -90231,7 +90231,7 @@
       {
         "t": "掀起",
         "r": "xiān qǐ",
-        "m": "ascensor",
+        "m": "levantar",
         "audio": "assets/audio/clips/zh/hsk6/w3894.mp3"
       }
     ],
@@ -91077,7 +91077,7 @@
       {
         "t": "销毁",
         "r": "xiāo huǐ",
-        "m": "-ar destruir ( por derrito oro burning )",
+        "m": "destruir",
         "audio": "assets/audio/clips/zh/hsk6/w3971.mp3"
       },
       {
@@ -91287,7 +91287,7 @@
       {
         "t": "笑话",
         "r": "xiào hua",
-        "m": "broma",
+        "m": "bromear",
         "audio": "assets/audio/clips/zh/hsk6/w3991.mp3"
       },
       {
@@ -91461,7 +91461,7 @@
       {
         "t": "泄露",
         "r": "xiè lù",
-        "m": "-ar filtración ( información )",
+        "m": "filtrar",
         "audio": "assets/audio/clips/zh/hsk6/w4004.mp3"
       },
       {
@@ -91935,7 +91935,7 @@
       {
         "t": "行业",
         "r": "háng yè",
-        "m": "comercio",
+        "m": "comerciar",
         "audio": "assets/audio/clips/zh/hsk6/w4051.mp3"
       },
       {
@@ -92079,7 +92079,7 @@
       {
         "t": "形状",
         "r": "xíng zhuàng",
-        "m": "formulario",
+        "m": "formar",
         "audio": "assets/audio/clips/zh/hsk6/w4059.mp3"
       },
       {
@@ -92201,7 +92201,7 @@
       {
         "t": "形状",
         "r": "xíng zhuàng",
-        "m": "formulario",
+        "m": "formar",
         "audio": "assets/audio/clips/zh/hsk6/w4059.mp3"
       }
     ],
@@ -92212,7 +92212,7 @@
           "circumstances",
           "forma",
           "imagen",
-          "formulario"
+          "formar"
         ],
         "answer": 0,
         "explain": "形势 (xíng shì) = circumstances."
@@ -92223,7 +92223,7 @@
           "circumstances",
           "forma",
           "imagen",
-          "formulario"
+          "formar"
         ],
         "answer": 1,
         "explain": "形态 (xíng tài) = forma."
@@ -92234,7 +92234,7 @@
           "circumstances",
           "forma",
           "imagen",
-          "formulario"
+          "formar"
         ],
         "answer": 2,
         "explain": "形象 (xíng xiàng) = imagen."
@@ -92258,7 +92258,7 @@
           [
             "性能",
             "xìng néng",
-            "función"
+            "funcionar"
           ],
           [
             "性情",
@@ -92277,7 +92277,7 @@
       {
         "t": "性能",
         "r": "xìng néng",
-        "m": "función",
+        "m": "funcionar",
         "audio": "assets/audio/clips/zh/hsk6/w4076.mp3"
       },
       {
@@ -92399,7 +92399,7 @@
       {
         "t": "性能",
         "r": "xìng néng",
-        "m": "función",
+        "m": "funcionar",
         "audio": "assets/audio/clips/zh/hsk6/w4076.mp3"
       },
       {
@@ -92425,18 +92425,18 @@
       {
         "question": "¿Qué significa «性能»?",
         "options": [
-          "función",
+          "funcionar",
           "naturaleza",
           "naturaleza",
           "fiero"
         ],
         "answer": 0,
-        "explain": "性能 (xìng néng) = función."
+        "explain": "性能 (xìng néng) = funcionar."
       },
       {
         "question": "¿Qué significa «性情»?",
         "options": [
-          "función",
+          "funcionar",
           "naturaleza",
           "fiero",
           "asesino"
@@ -92447,7 +92447,7 @@
       {
         "question": "¿Qué significa «性质»?",
         "options": [
-          "función",
+          "funcionar",
           "fiero",
           "naturaleza",
           "asesino"
@@ -92547,7 +92547,7 @@
       {
         "t": "需要",
         "r": "xū yào",
-        "m": "necesidad",
+        "m": "necesitar",
         "audio": "assets/audio/clips/zh/hsk6/w4105.mp3"
       },
       {
@@ -92955,7 +92955,7 @@
       {
         "t": "巡逻",
         "r": "xún luó",
-        "m": "-ar patrulla ( policía , multitud oro marina )",
+        "m": "patrullar",
         "audio": "assets/audio/clips/zh/hsk6/w4141.mp3"
       },
       {
@@ -93375,7 +93375,7 @@
       {
         "t": "颜色",
         "r": "yán sè",
-        "m": "color",
+        "m": "colorear",
         "audio": "assets/audio/clips/zh/hsk6/w4179.mp3"
       },
       {
@@ -93497,7 +93497,7 @@
       {
         "t": "颜色",
         "r": "yán sè",
-        "m": "color",
+        "m": "colorear",
         "audio": "assets/audio/clips/zh/hsk6/w4179.mp3"
       }
     ],
@@ -93508,7 +93508,7 @@
           "abrasador vivo",
           "graduado estudiante",
           "salino",
-          "color"
+          "colorear"
         ],
         "answer": 0,
         "explain": "炎热 (yán rè) = abrasador vivo."
@@ -93519,7 +93519,7 @@
           "abrasador vivo",
           "graduado estudiante",
           "salino",
-          "color"
+          "colorear"
         ],
         "answer": 1,
         "explain": "研究生 (yán jiū shēng) = graduado estudiante."
@@ -93530,7 +93530,7 @@
           "abrasador vivo",
           "graduado estudiante",
           "salino",
-          "color"
+          "colorear"
         ],
         "answer": 2,
         "explain": "盐 (yán) = salino."
@@ -93633,7 +93633,7 @@
       {
         "t": "样品",
         "r": "yàng pǐn",
-        "m": "muestra",
+        "m": "ejemplar",
         "audio": "assets/audio/clips/zh/hsk6/w4206.mp3"
       },
       {
@@ -93687,7 +93687,7 @@
       {
         "t": "摇晃",
         "r": "yáo huàng",
-        "m": "piedra",
+        "m": "mecer",
         "audio": "assets/audio/clips/zh/hsk6/w4215.mp3"
       }
     ],
@@ -93819,7 +93819,7 @@
       {
         "t": "要",
         "r": "yāo",
-        "m": "( acotado formulario ) -ar demanda",
+        "m": "exigir",
         "audio": "assets/audio/clips/zh/hsk6/w4221.mp3"
       },
       {
@@ -93855,7 +93855,7 @@
       {
         "t": "要是",
         "r": "yào shi",
-        "m": "( coll .) si bien",
+        "m": "si bien",
         "audio": "assets/audio/clips/zh/hsk6/w4227.mp3"
       },
       {
@@ -94293,7 +94293,7 @@
       {
         "t": "衣裳",
         "r": "yī shang",
-        "m": "( coll .) ropa",
+        "m": "ropa",
         "audio": "assets/audio/clips/zh/hsk6/w4268.mp3"
       },
       {
@@ -94644,7 +94644,7 @@
           [
             "以为",
             "yǐ wéi",
-            "to think (i.e. to take it to be true that ...) (Usually there is an implication that the notion is mistaken – except when expressing one's own current opinion.)"
+            "pensar"
           ]
         ]
       }
@@ -94665,7 +94665,7 @@
       {
         "t": "以为",
         "r": "yǐ wéi",
-        "m": "to think (i.e. to take it to be true that ...) (Usually there is an implication that the notion is mistaken – except when expressing one's own current opinion.)",
+        "m": "pensar",
         "audio": "assets/audio/clips/zh/hsk6/w4299.mp3"
       },
       {
@@ -94787,7 +94787,7 @@
       {
         "t": "以为",
         "r": "yǐ wéi",
-        "m": "to think (i.e. to take it to be true that ...) (Usually there is an implication that the notion is mistaken – except when expressing one's own current opinion.)",
+        "m": "pensar",
         "audio": "assets/audio/clips/zh/hsk6/w4299.mp3"
       },
       {
@@ -94803,7 +94803,7 @@
         "options": [
           "antes de",
           "dentro el pretérito",
-          "to think (i.e. to take it to be true that ...) (Usually there is an implication that the notion is mistaken – except when expressing one's own current opinion.)",
+          "pensar",
           "hasta"
         ],
         "answer": 0,
@@ -94814,7 +94814,7 @@
         "options": [
           "antes de",
           "dentro el pretérito",
-          "to think (i.e. to take it to be true that ...) (Usually there is an implication that the notion is mistaken – except when expressing one's own current opinion.)",
+          "pensar",
           "hasta"
         ],
         "answer": 1,
@@ -94825,11 +94825,11 @@
         "options": [
           "antes de",
           "dentro el pretérito",
-          "to think (i.e. to take it to be true that ...) (Usually there is an implication that the notion is mistaken – except when expressing one's own current opinion.)",
+          "pensar",
           "hasta"
         ],
         "answer": 2,
-        "explain": "以为 (yǐ wéi) = to think (i.e. to take it to be true that ...) (Usually there is an implication that the notion is mistaken – except when expressing one's own current opinion.)."
+        "explain": "以为 (yǐ wéi) = pensar."
       }
     ],
     "langId": "zh",
@@ -94860,7 +94860,7 @@
           [
             "意志",
             "yì zhì",
-            "testamento"
+            "legar"
           ]
         ]
       }
@@ -94881,7 +94881,7 @@
       {
         "t": "意志",
         "r": "yì zhì",
-        "m": "testamento",
+        "m": "legar",
         "audio": "assets/audio/clips/zh/hsk6/w4319.mp3"
       },
       {
@@ -95003,7 +95003,7 @@
       {
         "t": "意志",
         "r": "yì zhì",
-        "m": "testamento",
+        "m": "legar",
         "audio": "assets/audio/clips/zh/hsk6/w4319.mp3"
       },
       {
@@ -95019,7 +95019,7 @@
         "options": [
           "intención",
           "sensación",
-          "testamento",
+          "legar",
           "perseverancia"
         ],
         "answer": 0,
@@ -95030,7 +95030,7 @@
         "options": [
           "intención",
           "sensación",
-          "testamento",
+          "legar",
           "perseverancia"
         ],
         "answer": 1,
@@ -95041,11 +95041,11 @@
         "options": [
           "intención",
           "sensación",
-          "testamento",
+          "legar",
           "perseverancia"
         ],
         "answer": 2,
-        "explain": "意志 (yì zhì) = testamento."
+        "explain": "意志 (yì zhì) = legar."
       }
     ],
     "langId": "zh",
@@ -95282,7 +95282,7 @@
           [
             "迎接",
             "yíng jiē",
-            "bienvenido"
+            "dar la bienvenida (a)"
           ],
           [
             "迎面",
@@ -95301,7 +95301,7 @@
       {
         "t": "迎接",
         "r": "yíng jiē",
-        "m": "bienvenido",
+        "m": "dar la bienvenida (a)",
         "audio": "assets/audio/clips/zh/hsk6/w4357.mp3"
       },
       {
@@ -95391,7 +95391,7 @@
       {
         "t": "拥有",
         "r": "yōng yǒu",
-        "m": "haber",
+        "m": "tener",
         "audio": "assets/audio/clips/zh/hsk6/w4372.mp3"
       },
       {
@@ -95423,7 +95423,7 @@
       {
         "t": "迎接",
         "r": "yíng jiē",
-        "m": "bienvenido",
+        "m": "dar la bienvenida (a)",
         "audio": "assets/audio/clips/zh/hsk6/w4357.mp3"
       },
       {
@@ -95449,18 +95449,18 @@
       {
         "question": "¿Qué significa «迎接»?",
         "options": [
-          "bienvenido",
+          "dar la bienvenida (a)",
           "directamente",
           "ganancia",
           "fluorescent tamiz"
         ],
         "answer": 0,
-        "explain": "迎接 (yíng jiē) = bienvenido."
+        "explain": "迎接 (yíng jiē) = dar la bienvenida (a)."
       },
       {
         "question": "¿Qué significa «迎面»?",
         "options": [
-          "bienvenido",
+          "dar la bienvenida (a)",
           "directamente",
           "ganancia",
           "fluorescent tamiz"
@@ -95471,7 +95471,7 @@
       {
         "question": "¿Qué significa «盈利»?",
         "options": [
-          "bienvenido",
+          "dar la bienvenida (a)",
           "directamente",
           "ganancia",
           "fluorescent tamiz"
@@ -95559,7 +95559,7 @@
       {
         "t": "用途",
         "r": "yòng tú",
-        "m": "función",
+        "m": "usar",
         "audio": "assets/audio/clips/zh/hsk6/w4384.mp3"
       },
       {
@@ -95805,7 +95805,7 @@
       {
         "t": "有",
         "r": "yǒu",
-        "m": "haber",
+        "m": "tener",
         "audio": "assets/audio/clips/zh/hsk6/w4409.mp3"
       },
       {
@@ -96249,7 +96249,7 @@
       {
         "t": "欲望",
         "r": "yù wàng",
-        "m": "deseo",
+        "m": "desear",
         "audio": "assets/audio/clips/zh/hsk6/w4451.mp3"
       },
       {
@@ -96675,7 +96675,7 @@
       {
         "t": "运气",
         "r": "yùn qi",
-        "m": "suerte ( bueno oro malo )",
+        "m": "suerte",
         "audio": "assets/audio/clips/zh/hsk6/w4490.mp3"
       },
       {
@@ -96867,7 +96867,7 @@
       {
         "t": "宰",
         "r": "zǎi",
-        "m": "matanza",
+        "m": "matar",
         "audio": "assets/audio/clips/zh/hsk6/w4506.mp3"
       },
       {
@@ -97137,7 +97137,7 @@
       {
         "t": "则",
         "r": "zé",
-        "m": "( literario ) ( conjunción used -ar expresar contraste con a previo cláusula ) aunque",
+        "m": "aunque",
         "audio": "assets/audio/clips/zh/hsk6/w4535.mp3"
       },
       {
@@ -97515,7 +97515,7 @@
       {
         "t": "占领",
         "r": "zhàn lǐng",
-        "m": "captura",
+        "m": "capturar",
         "audio": "assets/audio/clips/zh/hsk6/w4566.mp3"
       },
       {
@@ -97779,7 +97779,7 @@
       {
         "t": "召开",
         "r": "zhào kāi",
-        "m": "-ar convenir ( a conferencia oro reunión )",
+        "m": "convenir",
         "audio": "assets/audio/clips/zh/hsk6/w4594.mp3"
       },
       {
@@ -97959,7 +97959,7 @@
       {
         "t": "这",
         "r": "zhè",
-        "m": "( pronombre ) este",
+        "m": "este",
         "audio": "assets/audio/clips/zh/hsk6/w4608.mp3"
       },
       {
@@ -97971,7 +97971,7 @@
       {
         "t": "着急",
         "r": "zháo jí",
-        "m": "preocupación",
+        "m": "estar preocupado",
         "audio": "assets/audio/clips/zh/hsk6/w4610.mp3"
       },
       {
@@ -98619,7 +98619,7 @@
       {
         "t": "正确",
         "r": "zhèng què",
-        "m": "correcto",
+        "m": "corregir",
         "audio": "assets/audio/clips/zh/hsk6/w4670.mp3"
       },
       {
@@ -98743,7 +98743,7 @@
           [
             "证实",
             "zhèng shí",
-            "-ar confirmar ( sth -ar estar auténtico )"
+            "confirmar"
           ],
           [
             "证书",
@@ -98763,7 +98763,7 @@
       {
         "t": "证实",
         "r": "zhèng shí",
-        "m": "-ar confirmar ( sth -ar estar auténtico )",
+        "m": "confirmar",
         "audio": "assets/audio/clips/zh/hsk6/w4678.mp3"
       },
       {
@@ -98885,7 +98885,7 @@
       {
         "t": "证实",
         "r": "zhèng shí",
-        "m": "-ar confirmar ( sth -ar estar auténtico )",
+        "m": "confirmar",
         "audio": "assets/audio/clips/zh/hsk6/w4678.mp3"
       },
       {
@@ -98906,7 +98906,7 @@
         "question": "¿Qué significa «证明»?",
         "options": [
           "prueba",
-          "-ar confirmar ( sth -ar estar auténtico )",
+          "confirmar",
           "credentials",
           "serio"
         ],
@@ -98917,18 +98917,18 @@
         "question": "¿Qué significa «证实»?",
         "options": [
           "prueba",
-          "-ar confirmar ( sth -ar estar auténtico )",
+          "confirmar",
           "credentials",
           "serio"
         ],
         "answer": 1,
-        "explain": "证实 (zhèng shí) = -ar confirmar ( sth -ar estar auténtico )."
+        "explain": "证实 (zhèng shí) = confirmar."
       },
       {
         "question": "¿Qué significa «证书»?",
         "options": [
           "prueba",
-          "-ar confirmar ( sth -ar estar auténtico )",
+          "confirmar",
           "credentials",
           "serio"
         ],
@@ -98954,7 +98954,7 @@
           [
             "知道",
             "zhī dào",
-            "conocer"
+            "saber"
           ],
           [
             "知觉",
@@ -98973,7 +98973,7 @@
       {
         "t": "知道",
         "r": "zhī dào",
-        "m": "conocer",
+        "m": "saber",
         "audio": "assets/audio/clips/zh/hsk6/w4697.mp3"
       },
       {
@@ -98997,7 +98997,7 @@
       {
         "t": "脂肪",
         "r": "zhī fáng",
-        "m": "gordo ( dentro el cuerpo , dentro a maquinaria , oro dentro alimento )",
+        "m": "gordo",
         "audio": "assets/audio/clips/zh/hsk6/w4701.mp3"
       },
       {
@@ -99095,7 +99095,7 @@
       {
         "t": "知道",
         "r": "zhī dào",
-        "m": "conocer",
+        "m": "saber",
         "audio": "assets/audio/clips/zh/hsk6/w4697.mp3"
       },
       {
@@ -99121,18 +99121,18 @@
       {
         "question": "¿Qué significa «知道»?",
         "options": [
-          "conocer",
+          "saber",
           "percepción",
           "conocimiento",
           "satisfecho con qué un has ( idiotismo )"
         ],
         "answer": 0,
-        "explain": "知道 (zhī dào) = conocer."
+        "explain": "知道 (zhī dào) = saber."
       },
       {
         "question": "¿Qué significa «知觉»?",
         "options": [
-          "conocer",
+          "saber",
           "percepción",
           "conocimiento",
           "satisfecho con qué un has ( idiotismo )"
@@ -99143,7 +99143,7 @@
       {
         "question": "¿Qué significa «知识»?",
         "options": [
-          "conocer",
+          "saber",
           "percepción",
           "conocimiento",
           "satisfecho con qué un has ( idiotismo )"
@@ -99249,7 +99249,7 @@
       {
         "t": "指望",
         "r": "zhǐ wàng",
-        "m": "contar",
+        "m": "contar (con)",
         "audio": "assets/audio/clips/zh/hsk6/w4727.mp3"
       },
       {
@@ -99429,7 +99429,7 @@
       {
         "t": "制作",
         "r": "zhì zuò",
-        "m": "marca",
+        "m": "hacer",
         "audio": "assets/audio/clips/zh/hsk6/w4741.mp3"
       },
       {
@@ -99711,7 +99711,7 @@
       {
         "t": "终止",
         "r": "zhōng zhǐ",
-        "m": "parada",
+        "m": "parar",
         "audio": "assets/audio/clips/zh/hsk6/w4772.mp3"
       },
       {
@@ -100299,7 +100299,7 @@
       {
         "t": "主意",
         "r": "zhǔ yi",
-        "m": "plan",
+        "m": "planear",
         "audio": "assets/audio/clips/zh/hsk6/w4823.mp3"
       },
       {
@@ -100687,7 +100687,7 @@
           [
             "转移",
             "zhuǎn yí",
-            "cambio"
+            "cambiar"
           ],
           [
             "转折",
@@ -100707,7 +100707,7 @@
       {
         "t": "转移",
         "r": "zhuǎn yí",
-        "m": "cambio",
+        "m": "cambiar",
         "audio": "assets/audio/clips/zh/hsk6/w4859.mp3"
       },
       {
@@ -100829,7 +100829,7 @@
       {
         "t": "转移",
         "r": "zhuǎn yí",
-        "m": "cambio",
+        "m": "cambiar",
         "audio": "assets/audio/clips/zh/hsk6/w4859.mp3"
       },
       {
@@ -100850,7 +100850,7 @@
         "question": "¿Qué significa «转让»?",
         "options": [
           "-ar transferencia ( posesión , rights etc )",
-          "cambio",
+          "cambiar",
           "cambio en la tendencia de los eventos",
           "granjear"
         ],
@@ -100861,18 +100861,18 @@
         "question": "¿Qué significa «转移»?",
         "options": [
           "-ar transferencia ( posesión , rights etc )",
-          "cambio",
+          "cambiar",
           "cambio en la tendencia de los eventos",
           "granjear"
         ],
         "answer": 1,
-        "explain": "转移 (zhuǎn yí) = cambio."
+        "explain": "转移 (zhuǎn yí) = cambiar."
       },
       {
         "question": "¿Qué significa «转折»?",
         "options": [
           "-ar transferencia ( posesión , rights etc )",
-          "cambio",
+          "cambiar",
           "cambio en la tendencia de los eventos",
           "granjear"
         ],
@@ -101551,7 +101551,7 @@
           [
             "揍",
             "zòu",
-            "golpe"
+            "golpear"
           ],
           [
             "租",
@@ -101571,7 +101571,7 @@
       {
         "t": "揍",
         "r": "zòu",
-        "m": "golpe",
+        "m": "golpear",
         "audio": "assets/audio/clips/zh/hsk6/w4939.mp3"
       },
       {
@@ -101583,7 +101583,7 @@
       {
         "t": "租赁",
         "r": "zū lìn",
-        "m": "rasgadura",
+        "m": "alquiler",
         "audio": "assets/audio/clips/zh/hsk6/w4941.mp3"
       },
       {
@@ -101693,7 +101693,7 @@
       {
         "t": "揍",
         "r": "zòu",
-        "m": "golpe",
+        "m": "golpear",
         "audio": "assets/audio/clips/zh/hsk6/w4939.mp3"
       },
       {
@@ -101705,7 +101705,7 @@
       {
         "t": "租赁",
         "r": "zū lìn",
-        "m": "rasgadura",
+        "m": "alquiler",
         "audio": "assets/audio/clips/zh/hsk6/w4941.mp3"
       }
     ],
@@ -101714,9 +101714,9 @@
         "question": "¿Qué significa «走私»?",
         "options": [
           "contrabandear",
-          "golpe",
+          "golpear",
           "alquilar",
-          "rasgadura"
+          "alquiler"
         ],
         "answer": 0,
         "explain": "走私 (zǒu sī) = contrabandear."
@@ -101725,20 +101725,20 @@
         "question": "¿Qué significa «揍»?",
         "options": [
           "contrabandear",
-          "golpe",
+          "golpear",
           "alquilar",
-          "rasgadura"
+          "alquiler"
         ],
         "answer": 1,
-        "explain": "揍 (zòu) = golpe."
+        "explain": "揍 (zòu) = golpear."
       },
       {
         "question": "¿Qué significa «租»?",
         "options": [
           "contrabandear",
-          "golpe",
+          "golpear",
           "alquilar",
-          "rasgadura"
+          "alquiler"
         ],
         "answer": 2,
         "explain": "租 (zū) = alquilar."
@@ -101823,7 +101823,7 @@
       {
         "t": "尊敬",
         "r": "zūn jìng",
-        "m": "respeto",
+        "m": "respetar",
         "audio": "assets/audio/clips/zh/hsk6/w4965.mp3"
       },
       {
@@ -102051,7 +102051,7 @@
       {
         "t": "做",
         "r": "zuò",
-        "m": "marca",
+        "m": "hacer",
         "audio": "assets/audio/clips/zh/hsk6/w4988.mp3"
       },
       {
@@ -105951,7 +105951,7 @@
       {
         "t": "タクシー",
         "r": "takushii",
-        "m": "taxi",
+        "m": "carretear",
         "audio": "assets/audio/clips/ja/jlpt-n5/w359.mp3"
       },
       {
@@ -109941,7 +109941,7 @@
       {
         "t": "いらっしゃる",
         "r": "irassharu",
-        "m": "( respetuoso ) -ar estar",
+        "m": "ser",
         "audio": "assets/audio/clips/ja/jlpt-n4/w46.mp3"
       },
       {
@@ -110187,7 +110187,7 @@
       {
         "t": "おいでになる",
         "r": "oideninaru",
-        "m": "( respetuoso ) -ar estar",
+        "m": "ser",
         "audio": "assets/audio/clips/ja/jlpt-n4/w71.mp3"
       },
       {
@@ -111225,7 +111225,7 @@
       {
         "t": "君",
         "r": "kimi",
-        "m": "( informal ) [familiar] tú ( used por men towards women )",
+        "m": "[familiar",
         "audio": "assets/audio/clips/ja/jlpt-n4/w164.mp3"
       },
       {
@@ -111347,7 +111347,7 @@
       {
         "t": "宿題を忘れるなんて君は不注意だった。",
         "r": "It was careless of you to forget your homework.",
-        "m": "( informal ) [familiar] tú ( used por men towards women )",
+        "m": "[familiar",
         "audio": "assets/audio/clips/ja/jlpt-n4/w164.mp3"
       }
     ],
@@ -111358,7 +111358,7 @@
           "estricto",
           "estado de ánimo",
           "decidirse",
-          "( informal ) [familiar] tú ( used por men towards women )"
+          "[familiar"
         ],
         "answer": 0,
         "explain": "厳しい (kibishii) = estricto."
@@ -111369,7 +111369,7 @@
           "estricto",
           "estado de ánimo",
           "decidirse",
-          "( informal ) [familiar] tú ( used por men towards women )"
+          "[familiar"
         ],
         "answer": 1,
         "explain": "気分 (kibun) = estado de ánimo."
@@ -111380,7 +111380,7 @@
           "estricto",
           "estado de ánimo",
           "decidirse",
-          "( informal ) [familiar] tú ( used por men towards women )"
+          "[familiar"
         ],
         "answer": 2,
         "explain": "決まる (kimaru) = decidirse."
@@ -115617,7 +115617,7 @@
       {
         "t": "申す",
         "r": "mousu",
-        "m": "( humilde ) -ar estar called",
+        "m": "llamarse",
         "audio": "assets/audio/clips/ja/jlpt-n4/w576.mp3"
       },
       {
@@ -124098,7 +124098,7 @@
           [
             "首都",
             "shuto",
-            "ciudad capital"
+            "capital"
           ]
         ]
       }
@@ -124119,7 +124119,7 @@
       {
         "t": "首都",
         "r": "shuto",
-        "m": "ciudad capital",
+        "m": "capital",
         "audio": "assets/audio/clips/ja/jlpt-n3/w723.mp3"
       },
       {
@@ -124241,7 +124241,7 @@
       {
         "t": "東京は日本の首都です。",
         "r": "Tokyo is the capital of Japan.",
-        "m": "ciudad capital",
+        "m": "capital",
         "audio": "assets/audio/clips/ja/jlpt-n3/w723.mp3"
       },
       {
@@ -124257,7 +124257,7 @@
         "options": [
           "graduarse de",
           "publicación",
-          "ciudad capital",
+          "capital",
           "ama de casa"
         ],
         "answer": 0,
@@ -124268,7 +124268,7 @@
         "options": [
           "graduarse de",
           "publicación",
-          "ciudad capital",
+          "capital",
           "ama de casa"
         ],
         "answer": 1,
@@ -124279,11 +124279,11 @@
         "options": [
           "graduarse de",
           "publicación",
-          "ciudad capital",
+          "capital",
           "ama de casa"
         ],
         "answer": 2,
-        "explain": "首都 (shuto) = ciudad capital."
+        "explain": "首都 (shuto) = capital."
       }
     ],
     "langId": "ja",
@@ -147327,7 +147327,7 @@
       {
         "t": "亡くす",
         "r": "nakusu",
-        "m": "perder (un miembro de la familia, por ejemplo, una esposa o un hijo)",
+        "m": "perder",
         "audio": "assets/audio/clips/ja/jlpt-n2/w1220.mp3"
       }
     ],
@@ -155661,7 +155661,7 @@
       {
         "t": "嘘つき",
         "r": "usotsuki",
-        "m": "mentiroso (a veces dicho sin mucha seriedad)",
+        "m": "mentiroso",
         "audio": "assets/audio/clips/ja/jlpt-n1/w207.mp3"
       },
       {
@@ -157191,7 +157191,7 @@
       {
         "t": "思い付き",
         "r": "omoitsuki",
-        "m": "plan",
+        "m": "planear",
         "audio": "assets/audio/clips/ja/jlpt-n1/w350.mp3"
       },
       {
@@ -163431,7 +163431,7 @@
       {
         "t": "構想",
         "r": "kousou",
-        "m": "plan",
+        "m": "planear",
         "audio": "assets/audio/clips/ja/jlpt-n1/w926.mp3"
       },
       {
@@ -164035,7 +164035,7 @@
           [
             "ございます",
             "gozaimasu",
-            "-ar estar ( cortés )"
+            "ser"
           ],
           [
             "孤児",
@@ -164055,7 +164055,7 @@
       {
         "t": "ございます",
         "r": "gozaimasu",
-        "m": "-ar estar ( cortés )",
+        "m": "ser",
         "audio": "assets/audio/clips/ja/jlpt-n1/w982.mp3"
       },
       {
@@ -164177,7 +164177,7 @@
       {
         "t": "ご親切誠にありがとうございます。",
         "r": "Thank you for your kindness.",
-        "m": "-ar estar ( cortés )",
+        "m": "ser",
         "audio": "assets/audio/clips/ja/jlpt-n1/w982.mp3"
       },
       {
@@ -164198,7 +164198,7 @@
         "question": "¿Qué significa «誤差»?",
         "options": [
           "error",
-          "-ar estar ( cortés )",
+          "ser",
           "huérfano",
           "-ar volverse complicado"
         ],
@@ -164209,18 +164209,18 @@
         "question": "¿Qué significa «ございます»?",
         "options": [
           "error",
-          "-ar estar ( cortés )",
+          "ser",
           "huérfano",
           "-ar volverse complicado"
         ],
         "answer": 1,
-        "explain": "ございます (gozaimasu) = -ar estar ( cortés )."
+        "explain": "ございます (gozaimasu) = ser."
       },
       {
         "question": "¿Qué significa «孤児»?",
         "options": [
           "error",
-          "-ar estar ( cortés )",
+          "ser",
           "huérfano",
           "-ar volverse complicado"
         ],
@@ -165015,7 +165015,7 @@
       {
         "t": "策",
         "r": "saku",
-        "m": "plan",
+        "m": "planear",
         "audio": "assets/audio/clips/ja/jlpt-n1/w1078.mp3"
       },
       {
@@ -174279,7 +174279,7 @@
       {
         "t": "手掛ける",
         "r": "tegakeru",
-        "m": "[of container] asa",
+        "m": "asa",
         "audio": "assets/audio/clips/ja/jlpt-n1/w1934.mp3"
       },
       {
@@ -175107,7 +175107,7 @@
       {
         "t": "討議",
         "r": "tougi",
-        "m": "debate",
+        "m": "debatir",
         "audio": "assets/audio/clips/ja/jlpt-n1/w2008.mp3"
       },
       {
@@ -175527,7 +175527,7 @@
       {
         "t": "討論",
         "r": "touron",
-        "m": "debate",
+        "m": "debatir",
         "audio": "assets/audio/clips/ja/jlpt-n1/w2046.mp3"
       },
       {
@@ -176193,7 +176193,7 @@
       {
         "t": "トラブル",
         "r": "toraburu",
-        "m": "problema ( a veces used tan a verbo )",
+        "m": "molestar",
         "audio": "assets/audio/clips/ja/jlpt-n1/w2109.mp3"
       },
       {
@@ -181569,7 +181569,7 @@
       {
         "t": "方策",
         "r": "housaku",
-        "m": "plan",
+        "m": "planear",
         "audio": "assets/audio/clips/ja/jlpt-n1/w2605.mp3"
       },
       {
@@ -184887,7 +184887,7 @@
       {
         "t": "有する",
         "r": "yuusuru",
-        "m": "[used before the noun] propio",
+        "m": "reconocer",
         "audio": "assets/audio/clips/ja/jlpt-n1/w2918.mp3"
       },
       {

@@ -57,7 +57,8 @@ if (fs.existsSync(generatedFile)) {
   const registryPath = path.join(__dirname, "..", "data", "exam-levels.json");
   const registry = JSON.parse(fs.readFileSync(registryPath, "utf8"));
   generated.forEach((lesson) => {
-    const meta = registry.find((r) => r.id === lesson.levelKey);
+    // levelKey puede ser "n5"/"topik1" mientras que id es "jlpt-n5"/"topik-1".
+    const meta = registry.find((r) => r.id === lesson.levelKey || r.levelKey === lesson.levelKey);
     const voice = meta ? meta.voice : "zh-CN";
     const dir = meta ? meta.dir : "zh";
     const words = lesson.vocab.map((w) => w.t).join(", ");
