@@ -1369,6 +1369,7 @@
     if (S.supported()) S.stop();
     state.route = parseHash();
     state.menuOpen = false;
+    state.lessonPage = 0;
     if (state.route[0] === "exam") {
       const routeLevel = state.route[2] || state.route[1];
       const nextLevel = PolyExam.LEVELS.includes(routeLevel) ? routeLevel : "hsk1";

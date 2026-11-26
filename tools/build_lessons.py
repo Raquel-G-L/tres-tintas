@@ -22,7 +22,7 @@ def clean(text):
     return (text or "").split(";")[0].strip()
 
 
-def make_lesson(level_id, level_name, words, number, lang, lang_dir):
+def make_lesson(level_id, level_name, words, number, lang, lang_dir, level_key):
     start = (number - 1) * PER_LESSON + 1
     sample = words[:PER_LESSON]
     vocab = []
@@ -72,7 +72,7 @@ def make_lesson(level_id, level_name, words, number, lang, lang_dir):
         "phrases": phrases,
         "quiz": quiz,
         "langId": lang,
-        "levelKey": level_id,
+        "levelKey": level_key,
         "audio": f"assets/audio/{lang_dir}/{level_id}-u{number}.mp3",
     }
 
@@ -96,7 +96,7 @@ def main():
             chunk = available[(n - 1) * PER_LESSON:n * PER_LESSON]
             if not chunk:
                 break
-            lessons.append(make_lesson(level_id, meta["name"], chunk, n, meta["lang"], meta["dir"]))
+            lessons.append(make_lesson(level_id, meta["name"], chunk, n, meta["lang"], meta["dir"], meta["levelKey"]))
         by_level[level_id] = lessons
         all_generated.extend(lessons)
         print(f"{meta['name']}: {len(payload['words'])} palabras -> +{len(lessons)} lecciones", flush=True)
@@ -113,7 +113,8 @@ def main():
         "    var meta = window.POLY_EXAM_LEVELS && window.POLY_EXAM_LEVELS.find(function(r){return r.id===levelId});\n"
         "    var langId = meta ? meta.lang : data.levelLangs[levelId];\n"
         "    var lang = window.POLY_DATA.findLanguage(langId);\n"
-        "    var level = lang && lang.levels.find(function(l){return l.key===levelId});\n"
+        "    var key = meta && meta.levelKey ? meta.levelKey : levelId;\n"
+        "    var level = lang && lang.levels.find(function(l){return l.key===key});\n"
         "    if (!level) return;\n"
         "    data.lessons[levelId].forEach(function(lesson){\n"
         "      level.lessons.push(lesson);\n"

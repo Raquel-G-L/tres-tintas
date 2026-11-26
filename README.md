@@ -34,10 +34,10 @@ Después visita `http://localhost:8000`.
 
 ## Qué incluye
 
-- **Temario basado en exámenes reales**: **HSK 1–6** (chino), **JLPT N5–N1** (japonés) y **TOPIK 1–6** (coreano). 17 niveles oficiales y **50 lecciones** (HSK 1 y HSK 2 tienen 10 lecciones temáticas cada uno). Cada nivel muestra un descriptor «puedo hacer…» y su objetivo aproximado de vocabulario.
+- **Temario basado en exámenes reales**: **HSK 1–6** (chino), **JLPT N5–N1** (japonés) y **TOPIK 1–6** (coreano). 17 niveles oficiales y **1.293 lecciones**: las lecciones escritas a mano y, además, bloques generados de 20 palabras que cubren **todo el vocabulario oficial** de cada nivel (se muestran paginadas). Cada nivel indica qué deberías ser capaz de hacer.
 - **Preparación de exámenes** (`#/exam/<idioma>/<nivel>`): **17 niveles completos** — HSK 1-6, JLPT N5-N1 y TOPIK 1-6 — con **25.025 palabras** en total. Cada nivel tiene tarjetas de repetición espaciada (Leitner), test, comprensión auditiva, comprensión lectora, **simulacro de 20 preguntas con temporizador de 10 minutos** y descargas TXT/CSV/TSV para Anki.
 - Cada lección contiene: teoría con ejemplos, tabla de vocabulario, frases útiles, botones de escucha y un cuestionario de 3 preguntas con explicaciones.
-- **Pronunciación**: **25.819 MP3 sueltos** (uno por palabra y frase, incluidas las 25.025 palabras de examen) para los botones 🔊, **50 MP3 de lección** con reproductor integrado y descarga, y Web Speech API solo como reserva. Funciona sin necesidad de instalar voces en el sistema.
+- **Pronunciación**: **25.820 MP3 sueltos** (uno por palabra y frase, incluidas las 25.025 palabras de examen) para los botones 🔊, **1.293 MP3 de lección** con reproductor integrado y descarga, y Web Speech API solo como reserva. Los bloques generados reutilizan los MP3 de las listas de examen para cada palabra. Funciona sin necesidad de instalar voces en el sistema.
 - **Descargas**:
   - `PDF`: ficha de lección o guía completa de un nivel (se genera en el navegador).
   - `TXT`: apuntes en texto plano, con vocabulario, frases y respuestas.
@@ -84,6 +84,8 @@ tres-tintas/
     ├── build_hsk2.js           Convierte la lista HSK 2 en JSON + JS
     ├── build_exam_lists.py     Convierte JLPT N5 y TOPIK 1 (script previo)
     ├── build_all_lists.py      Genera las 17 listas + exam-data-all.js
+    ├── build_lessons.py        Genera los bloques hasta cubrir todo el vocabulario
+    ├── export_used_words.js    Palabras ya usadas en las lecciones escritas
     └── generar_audio_fast.py   Generación paralela de todos los MP3
 ```
 
@@ -172,6 +174,8 @@ node tools/build_hsk1.js
 node tools/build_hsk2.js
 python tools/build_exam_lists.py
 python tools/build_all_lists.py
+node tools/export_used_words.js
+python tools/build_lessons.py
 python tools/local_translate.py
 python tools/translate_topik_hanja.py
 python tools/translate_topik_dict.py
