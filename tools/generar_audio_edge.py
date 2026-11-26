@@ -60,7 +60,7 @@ async def main():
             "id": lesson_id,
             "lang": entry["lang"],
             "text": entry["text"],
-            "file": f"assets/audio/{dirs.get(entry['lang'], 'zh')}/{lesson_id}.mp3",
+            "file": f"{dirs.get(entry['lang'], 'zh')}/{lesson_id}.mp3",
         })
     pending = [i for i in items if not (AUDIO_DIR / i["file"]).exists()]
     if LIMIT:
