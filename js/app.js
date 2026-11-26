@@ -122,8 +122,24 @@
   function footerHtml() {
     return `<footer class="site-footer">
       <strong>Tres Tintas</strong> · Aprende chino, japonés y coreano a tu ritmo.<br>
-      Las cuentas y el progreso se guardan localmente en tu navegador. Contenido con fines educativos.
+      © 2026 · Contenido educativo · <a href="#/about">Fuentes y licencias</a> · <button class="footer-link" data-action="scroll-top">Volver arriba ↑</button><br>
+      Creado con cariño por ti 🖋️<br>
+      Las cuentas se guardan solo en este navegador (modo demostración).
     </footer>`;
+  }
+
+  function aboutHtml() {
+    return `<main class="page"><div class="container">
+      <div class="breadcrumb"><a href="#/">Inicio</a><span class="breadcrumb-sep">/</span><span>Fuentes y licencias</span></div>
+      <div class="section-head"><div><span class="eyebrow">Créditos</span><h1 class="h1">Fuentes y licencias</h1><p class="lead">Tres Tintas se ha construido con datos abiertos y herramientas gratuitas.</p></div></div>
+      <div class="resource-grid">
+        <div class="resource-card"><h3>HSK</h3><p>Listas de vocabulario de <a href="https://github.com/drkameleon/complete-hsk-vocabulary" target="_blank" rel="noopener">complete-hsk-vocabulary</a> (MIT).</p></div>
+        <div class="resource-card"><h3>JLPT</h3><p>Listas y ejemplos de <a href="https://github.com/evanclan/OpenJLPT" target="_blank" rel="noopener">OpenJLPT</a> (CC BY-SA 4.0).</p></div>
+        <div class="resource-card"><h3>TOPIK</h3><p>Lista de <a href="https://github.com/julienshim/combined_korean_vocabulary_list" target="_blank" rel="noopener">combined_korean_vocabulary_list</a> (MIT) y diccionario <a href="https://github.com/kenantang/Dictionary-MKG" target="_blank" rel="noopener">Dictionary-MKG</a>.</p></div>
+        <div class="resource-card"><h3>Caligrafía y audio</h3><p>Trazos con <a href="https://hanziwriter.org/" target="_blank" rel="noopener">Hanzi Writer</a> (MIT) y voz con <a href="https://pypi.org/project/edge-tts/" target="_blank" rel="noopener">Edge TTS</a>.</p></div>
+      </div>
+      <section class="section"><div class="tip-box">Creado con cariño por ti 🖋️. Las traducciones se generaron y guardaron localmente; la web no depende de servicios externos para mostrarlas.</div></section>
+    </div></main>`;
   }
 
   /* ---------------- Home ---------------- */
@@ -1026,6 +1042,7 @@
     else if (a === "lang") content = languageHtml(b, state.route[2]);
     else if (a === "lesson") content = lessonHtml(b);
     else if (a === "resources") content = resourcesHtml();
+    else if (a === "about") content = aboutHtml();
     else if (a === "exams") content = examsHtml();
     else if (a === "exam") content = examHtml(state.route[2] || state.route[1]);
     else if (a === "writing") content = writingHtml(b, state.route[2]);
@@ -1080,6 +1097,9 @@
         state.langPickerOpen = false;
         renderModal();
         go(target.dataset.href.replace(/^#/, ""));
+        break;
+      case "scroll-top":
+        window.scrollTo({ top: 0, behavior: "smooth" });
         break;
       case "theme":
         state.theme = state.theme === "dark" ? "light" : "dark";
