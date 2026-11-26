@@ -14,6 +14,7 @@ Web educativa para aprender **chino, japonés y coreano** con lecciones integrad
 
 Ya funcionan las lecciones, los 17 niveles de examen (HSK, JLPT y TOPIK), la pronunciación en MP3, las descargas y la libreta de caligrafía. Pendiente:
 
+- Subida de los MP3 al repositorio (pendiente: por ahora la pronunciación no está disponible en la versión de GitHub; se añadirá en commits posteriores).
 - Backend real para cuentas y progreso (ahora se guarda en `localStorage`).
 - Revisión de las glosas generadas con traducción automática.
 - Pruebas en móvil y publicación de una demo en vivo.
