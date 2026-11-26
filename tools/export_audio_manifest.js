@@ -50,6 +50,28 @@ data.languages.forEach((lang) => {
   });
 });
 
+/* Lecciones generadas por build_lessons.py */
+const generatedFile = path.join(__dirname, "..", "data", "generated-lessons.json");
+if (fs.existsSync(generatedFile)) {
+  const generated = JSON.parse(fs.readFileSync(generatedFile, "utf8"));
+  const registryPath = path.join(__dirname, "..", "data", "exam-levels.json");
+  const registry = JSON.parse(fs.readFileSync(registryPath, "utf8"));
+  generated.forEach((lesson) => {
+    const meta = registry.find((r) => r.id === lesson.levelKey);
+    const voice = meta ? meta.voice : "zh-CN";
+    const dir = meta ? meta.dir : "zh";
+    const words = lesson.vocab.map((w) => w.t).join(", ");
+    const phrases = lesson.phrases.map((p) => p.t).join(". ");
+    manifest[lesson.id] = { lang: voice, title: lesson.title, text: `${words}. ${phrases}.` };
+    lesson.vocab.forEach((w, i) => clips.push({
+      id: `${lesson.id}-v${i}`, lang: voice, text: w.t, file: `clips/${dir}/${lesson.id}/v${i}.mp3`,
+    }));
+    lesson.phrases.forEach((p, i) => clips.push({
+      id: `${lesson.id}-p${i}`, lang: voice, text: p.t, file: `clips/${dir}/${lesson.id}/p${i}.mp3`,
+    }));
+  });
+}
+
 /* Listas oficiales: se leen del registro generado por build_all_lists.py */
 const registryFile = path.join(__dirname, "..", "data", "exam-levels.json");
 const EXAM_LISTS = fs.existsSync(registryFile)

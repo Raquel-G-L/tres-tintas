@@ -131,14 +131,14 @@
     return `<main class="page"><div class="container">
       <section class="hero">
         <div class="hero-inner">
-          <span class="hero-badge">🎓 HSK · JLPT · TOPIK · 17 niveles · 50 lecciones</span>
+          <span class="hero-badge">🎓 HSK · JLPT · TOPIK · ${PolyExam.LEVELS.length} niveles · ${D.allLessons.length} lecciones</span>
           <h1 class="hero-title">Habla <span>chino, japonés y coreano</span> desde cero.</h1>
           <p class="hero-sub">Temario organizado por los exámenes oficiales (HSK, JLPT y TOPIK), con pronunciación real, caligrafía y recursos descargables.</p>
           <div class="hero-actions">
             <a class="btn btn-hero" href="#/lang/zh">🚀 Empezar a aprender</a>
           </div>
           <div class="hero-stats">
-            <div><div class="stat-value">50</div><div class="stat-label">lecciones</div></div>
+            <div><div class="stat-value">${D.allLessons.length}</div><div class="stat-label">lecciones</div></div>
             <div><div class="stat-value">17</div><div class="stat-label">niveles oficiales</div></div>
             <div><div class="stat-value">25.025</div><div class="stat-label">palabras de examen</div></div>
           </div>
@@ -788,6 +788,7 @@
     const entries = PolyWriting.get(langId);
     const char = charParam ? decodeURIComponent(charParam) : null;
     const entry = char ? PolyWriting.find(langId, char) : null;
+    const groups = writingGroups(langId);
 
     const tabs = `<div class="writing-tabs">
       <a class="writing-tab ${!char ? "active" : ""}" href="#/writing/${lang.id}">Todos</a>
@@ -797,15 +798,29 @@
     if (!entry) {
       return `<main class="page"><div class="container" style="--lang-color:${lang.color}">
         <div class="breadcrumb"><a href="#/">Inicio</a><span class="breadcrumb-sep">/</span><a href="#/writing">Caligrafía</a><span class="breadcrumb-sep">/</span><span>${E(lang.name)}</span></div>
-        <div class="lang-header"><span class="lang-header-icon">${lang.emoji}</span><div><h1>Libreta de ${E(lang.name)}</h1><p>Elige un carácter para ver su orden de trazos y sus derivados.</p></div></div>
-        ${tabs}
-        <div class="char-grid">
-          ${entries.map((e) => `<a class="char-card" href="${writingCharHref(lang.id, e.char)}">
-            <span class="char-big">${E(e.char)}</span>
-            <div class="char-card-meaning">${E(e.meaning)}</div>
-            <div class="char-card-meta">${E(e.reading)} · ${e.strokes} trazos</div>
-          </a>`).join("")}
+        <div class="lang-header"><span class="lang-header-icon">${lang.emoji}</span><div><h1>Libreta de ${E(lang.name)}</h1><p>Los caracteres están ordenados por lección, igual que los vas aprendiendo en el temario.</p></div>
+          <button class="btn ${state.writingFilterCompleted ? "btn-primary" : "btn-ghost"} btn-small" data-action="writing-filter">${state.writingFilterCompleted ? "✓ Solo completadas" : "Filtrar: solo completadas"}</button>
         </div>
+        ${tabs}
+        ${groups.map((g) => {
+          const items = g.entries.filter(({ src }) => !state.writingFilterCompleted || (src && P.isCompleted(uid(), src.lessonId)));
+          if (!items.length) return "";
+          return `<section class="writing-group">
+            <div class="writing-group-head"><h2 class="h3">${E(g.title)}</h2>
+              ${g.lessonId && !state.writingFilterCompleted ? `<a class="small muted" href="#/lesson/${g.lessonId}">Ver lección →</a>` : ""}
+            </div>
+            <div class="char-grid">${items.map(({ entry: e, src }) => {
+              const done = src && P.isCompleted(uid(), src.lessonId);
+              return `<a class="char-card ${done ? "completed" : ""}" href="${writingCharHref(lang.id, e.char)}">
+                <span class="char-big">${E(e.char)}</span>
+                <div class="char-card-meaning">${E(e.meaning)}</div>
+                <div class="char-card-meta">${E(e.reading)} · ${e.strokes} trazos</div>
+                <div class="char-card-source">${done ? "✓ aprendida" : (src ? "por estrenar" : "base")}</div>
+              </a>`;
+            }).join("")}</div>
+          </section>`;
+        }).join("")}
+        ${state.writingFilterCompleted && !groups.some((g) => g.entries.some(({ src }) => src && P.isCompleted(uid(), src.lessonId))) ? '<div class="empty-state"><h3>Aún no hay caracteres de lecciones completadas</h3><p>Completa una lección o desactiva el filtro.</p></div>' : ""}
       </div></main>`;
     }
 
@@ -847,6 +862,9 @@
               <div class="info-row"><span>Lectura</span><span>${E(entry.reading)}</span></div>
               <div class="info-row"><span>Radical</span><span>${E(entry.radical)}</span></div>
               <div class="info-row"><span>Trazos</span><span>${entry.strokes}</span></div>
+              ${groups.find((g) => g.entries.some(({ entry: e }) => e.char === entry.char) && g.lessonId)
+                ? `<div class="info-row"><span>Lección</span><a href="#/lesson/${groups.find((g) => g.entries.some(({ entry: e }) => e.char === entry.char) && g.lessonId).lessonId}">${E(groups.find((g) => g.entries.some(({ entry: e }) => e.char === entry.char) && g.lessonId).title)} →</a></div>`
+                : ""}
             </div></div>
           </div>
           <div class="panel">
@@ -1147,6 +1165,10 @@
         break;
       case "writing-practice":
         if (writingController) writingController.practice();
+        break;
+      case "writing-filter":
+        state.writingFilterCompleted = !state.writingFilterCompleted;
+        render();
         break;
       case "writing-reset":
         if (writingController) writingController.reset();

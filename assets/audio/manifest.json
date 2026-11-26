@@ -248,5 +248,305 @@
     "lang": "ko-KR",
     "title": "Coreano · TOPIK 6 · 토론과 견해 · Debate y opinión",
     "text": "견해, 토론, 논거, 동의, 반대, 근거, 결론, 문제, 해결, 예시. 제 견해로는 이 방법이 더 효율적입니다.. 반면에 비용이 많이 듭니다.. 그 의견에 동의합니다.. 근거를 들어 설명해 주세요.."
+  },
+  "hsk3-u1": {
+    "lang": "zh-CN",
+    "title": "HSK 3 · Bloque 1",
+    "text": "不, 不客气, 才, 菜, 菜单, 参加, 草, 层, 茶, 差. . . . ."
+  },
+  "hsk3-u2": {
+    "lang": "zh-CN",
+    "title": "HSK 3 · Bloque 2",
+    "text": "唱歌, 超市, 衬衫, 成绩, 城市, 吃, 迟到, 出, 出现, 出租车. . . . ."
+  },
+  "hsk3-u3": {
+    "lang": "zh-CN",
+    "title": "HSK 3 · Bloque 3",
+    "text": "除了, 厨房, 穿, 船, 春, 词语, 次, 聪明, 从, 错. . . . ."
+  },
+  "hsk3-u4": {
+    "lang": "zh-CN",
+    "title": "HSK 3 · Bloque 4",
+    "text": "打电话, 打篮球, 打扫, 打算, 大, 大家, 带, 担心, 但是, 蛋糕. . . . ."
+  },
+  "hsk4-u1": {
+    "lang": "zh-CN",
+    "title": "HSK 4 · Bloque 1",
+    "text": "本, 本来, 笨, 鼻子, 比, 比较, 比赛, 笔记本, 必须, 毕业. . . . ."
+  },
+  "hsk4-u2": {
+    "lang": "zh-CN",
+    "title": "HSK 4 · Bloque 2",
+    "text": "变化, 便宜, 遍, 标准, 表达, 表格, 表示, 表演, 表扬, 别. . . . ."
+  },
+  "hsk4-u3": {
+    "lang": "zh-CN",
+    "title": "HSK 4 · Bloque 3",
+    "text": "别人, 宾馆, 冰箱, 饼干, 并且, 博士, 不, 不但, 不得不, 不管. . . . ."
+  },
+  "hsk4-u4": {
+    "lang": "zh-CN",
+    "title": "HSK 4 · Bloque 4",
+    "text": "不过, 不仅, 不客气, 部分, 擦, 猜, 才, 材料, 菜, 菜单. . . . ."
+  },
+  "hsk5-u1": {
+    "lang": "zh-CN",
+    "title": "HSK 5 · Bloque 1",
+    "text": "包含, 包括, 包子, 薄, 宝贝, 宝贵, 饱, 保持, 保存, 保护. . . . ."
+  },
+  "hsk5-u2": {
+    "lang": "zh-CN",
+    "title": "HSK 5 · Bloque 2",
+    "text": "保留, 保险, 保证, 报道, 报告, 报名, 报纸, 抱, 抱歉, 杯子. . . . ."
+  },
+  "hsk5-u3": {
+    "lang": "zh-CN",
+    "title": "HSK 5 · Bloque 3",
+    "text": "悲观, 北方, 北京, 背, 背景, 倍, 被, 被子, 本, 本科. . . . ."
+  },
+  "hsk5-u4": {
+    "lang": "zh-CN",
+    "title": "HSK 5 · Bloque 4",
+    "text": "本来, 本领, 本质, 笨, 鼻子, 比, 比较, 比例, 比如, 比赛. . . . ."
+  },
+  "hsk6-u1": {
+    "lang": "zh-CN",
+    "title": "HSK 6 · Bloque 1",
+    "text": "疤, 拔苗助长, 把, 把关, 把手, 把握, 把戏, 爸爸, 霸道, 巴不得. . . . ."
+  },
+  "hsk6-u2": {
+    "lang": "zh-CN",
+    "title": "HSK 6 · Bloque 2",
+    "text": "巴结, 吧, 罢工, 掰, 白, 百, 百分点, 摆, 摆脱, 败坏. . . . ."
+  },
+  "hsk6-u3": {
+    "lang": "zh-CN",
+    "title": "HSK 6 · Bloque 3",
+    "text": "拜访, 拜年, 拜托, 班, 班主任, 颁布, 颁发, 斑纹, 搬, 版本. . . . ."
+  },
+  "hsk6-u4": {
+    "lang": "zh-CN",
+    "title": "HSK 6 · Bloque 4",
+    "text": "办法, 办公室, 办理, 半, 半途而废, 伴侣, 伴随, 扮演, 帮忙, 帮助. . . . ."
+  },
+  "jlpt-n5-u1": {
+    "lang": "ja-JP",
+    "title": "JLPT N5 · Bloque 1",
+    "text": "歩く, あれ, いい, いいえ, 言う, 家, いかが, 行く, いくつ, いくら. . . . ."
+  },
+  "jlpt-n5-u2": {
+    "lang": "ja-JP",
+    "title": "JLPT N5 · Bloque 2",
+    "text": "池, 医者, いす, 忙しい, 痛い, いただきます, 一, 一日, いちばん, いつ. . . . ."
+  },
+  "jlpt-n5-u3": {
+    "lang": "ja-JP",
+    "title": "JLPT N5 · Bloque 3",
+    "text": "五日, 一緒, 五つ, いつも, 犬, 今, 意味, 妹, 嫌, 入口. . . . ."
+  },
+  "jlpt-n5-u4": {
+    "lang": "ja-JP",
+    "title": "JLPT N5 · Bloque 4",
+    "text": "いる, 要る, 入れる, 色, いろいろ, 上, 後ろ, 薄い, 歌, 歌う. . . . ."
+  },
+  "jlpt-n4-u1": {
+    "lang": "ja-JP",
+    "title": "JLPT N4 · Bloque 1",
+    "text": "いっぱい, 糸, 以内, 田舎, 祈る, いらっしゃる, 植える, うかがう, 受付, 受ける. . . . ."
+  },
+  "jlpt-n4-u2": {
+    "lang": "ja-JP",
+    "title": "JLPT N4 · Bloque 2",
+    "text": "動く, うそ, うち, 打つ, 美しい, 写す, 移る, 腕, うまい, 裏. . . . ."
+  },
+  "jlpt-n4-u3": {
+    "lang": "ja-JP",
+    "title": "JLPT N4 · Bloque 3",
+    "text": "売り場, うれしい, うん, 運転, 運転手, 運動, エスカレーター, 枝, 選ぶ, 遠慮. . . . ."
+  },
+  "jlpt-n4-u4": {
+    "lang": "ja-JP",
+    "title": "JLPT N4 · Bloque 4",
+    "text": "おいでになる, お祝い, オートバイ, おかげ, おかしい, お金持ち, 億, 屋上, 贈り物, 送る. . . . ."
+  },
+  "jlpt-n3-u1": {
+    "lang": "ja-JP",
+    "title": "JLPT N3 · Bloque 1",
+    "text": "或, あるいは, アルバム, 泡, 合わせる, 哀れ, 案, 暗記, 安定, あんなに. . . . ."
+  },
+  "jlpt-n3-u2": {
+    "lang": "ja-JP",
+    "title": "JLPT N3 · Bloque 2",
+    "text": "あんまり, 胃, 委員, いえ, 意外, 行き, 息, 勢い, 生き物, いけない. . . . ."
+  },
+  "jlpt-n3-u3": {
+    "lang": "ja-JP",
+    "title": "JLPT N3 · Bloque 3",
+    "text": "意志, 意思, 医師, 維持, 意識, 異常, 泉, いずれ, 以前, 板. . . . ."
+  },
+  "jlpt-n3-u4": {
+    "lang": "ja-JP",
+    "title": "JLPT N3 · Bloque 4",
+    "text": "偉大, 抱く, いたずら, 痛み, 至る, いち, 位置, 一時, 一度に, 市場. . . . ."
+  },
+  "jlpt-n2-u1": {
+    "lang": "ja-JP",
+    "title": "JLPT N2 · Bloque 1",
+    "text": "あらすじ, 争う, 改めて, 改める, 著す, 有難い, あれこれ, あわただしい, あわてる, 安易. . . . ."
+  },
+  "jlpt-n2-u2": {
+    "lang": "ja-JP",
+    "title": "JLPT N2 · Bloque 2",
+    "text": "案外, アンテナ, 言い出す, 言い付ける, 意義, 生き生き, いきなり, 育児, 幾分, 生け花. . . . ."
+  },
+  "jlpt-n2-u3": {
+    "lang": "ja-JP",
+    "title": "JLPT N2 · Bloque 3",
+    "text": "以後, 以降, イコール, 勇ましい, 衣食住, 意地悪, いちいち, 一応, 一段と, 一流. . . . ."
+  },
+  "jlpt-n2-u4": {
+    "lang": "ja-JP",
+    "title": "JLPT N2 · Bloque 4",
+    "text": "佚, 一昨年, 一斉, 一旦, 一定, いっていらっしゃい, いってまいります, いってらっしゃい, いつのまにか, 移転. . . . ."
+  },
+  "jlpt-n1-u1": {
+    "lang": "ja-JP",
+    "title": "JLPT N1 · Bloque 1",
+    "text": "扱い, 呆気ない, 悪口, あっさり, 圧迫, アップ, 誂える, 圧力, 宛, 当て. . . . ."
+  },
+  "jlpt-n1-u2": {
+    "lang": "ja-JP",
+    "title": "JLPT N1 · Bloque 2",
+    "text": "当て字, 宛てる, 跡継ぎ, 後回し, 油絵, アプローチ, あべこべ, 甘える, 雨具, 甘口. . . . ."
+  },
+  "jlpt-n1-u3": {
+    "lang": "ja-JP",
+    "title": "JLPT N1 · Bloque 3",
+    "text": "アマチュア, 天津, 網, 操る, 危ぶむ, あやふや, 過ち, 誤る, 歩み, 歩む. . . . ."
+  },
+  "jlpt-n1-u4": {
+    "lang": "ja-JP",
+    "title": "JLPT N1 · Bloque 4",
+    "text": "あら, 予め, 荒らす, 争い, 改まる, 荒っぽい, アラブ, あられ, 有様, ありのまま. . . . ."
+  },
+  "topik-1-u1": {
+    "lang": "ko-KR",
+    "title": "TOPIK 1 · Bloque 1",
+    "text": "그런, 살다, 저, 모르다, 속, 만들다, 두, 앞, 중, 어떤. . . . ."
+  },
+  "topik-1-u2": {
+    "lang": "ko-KR",
+    "title": "TOPIK 1 · Bloque 2",
+    "text": "잘, 먹다, 자신, 문화, 원, 생각, 어떻다, 명, 소리, 다시. . . . ."
+  },
+  "topik-1-u3": {
+    "lang": "ko-KR",
+    "title": "TOPIK 1 · Bloque 3",
+    "text": "다른, 이런, 여자, 개, 정도, 뒤, 듣다, 다, 좀, 들다. . . . ."
+  },
+  "topik-1-u4": {
+    "lang": "ko-KR",
+    "title": "TOPIK 1 · Bloque 4",
+    "text": "보이다, 가지다, 함께, 아이, 지나다, 많이, 시간, 너, 주다, 사실. . . . ."
+  },
+  "topik-2-u1": {
+    "lang": "ko-KR",
+    "title": "TOPIK 2 · Bloque 1",
+    "text": "바람, 잘하다, 마을, 어리다, 방향, 대회, 목소리, 노래, 바다, 힘들다. . . . ."
+  },
+  "topik-2-u2": {
+    "lang": "ko-KR",
+    "title": "TOPIK 2 · Bloque 2",
+    "text": "공부, 움직이다, 노력, 못하다, 전혀, 언니, 분, 능력, 자식, 돌리다. . . . ."
+  },
+  "topik-2-u3": {
+    "lang": "ko-KR",
+    "title": "TOPIK 2 · Bloque 3",
+    "text": "불, 모으다, 학년, 신문, 돌아가다, 사업, 지난해, 기분, 젊다, 동시. . . . ."
+  },
+  "topik-2-u4": {
+    "lang": "ko-KR",
+    "title": "TOPIK 2 · Bloque 4",
+    "text": "옷, 전, 꿈, 할머니, 회의, 방송, 나무, 자다, 연극, 오늘. . . . ."
+  },
+  "topik-3-u1": {
+    "lang": "ko-KR",
+    "title": "TOPIK 3 · Bloque 1",
+    "text": "선거, 활동, 정신, 이르다, 이루다, 현상, 기술, 민족, 간, 조사. . . . ."
+  },
+  "topik-3-u2": {
+    "lang": "ko-KR",
+    "title": "TOPIK 3 · Bloque 2",
+    "text": "년대, 과학, 구조, 결국, 오히려, 이루어지다, 의식, 산업, 표정, 세기. . . . ."
+  },
+  "topik-3-u3": {
+    "lang": "ko-KR",
+    "title": "TOPIK 3 · Bloque 3",
+    "text": "발전, 향하다, 관련, 형태, 각, 작업, 낳다, 바, 정보, 시. . . . ."
+  },
+  "topik-3-u4": {
+    "lang": "ko-KR",
+    "title": "TOPIK 3 · Bloque 4",
+    "text": "역할, 비하다, 기관, 입장, 예, 방식, 영향, 나서다, 내, 조건. . . . ."
+  },
+  "topik-4-u1": {
+    "lang": "ko-KR",
+    "title": "TOPIK 4 · Bloque 1",
+    "text": "야간, 오락, 우아하다, 인간관계, 장기간, 저자, 정지, 조명, 줄거리, 중단. . . . ."
+  },
+  "topik-4-u2": {
+    "lang": "ko-KR",
+    "title": "TOPIK 4 · Bloque 2",
+    "text": "차선, 흥미롭다, 가져다주다, 각오, 골프, 관심사, 귀국, 기울다, 기적, 끌리다. . . . ."
+  },
+  "topik-4-u3": {
+    "lang": "ko-KR",
+    "title": "TOPIK 4 · Bloque 3",
+    "text": "내보내다, 담, 말투, 바닷물, 부친, 붙잡히다, 사무, 사소하다, 상, 상쾌하다. . . . ."
+  },
+  "topik-4-u4": {
+    "lang": "ko-KR",
+    "title": "TOPIK 4 · Bloque 4",
+    "text": "손길, 순위, 쌍, 썰렁하다, 앞날, 역사상, 연주, 울리다, 음주, 이별. . . . ."
+  },
+  "topik-5-u1": {
+    "lang": "ko-KR",
+    "title": "TOPIK 5 · Bloque 1",
+    "text": "그러하다, 만큼, 만하다, 문, 의원, 가능하다, 주장하다, 가지다, 이해하다, 선생. . . . ."
+  },
+  "topik-5-u2": {
+    "lang": "ko-KR",
+    "title": "TOPIK 5 · Bloque 2",
+    "text": "대, 이야기하다, 대로, 시작되다, 설명하다, 시기, 다양하다, 강조하다, 군, 일하다. . . . ."
+  },
+  "topik-5-u3": {
+    "lang": "ko-KR",
+    "title": "TOPIK 5 · Bloque 3",
+    "text": "요구하다, 감독, 조직, 지, 식, 사진, 표현하다, 이상하다, 얘기하다, 발생하다. . . . ."
+  },
+  "topik-5-u4": {
+    "lang": "ko-KR",
+    "title": "TOPIK 5 · Bloque 4",
+    "text": "어쩌다, 사랑하다, 실시하다, 셈, 존재하다, 유지하다, 이데올로기, 공부하다, 만, 아니. . . . ."
+  },
+  "topik-6-u1": {
+    "lang": "ko-KR",
+    "title": "TOPIK 6 · Bloque 1",
+    "text": "철, 타락, 통화, 회관, 계획하다, 낱말, 내외, 늑대, 다정하다, 망원경. . . . ."
+  },
+  "topik-6-u2": {
+    "lang": "ko-KR",
+    "title": "TOPIK 6 · Bloque 2",
+    "text": "무리하다, 방해하다, 뵈다, 석, 선명하다, 선호하다, 실현되다, 아니야, 왕자, 우수하다. . . . ."
+  },
+  "topik-6-u3": {
+    "lang": "ko-KR",
+    "title": "TOPIK 6 · Bloque 3",
+    "text": "으레, 전공하다, 질적, 척, 청소하다, 치아, 판, 가까워지다, 감사하다, 기대되다. . . . ."
+  },
+  "topik-6-u4": {
+    "lang": "ko-KR",
+    "title": "TOPIK 6 · Bloque 4",
+    "text": "깊숙이, 농사짓다, 대체, 마크, 모금, 발전되다, 방지하다, 삼가다, 소홀히, 안내하다. . . . ."
   }
 }
